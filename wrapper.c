@@ -248,14 +248,15 @@ void SendSerialData(ExtY_EKF_IFS_2_T *data)
 
 	/*/ 6 rc input values and vt ARE MEASURED ON THE ARDUINO - WE NEED THEM */
 	/* GET 4 BYTES - PER INPUT VALUE */
-	
+  	
 	for (i=0; i<4; i++)
 	{
-		if (read(input_buf,&c,1)>0){ 
-		    write(tty_fd,&c,1); /*/ if new data is available on the serial port, print it out */	
-		   /* write(input_buf[i],&c,1);*/
+    c=input_buf[i];
+		 
+		while (write(tty_fd,&c,1)>0)/*/ if new data is available on the serial port, print it out */	
+		   printf("\n data is being sent");
 		}	
-	}
+	
 	
 	
 }
