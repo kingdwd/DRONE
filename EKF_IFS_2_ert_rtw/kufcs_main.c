@@ -93,8 +93,10 @@ int main(int argc, char *argv[])
 	EKF_IFS_2_initialize();
 
 	/* Initialize hardware */
-	InitIMU();
-	
+	InitIMU(); /* vectornav */
+
+	InitSerial(); /* arduino */
+
 	clock_gettime(CLOCK_REALTIME, &start);
 	iter =  0;
 	while (1) {
@@ -103,9 +105,15 @@ int main(int argc, char *argv[])
 
 		/* Get sensor data */
 		GetIMUData(&EKF_IFS_2_U);
+		
+		/* Get Arduino Data */
+		GetSerialData(&EKF_IFS_2_U); 
 
 		/* Step the model */
 		EKF_IFS_2_step();
+
+		/* Output to the motor controller */
+		SendSerialData(&EKF_IFS_2_Y); 
 
 		/* Time book keeping */
 		clock_gettime(CLOCK_REALTIME, &end);
@@ -136,6 +144,6 @@ int main(int argc, char *argv[])
 
 	/* Close hardware */
 	CloseIMU();
-
+	CloseSerial();
 	return 0;
 }
