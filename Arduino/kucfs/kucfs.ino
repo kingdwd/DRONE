@@ -83,7 +83,6 @@ int ThrottleCommand;
 int ElevatorCommand;
 int AileronCommand;
 int RudderCommand;
-
 // 
 
 
@@ -122,6 +121,8 @@ void loop() {unsigned long start=micros();
       getSensorInput();
     } else if (str == "OUTPUT") {
       getAutopilotControlCommand();
+    } else if (str == "VERIFY") {
+      verify();
     }
   }  
   // SAFETY CHECK for a kill signal even if autopilot is in control!!
@@ -274,7 +275,8 @@ void getSensorInput()
   ch9 = analogRead(chI);
   
   /* TBD: use actual data */
-  sprintf(buf, "10 20 30 40 50 60 70");
+  sprintf(buf, "%d %d %d %d %d %d %d", ch1_duty_cycle, ch2_duty_cycle, ch3_duty_cycle, 
+        ch4_duty_cycle, ch5_duty_cycle, ch6_duty_cycle, ch9);
   Serial.println(buf);
 }
 
@@ -286,16 +288,20 @@ int percent(int in)
 }
 
 void getAutopilotControlCommand()
-{
+{ 
+  
   throttleIN = Serial.parseInt();
   elevatorIN = Serial.parseInt();
   aileronIN = Serial.parseInt();
-  rudderIN = Serial.parseInt();
-  if (Serial.read() == '\n') {
-    /* correctly received data */
-  }
+  rudderIN = Serial.parseInt(); 
 }
-
+void verify()
+{
+    char buf1[128];
+    sprintf(buf1,"%d %d %d %d",throttleIN,elevatorIN,aileronIN,rudderIN);
+    Serial.println(buf1);
+    
+}
 int doKill()
 {
   // NOTE change 0 to kill signal threshold pulse width
