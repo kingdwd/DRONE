@@ -18,7 +18,7 @@
 #include <unistd.h> 
 #include <fcntl.h> 
 #include <assert.h>
-#include "EKF_IFS_2.h"
+#include "../EKF_IFS_2.h"
 #include "vectornav.h"
 #include <errno.h>
 #include <termios.h>
@@ -26,8 +26,9 @@
 /**************************************************************************
  * Public Definitions
  **************************************************************************/
-#define VECTORNAV_COM "/dev/ttyUSB0"
-#define VN_BAUDRATE B9600    /*rate for IMU*/
+const char* const COM_PORT = "//dev//ttyUSB0";
+const int VN_BAUDRATE = 9600;
+
 
 #define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
@@ -53,15 +54,16 @@ int g_debug_level = 1;
 void InitIMU(void)
 {
 	VN_ERROR_CODE errorCode;
-	errorCode = vn200_connect(&vn200, VECTORNAV_COM, VN_BAUDRATE);
+	errorCode = vn200_connect(&vn200, COM_PORT, VN_BAUDRATE);
 
 	/* Make sure the user has permission to use the COM port. */
 	if (errorCode == VNERR_PERMISSION_DENIED) {
 		printf("Current user does not have permission to open the COM port.\n");
 		printf("Try running again using 'sudo'.\n");
 	} else if (errorCode != VNERR_NO_ERROR) {
-		printf("Error encountered when trying to connect to the sensor.\n");
+		printf("%d Error encountered when trying to connect to the sensor.\n",errorCode);
 	}
+        printf("%d\n",errorCode);
 }
 
 void GetIMUData(ExtU_EKF_IFS_2_T *data)
@@ -70,7 +72,7 @@ void GetIMUData(ExtU_EKF_IFS_2_T *data)
 	unsigned short gpsWeek, status;
 	VnVector3 ypr, latitudeLognitudeAltitude, nedVelocity;
 	float attitudeUncertainty, positionUncertainty, velocityUncertainty;
-
+    
 	vn200_getInsSolutionLla(
 		&vn200,
 		&gpsTime,
@@ -82,6 +84,7 @@ void GetIMUData(ExtU_EKF_IFS_2_T *data)
 		&attitudeUncertainty,
 		&positionUncertainty,
 		&velocityUncertainty);
+        printf("ypr: %f %f %f\n", ypr.c0, ypr.c1, ypr.c2);
 
 	data->GPSPosition.Latitude = latitudeLognitudeAltitude.c0;
 	data->GPSPosition.Longitude = latitudeLognitudeAltitude.c1;
@@ -126,7 +129,7 @@ void InitSerial()
 	/* handshake */
 	char buf[BUF_SIZE];
 	WriteLine(tty_fd, "INIT\n");
-	ReadLine(tty_fd, buf);
+	while(!ReadLine(tty_fd, buf));
 	PDEBUG(0, "Recv %s", buf);
 }
 
@@ -147,20 +150,20 @@ int WriteLine(int fd, char *buf)
 	int tmp;
 	tmp = write(tty_fd, buf, len);
 	PDEBUG(0, "Send %s", buf);
-	assert(tmp == len);
-	return tmp;
+  assert(tmp == len);
+  return tmp;
 }
 
 int ReadLine(int fd, char *buf)
 {
-	int recv = 0;
+	int recv = 0,check=0;
 	int tmp = 0; 
-	while (read(fd, buf + recv, 1)) {
+	while (check=read(fd, buf + recv, 1)) {
 		recv++;
 		if (buf[recv-1] == '\n')
 			break;
 	}
-	return recv;
+	return --recv;
 }
 
 void GetSerialData(ExtU_EKF_IFS_2_T *data)
@@ -169,7 +172,16 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 	char buf[BUF_SIZE];
 
 	WriteLine(tty_fd, "GETRC\n");
-	ReadLine(tty_fd, buf);
+        
+	while(!ReadLine(tty_fd, buf));
+         sscanf(buf, "%d %d %f %f %f %f %d", 
+		&data->PICCIC, 
+		&data->HomeCmd,
+		&data->ServoCommands.throttle_cmd, /* float? */
+		&data->ServoCommands.elevator_cmd,  /*float? */
+		&data->ServoCommands.aileron_cmd,  /* float? */
+		&data->ServoCommands.rudder_cmd,   /* float? */
+		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
 
 	/* 6 RC values:
@@ -185,7 +197,7 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 void SendSerialData(ExtY_EKF_IFS_2_T *data)
 {
 	int ret;
-	char buf[BUF_SIZE];
+	char buf[BUF_SIZE],buf1[BUF_SIZE];
 	/* 
 	   this function is to send the control command output 
 	   to the Arduino for output to the control surfaces 
@@ -197,12 +209,78 @@ void SendSerialData(ExtY_EKF_IFS_2_T *data)
 	   ch[2] = (int16_t)data->ControlSurfaceCommands.aileron_cmd;
 	   ch[3] = (int16_t)data->ControlSurfaceCommands.rudder_cmd;
 	*/
-
+       
+        sprintf(buf, "%f %f %f %f\n", 
+		data->ControlSurfaceCommands.throttle_cmd, 
+		data->ControlSurfaceCommands.elevator_cmd,
+		data->ControlSurfaceCommands.aileron_cmd, 
+		data->ControlSurfaceCommands.rudder_cmd);
 	WriteLine(tty_fd, "OUTPUT\n");
-	WriteLine(tty_fd, "1 2 3 4\n");
+	WriteLine(tty_fd, buf);
+        WriteLine(tty_fd, "VERIFY\n");
+        while(!ReadLine(tty_fd, buf1));
+	PDEBUG(0, "%s", buf1);
+
 }
 
 void CloseSerial()
 {
 	close(tty_fd); 
 }
+void InitMovingWaypoints(ExtU_EKF_IFS_2_T *data)
+{
+	int i;
+	for(i=0; i<22; i++)
+	{
+		data->n_op[i] = 0;
+		data->e_op[i] = 0;
+		data->h_op[i] = 0;
+		data->vn_op[i] = 0;
+		data->ve_op[i] = 0;
+		data->vh_op[i] = 0;
+	}
+}
+
+void InitStaticWaypoints(ExtU_EKF_IFS_2_T *data)
+{
+	/* eventually we might want the user (on ground station) to be prompted to 
+	choose options: 1. a set of predefined waypoint tracks	
+	2. user defined waypoint track where they enter the data by hand
+	3. modify waypoint track where they load a pre-defined track then 
+	manually adjust a subset of those */
+
+	data->WaypointsIN.ref_lat = 0;
+	data->WaypointsIN.ref_lon = 0;
+	data->WaypointsIN.ref_alt = 500;/*500 feet*/
+	data->WaypointsIN.fp = 0;
+	data->WaypointsIN.rp = 0;
+	/* there is space for 32 waypoints */
+	data->WaypointsIN.h[0] = 500;
+	data->WaypointsIN.n[0] = 0;
+	data->WaypointsIN.v[0] = 0;
+	data->WaypointsIN.cmd[0] = 0;
+	/*params - 256*/
+	data->WaypointsIN.params[0] = 0;
+	data->WaypointsIN.fact_lat = 0;
+	data->WaypointsIN.fact_lon = 0;	
+}
+
+void InitOther(ExtU_EKF_IFS_2_T *data)
+{
+	data->State_outputfeedbackselection = 0;
+	data->EnableDisable = 1;
+	data->Servodeflection[0] = 0;
+	data->Servodeflection[1] = 0;
+	data->Servodeflection[2] = 0;
+	data->Servodeflection[3] = 0;
+}
+void GetOther(ExtU_EKF_IFS_2_T *data)
+{
+	data->State_outputfeedbackselection = 0;
+	data->EnableDisable = 1;
+	data->Servodeflection[0] = 0;
+	data->Servodeflection[1] = 0;
+	data->Servodeflection[2] = 0;
+}
+
+
