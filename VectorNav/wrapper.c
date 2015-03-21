@@ -26,8 +26,9 @@
 /**************************************************************************
  * Public Definitions
  **************************************************************************/
-#define VECTORNAV_COM "/dev/ttyUSB0"
-#define VN_BAUDRATE B9600    /*rate for IMU*/
+const char* const COM_PORT = "//dev//ttyUSB0";
+const int VN_BAUDRATE = 9600;
+
 
 #define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
@@ -53,7 +54,7 @@ int g_debug_level = 1;
 void InitIMU(void)
 {
 	VN_ERROR_CODE errorCode;
-	errorCode = vn200_connect(&vn200, VECTORNAV_COM, VN_BAUDRATE);
+	errorCode = vn200_connect(&vn200, COM_PORT, VN_BAUDRATE);
 
 	/* Make sure the user has permission to use the COM port. */
 	if (errorCode == VNERR_PERMISSION_DENIED) {
@@ -147,8 +148,8 @@ int WriteLine(int fd, char *buf)
 	int tmp;
 	tmp = write(tty_fd, buf, len);
 	PDEBUG(0, "Send %s", buf);
-  assert(tmp == len);
-  return tmp;
+      	assert(tmp == len);
+  	return tmp;
 }
 
 int ReadLine(int fd, char *buf)

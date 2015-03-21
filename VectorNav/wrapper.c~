@@ -18,7 +18,7 @@
 #include <unistd.h> 
 #include <fcntl.h> 
 #include <assert.h>
-#include "EKF_IFS_2.h"
+#include "../EKF_IFS_2.h"
 #include "vectornav.h"
 #include <errno.h>
 #include <termios.h>
@@ -147,20 +147,20 @@ int WriteLine(int fd, char *buf)
 	int tmp;
 	tmp = write(tty_fd, buf, len);
 	PDEBUG(0, "Send %s", buf);
-	assert(tmp == len);
-	return tmp;
+  assert(tmp == len);
+  return tmp;
 }
 
 int ReadLine(int fd, char *buf)
 {
-	int recv = 0;
+	int recv = 0,check=0;
 	int tmp = 0; 
-	while (read(fd, buf + recv, 1)) {
+	while (check=read(fd, buf + recv, 1)) {
 		recv++;
 		if (buf[recv-1] == '\n')
 			break;
 	}
-	return recv;
+	return --recv;
 }
 
 void GetSerialData(ExtU_EKF_IFS_2_T *data)
@@ -169,7 +169,16 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 	char buf[BUF_SIZE];
 
 	WriteLine(tty_fd, "GETRC\n");
-	ReadLine(tty_fd, buf);
+        
+	while(!ReadLine(tty_fd, buf));
+         sscanf(buf, "%d %d %f %f %f %f %d", 
+		&data->PICCIC, 
+		&data->HomeCmd,
+		&data->ServoCommands.throttle_cmd, /* float? */
+		&data->ServoCommands.elevator_cmd,  /*float? */
+		&data->ServoCommands.aileron_cmd,  /* float? */
+		&data->ServoCommands.rudder_cmd,   /* float? */
+		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
 
 	/* 6 RC values:
@@ -185,7 +194,7 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 void SendSerialData(ExtY_EKF_IFS_2_T *data)
 {
 	int ret;
-	char buf[BUF_SIZE];
+	char buf[BUF_SIZE],buf1[BUF_SIZE];
 	/* 
 	   this function is to send the control command output 
 	   to the Arduino for output to the control surfaces 
@@ -197,9 +206,18 @@ void SendSerialData(ExtY_EKF_IFS_2_T *data)
 	   ch[2] = (int16_t)data->ControlSurfaceCommands.aileron_cmd;
 	   ch[3] = (int16_t)data->ControlSurfaceCommands.rudder_cmd;
 	*/
-
+       
+        sprintf(buf, "%f %f %f 1\n", 
+		data->ControlSurfaceCommands.throttle_cmd, 
+		data->ControlSurfaceCommands.elevator_cmd,
+		data->ControlSurfaceCommands.aileron_cmd); 
+		//data->ControlSurfaceCommands.rudder_cmd);
 	WriteLine(tty_fd, "OUTPUT\n");
-	WriteLine(tty_fd, "1 2 3 4\n");
+	WriteLine(tty_fd, buf);
+        WriteLine(tty_fd, "VERIFY\n");
+        while(!ReadLine(tty_fd, buf1));
+	PDEBUG(0, "%s", buf1);
+
 }
 
 void CloseSerial()
