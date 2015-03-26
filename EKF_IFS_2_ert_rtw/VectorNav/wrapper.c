@@ -27,10 +27,10 @@
  * Public Definitions
  **************************************************************************/
 const char* const COM_PORT = "//dev//ttyUSB0";
-const int VN_BAUDRATE = 9600;
+const int VN_BAUDRATE = 115200;
 
 
-#define ARDUINO_COM "/dev/ttyACM1"
+#define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
 
 #define PDEBUG(lvl, fmt, ...)						\
