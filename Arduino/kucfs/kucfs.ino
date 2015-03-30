@@ -84,7 +84,6 @@ int ElevatorCommand;
 int AileronCommand;
 int RudderCommand;
 // 
-int j=1;
 
 // the setup routine runs once when you press reset:
 void setup() {
@@ -112,8 +111,6 @@ void setup() {
 
 //Main Program
 void loop() {unsigned long start=micros();
-  if(j==1)Serial.println("DONE");
-  j=0;
   if (Serial.available() > 0) {
     String str = Serial.readStringUntil('\n');
     if (str == "INIT") {
