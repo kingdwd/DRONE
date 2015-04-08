@@ -1,0 +1,1684 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALL_OBJS	EKF_IFS_2.mk	/^ALL_OBJS = $(OBJS) $(MAIN_OBJ)$/;"	m
+ALL_OBJS	makefile	/^ALL_OBJS = $(OBJS) $(MAIN_OBJ)$/;"	m
+ALL_SRCS	EKF_IFS_2.mk	/^ALL_SRCS = $(SRCS) $(MAIN_SRC)$/;"	m
+ALL_SRCS	makefile	/^ALL_SRCS = $(SRCS) $(MAIN_SRC)$/;"	m
+ANSI_OPTS	EKF_IFS_2.mk	/^ANSI_OPTS                 = -pedantic -Wno-long-long -fwrapv$/;"	m
+ANSI_OPTS	makefile	/^ANSI_OPTS                 = -pedantic -Wno-long-long -fwrapv$/;"	m
+ANY_ZERO_CROSSING	rtwtypes.h	/^  ANY_ZERO_CROSSING = 0,$/;"	e	enum:__anon53
+AR	EKF_IFS_2.mk	/^AR = ar$/;"	m
+AR	makefile	/^AR = ar$/;"	m
+ARCH	EKF_IFS_2.mk	/^ARCH                      = glnxa64$/;"	m
+ARCH	makefile	/^ARCH                      = glnxa64$/;"	m
+ARDEBUG	EKF_IFS_2.mk	/^ARDEBUG             =$/;"	m
+ARDEBUG	makefile	/^ARDEBUG             =$/;"	m
+ARDUINO_COM	VectorNav/wrapper.c	33;"	d	file:
+ARFLAGS	EKF_IFS_2.mk	/^ARFLAGS              = ruvs$/;"	m
+ARFLAGS	makefile	/^ARFLAGS              = ruvs$/;"	m
+AR_BAUDRATE	VectorNav/wrapper.c	34;"	d	file:
+ASCII_FIRST_END_CHAR	VectorNav/vndevice.c	45;"	d	file:
+ASCII_RECEIVE_BUFFER_SIZE	VectorNav/vndevice.c	39;"	d	file:
+ASCII_SECOND_END_CHAR	VectorNav/vndevice.c	46;"	d	file:
+ASCII_START_CHAR	VectorNav/vndevice.c	44;"	d	file:
+A_W1	EKF_IFS_2.h	/^  real_T A_W1[16];                     \/* Variable: A_W1$/;"	m	struct:P_EKF_IFS_2_T_
+A_W3	EKF_IFS_2.h	/^  real_T A_W3[16];                     \/* Variable: A_W3$/;"	m	struct:P_EKF_IFS_2_T_
+Aaileron	EKF_IFS_2.h	/^  real_T Aaileron;                     \/* Variable: Aaileron$/;"	m	struct:P_EKF_IFS_2_T_
+Accelerometer	EKF_IFS_2_types.h	/^} Accelerometer;$/;"	t	typeref:struct:__anon20
+Accelerometermeas	EKF_IFS_2.h	/^  Accelerometer Accelerometermeas;     \/* '<Root>\/Accelerometer meas' *\/$/;"	m	struct:__anon36
+Aelevator	EKF_IFS_2.h	/^  real_T Aelevator;                    \/* Variable: Aelevator$/;"	m	struct:P_EKF_IFS_2_T_
+Aileron	EKF_IFS_2_types.h	/^  real_T Aileron;$/;"	m	struct:__anon27
+AileronMax	EKF_IFS_2.h	/^  real_T AileronMax;                   \/* Variable: AileronMax$/;"	m	struct:P_EKF_IFS_2_T_
+AileronMin	EKF_IFS_2.h	/^  real_T AileronMin;                   \/* Variable: AileronMin$/;"	m	struct:P_EKF_IFS_2_T_
+AinvMatrix_Value	EKF_IFS_2.h	/^  real_T AinvMatrix_Value[576];        \/* Expression: Kd_inv.a$/;"	m	struct:P_EKF_IFS_2_T_
+Altitude	EKF_IFS_2_types.h	/^  real_T Altitude;$/;"	m	struct:__anon15
+Arudder	EKF_IFS_2.h	/^  real_T Arudder;                      \/* Variable: Arudder$/;"	m	struct:P_EKF_IFS_2_T_
+Athrottle	EKF_IFS_2.h	/^  real_T Athrottle;                    \/* Variable: Athrottle$/;"	m	struct:P_EKF_IFS_2_T_
+Axb	EKF_IFS_2_types.h	/^  real_T Axb;$/;"	m	struct:__anon20
+Ayb	EKF_IFS_2_types.h	/^  real_T Ayb;$/;"	m	struct:__anon20
+Azb	EKF_IFS_2_types.h	/^  real_T Azb;$/;"	m	struct:__anon20
+BAUD_RATE	VectorNav/vn200_linux_basic.c	/^const int BAUD_RATE = 115200;$/;"	v
+BG1_ACCEL	VectorNav/vndevice.h	124;"	d
+BG1_ANGULAR_RATE	VectorNav/vndevice.h	121;"	d
+BG1_DELTA_THETA	VectorNav/vndevice.h	127;"	d
+BG1_IMU	VectorNav/vndevice.h	125;"	d
+BG1_INS_STATUS	VectorNav/vndevice.h	128;"	d
+BG1_MAG_PRES	VectorNav/vndevice.h	126;"	d
+BG1_NONE	VectorNav/vndevice.h	115;"	d
+BG1_POSITION	VectorNav/vndevice.h	122;"	d
+BG1_QTN	VectorNav/vndevice.h	120;"	d
+BG1_SYNC_IN_CNT	VectorNav/vndevice.h	129;"	d
+BG1_TIME_GPS	VectorNav/vndevice.h	117;"	d
+BG1_TIME_STARTUP	VectorNav/vndevice.h	116;"	d
+BG1_TIME_SYNC_IN	VectorNav/vndevice.h	118;"	d
+BG1_VELOCITY	VectorNav/vndevice.h	123;"	d
+BG1_YPR	VectorNav/vndevice.h	119;"	d
+BG2_GPS_TOW	VectorNav/vndevice.h	140;"	d
+BG2_GPS_WEEK	VectorNav/vndevice.h	141;"	d
+BG2_NONE	VectorNav/vndevice.h	137;"	d
+BG2_SYNC_IN_CNT	VectorNav/vndevice.h	145;"	d
+BG2_TIME_GPS	VectorNav/vndevice.h	139;"	d
+BG2_TIME_PPS	VectorNav/vndevice.h	143;"	d
+BG2_TIME_STARTUP	VectorNav/vndevice.h	138;"	d
+BG2_TIME_SYNC_IN	VectorNav/vndevice.h	142;"	d
+BG2_TIME_UTC	VectorNav/vndevice.h	144;"	d
+BG3_ACCEL	VectorNav/vndevice.h	162;"	d
+BG3_DELTA_THETA	VectorNav/vndevice.h	159;"	d
+BG3_DELTA_V	VectorNav/vndevice.h	160;"	d
+BG3_GYRO	VectorNav/vndevice.h	163;"	d
+BG3_MAG	VectorNav/vndevice.h	161;"	d
+BG3_NONE	VectorNav/vndevice.h	153;"	d
+BG3_PRES	VectorNav/vndevice.h	158;"	d
+BG3_SENS_SAT	VectorNav/vndevice.h	164;"	d
+BG3_TEMP	VectorNav/vndevice.h	157;"	d
+BG3_UNCOMP_ACCEL	VectorNav/vndevice.h	155;"	d
+BG3_UNCOMP_GYRO	VectorNav/vndevice.h	156;"	d
+BG3_UNCOMP_MAG	VectorNav/vndevice.h	154;"	d
+BG4_FIX	VectorNav/vndevice.h	177;"	d
+BG4_NONE	VectorNav/vndevice.h	172;"	d
+BG4_NUM_SATS	VectorNav/vndevice.h	176;"	d
+BG4_POS_ECEF	VectorNav/vndevice.h	179;"	d
+BG4_POS_LLA	VectorNav/vndevice.h	178;"	d
+BG4_POS_U	VectorNav/vndevice.h	182;"	d
+BG4_TIME_U	VectorNav/vndevice.h	184;"	d
+BG4_TOW	VectorNav/vndevice.h	174;"	d
+BG4_UTC	VectorNav/vndevice.h	173;"	d
+BG4_VEL_ECEF	VectorNav/vndevice.h	181;"	d
+BG4_VEL_NED	VectorNav/vndevice.h	180;"	d
+BG4_VEL_U	VectorNav/vndevice.h	183;"	d
+BG4_WEEK	VectorNav/vndevice.h	175;"	d
+BG5_ACCEL_NED	VectorNav/vndevice.h	198;"	d
+BG5_DCM	VectorNav/vndevice.h	196;"	d
+BG5_LINEAR_ACCEL_BODY	VectorNav/vndevice.h	199;"	d
+BG5_LINEAR_ACCEL_NED	VectorNav/vndevice.h	200;"	d
+BG5_MAG_NED	VectorNav/vndevice.h	197;"	d
+BG5_NONE	VectorNav/vndevice.h	192;"	d
+BG5_QUATERNION	VectorNav/vndevice.h	195;"	d
+BG5_VPE_STATUS	VectorNav/vndevice.h	193;"	d
+BG5_YPR	VectorNav/vndevice.h	194;"	d
+BG5_YPR_U	VectorNav/vndevice.h	201;"	d
+BG6_ACCEL_ECEF	VectorNav/vndevice.h	217;"	d
+BG6_INS_STATUS	VectorNav/vndevice.h	210;"	d
+BG6_LINEAR_ACCEL_ECEF	VectorNav/vndevice.h	218;"	d
+BG6_MAG_ECEF	VectorNav/vndevice.h	216;"	d
+BG6_NONE	VectorNav/vndevice.h	209;"	d
+BG6_POS_ECEF	VectorNav/vndevice.h	212;"	d
+BG6_POS_LLA	VectorNav/vndevice.h	211;"	d
+BG6_POS_U	VectorNav/vndevice.h	219;"	d
+BG6_VEL_BODY	VectorNav/vndevice.h	213;"	d
+BG6_VEL_ECEF	VectorNav/vndevice.h	215;"	d
+BG6_VEL_NED	VectorNav/vndevice.h	214;"	d
+BG6_VEL_U	VectorNav/vndevice.h	220;"	d
+BINARY_ASYNC_MODE_NONE	VectorNav/vndevice.h	104;"	d
+BINARY_ASYNC_MODE_SERIAL_1	VectorNav/vndevice.h	105;"	d
+BINARY_ASYNC_MODE_SERIAL_1_AND_2	VectorNav/vndevice.h	107;"	d
+BINARY_ASYNC_MODE_SERIAL_2	VectorNav/vndevice.h	106;"	d
+BINARY_RECEIVE_BUFFER_SIZE	VectorNav/vndevice.c	40;"	d	file:
+BINARY_START_CHAR	VectorNav/vndevice.c	47;"	d	file:
+BUF_SIZE	VectorNav/wrapper.c	39;"	d	file:
+BUILD_TYPE	EKF_IFS_2.mk	/^BUILD_TYPE = "Top-Level Standalone Executable"$/;"	m
+BUILD_TYPE	makefile	/^BUILD_TYPE = "Top-Level Standalone Executable"$/;"	m
+B_ConvertLatLonAlttoFlatEarth_T	EKF_IFS_2.h	/^} B_ConvertLatLonAlttoFlatEarth_T;$/;"	t	typeref:struct:__anon29
+B_EKF_IFS_2_T	EKF_IFS_2.h	/^} B_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon34
+B_Subsystem1_EKF_IFS_2_T	EKF_IFS_2.h	/^} B_Subsystem1_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon30
+B_Subsystem1_EKF_IFS_2_l_T	EKF_IFS_2.h	/^} B_Subsystem1_EKF_IFS_2_l_T;$/;"	t	typeref:struct:__anon32
+B_Subsystem4_EKF_IFS_2_T	EKF_IFS_2.h	/^} B_Subsystem4_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon31
+B_Subsystem4_EKF_IFS_2_e_T	EKF_IFS_2.h	/^} B_Subsystem4_EKF_IFS_2_e_T;$/;"	t	typeref:struct:__anon33
+B_W1	EKF_IFS_2.h	/^  real_T B_W1[16];                     \/* Variable: B_W1$/;"	m	struct:P_EKF_IFS_2_T_
+B_W3	EKF_IFS_2.h	/^  real_T B_W3[16];                     \/* Variable: B_W3$/;"	m	struct:P_EKF_IFS_2_T_
+Baileron	EKF_IFS_2.h	/^  real_T Baileron;                     \/* Variable: Baileron$/;"	m	struct:P_EKF_IFS_2_T_
+Belevator	EKF_IFS_2.h	/^  real_T Belevator;                    \/* Variable: Belevator$/;"	m	struct:P_EKF_IFS_2_T_
+Betacommand_Value	EKF_IFS_2.h	/^  real_T Betacommand_Value;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+BigEndianIEEEDouble	rt_nonfinite.h	/^} BigEndianIEEEDouble;$/;"	t	typeref:struct:__anon38
+BinaryPacketGroupLengths	VectorNav/vndevice.c	/^const unsigned char BinaryPacketGroupLengths[6][16] = {$/;"	v
+BinvMatrix_Value	EKF_IFS_2.h	/^  real_T BinvMatrix_Value[96];         \/* Expression: Kd_inv.b$/;"	m	struct:P_EKF_IFS_2_T_
+BodyRatesmeas	EKF_IFS_2.h	/^  INS_rates_bus BodyRatesmeas;         \/* '<Root>\/Body Rates meas' *\/$/;"	m	struct:__anon36
+Brudder	EKF_IFS_2.h	/^  real_T Brudder;                      \/* Variable: Brudder$/;"	m	struct:P_EKF_IFS_2_T_
+Bthrottle	EKF_IFS_2.h	/^  real_T Bthrottle;                    \/* Variable: Bthrottle$/;"	m	struct:P_EKF_IFS_2_T_
+C99	VectorNav/vncp_services.h	68;"	d
+CC	EKF_IFS_2.mk	/^CC = gcc$/;"	m
+CC	makefile	/^CC = gcc$/;"	m
+CD0	EKF_IFS_2.h	/^  real_T CD0;                          \/* Variable: CD0$/;"	m	struct:P_EKF_IFS_2_T_
+CD0_bar	EKF_IFS_2.h	/^  real_T CD0_bar;                      \/* Variable: CD0_bar$/;"	m	struct:P_EKF_IFS_2_T_
+CD1	EKF_IFS_2.h	/^  real_T CD1;                          \/* Variable: CD1$/;"	m	struct:P_EKF_IFS_2_T_
+CDEBUG	EKF_IFS_2.mk	/^CDEBUG              = -g$/;"	m
+CDEBUG	makefile	/^CDEBUG              = -g$/;"	m
+CDa	EKF_IFS_2.h	/^  real_T CDa;                          \/* Variable: CDa$/;"	m	struct:P_EKF_IFS_2_T_
+CDadot	EKF_IFS_2.h	/^  real_T CDadot;                       \/* Variable: CDadot$/;"	m	struct:P_EKF_IFS_2_T_
+CDde	EKF_IFS_2.h	/^  real_T CDde;                         \/* Variable: CDde$/;"	m	struct:P_EKF_IFS_2_T_
+CDq	EKF_IFS_2.h	/^  real_T CDq;                          \/* Variable: CDq$/;"	m	struct:P_EKF_IFS_2_T_
+CDu	EKF_IFS_2.h	/^  real_T CDu;                          \/* Variable: CDu$/;"	m	struct:P_EKF_IFS_2_T_
+CFLAGS	EKF_IFS_2.mk	/^CFLAGS               = -c $(ANSI_OPTS) -fPIC \\$/;"	m
+CFLAGS	makefile	/^CFLAGS               = -c $(ANSI_OPTS) -fPIC \\$/;"	m
+CFLAGS_BASIC	EKF_IFS_2.mk	/^CFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+CFLAGS_BASIC	makefile	/^CFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+CINT16_T	rtwtypes.h	108;"	d
+CINT32_T	rtwtypes.h	122;"	d
+CINT8_T	rtwtypes.h	94;"	d
+CL0	EKF_IFS_2.h	/^  real_T CL0;                          \/* Variable: CL0$/;"	m	struct:P_EKF_IFS_2_T_
+CL1	EKF_IFS_2.h	/^  real_T CL1;                          \/* Variable: CL1$/;"	m	struct:P_EKF_IFS_2_T_
+CLASSIC_INTERFACE	EKF_IFS_2.mk	/^CLASSIC_INTERFACE         = 0$/;"	m
+CLASSIC_INTERFACE	makefile	/^CLASSIC_INTERFACE         = 0$/;"	m
+CLa	EKF_IFS_2.h	/^  real_T CLa;                          \/* Variable: CLa$/;"	m	struct:P_EKF_IFS_2_T_
+CLadot	EKF_IFS_2.h	/^  real_T CLadot;                       \/* Variable: CLadot$/;"	m	struct:P_EKF_IFS_2_T_
+CLde	EKF_IFS_2.h	/^  real_T CLde;                         \/* Variable: CLde$/;"	m	struct:P_EKF_IFS_2_T_
+CLq	EKF_IFS_2.h	/^  real_T CLq;                          \/* Variable: CLq$/;"	m	struct:P_EKF_IFS_2_T_
+CLu	EKF_IFS_2.h	/^  real_T CLu;                          \/* Variable: CLu$/;"	m	struct:P_EKF_IFS_2_T_
+COMPUTER	EKF_IFS_2.mk	/^COMPUTER                  = GLNXA64$/;"	m
+COMPUTER	makefile	/^COMPUTER                  = GLNXA64$/;"	m
+COM_PORT	VectorNav/vn200_linux_basic.c	/^const char* const COM_PORT = "\/\/dev\/\/ttyS1";$/;"	v
+COM_PORT	VectorNav/wrapper.c	/^const char* const COM_PORT = "\/\/dev\/\/ttyUSB0";$/;"	v
+CPP	EKF_IFS_2.mk	/^CPP = g++$/;"	m
+CPP	makefile	/^CPP = g++$/;"	m
+CPPDEBUG	EKF_IFS_2.mk	/^CPPDEBUG            = -g$/;"	m
+CPPDEBUG	makefile	/^CPPDEBUG            = -g$/;"	m
+CPPFLAGS	EKF_IFS_2.mk	/^CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \\$/;"	m
+CPPFLAGS	makefile	/^CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \\$/;"	m
+CPPFLAGS_BASIC	EKF_IFS_2.mk	/^CPPFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+CPPFLAGS_BASIC	makefile	/^CPPFLAGS_BASIC = $(DEFINES) $(INCLUDES)$/;"	m
+CPPLDDEBUG	EKF_IFS_2.mk	/^CPPLDDEBUG          = -g$/;"	m
+CPPLDDEBUG	makefile	/^CPPLDDEBUG          = -g$/;"	m
+CPP_ANSI_OPTS	EKF_IFS_2.mk	/^CPP_ANSI_OPTS             = -std=c++98 -pedantic -Wno-long-long -fwrapv$/;"	m
+CPP_ANSI_OPTS	makefile	/^CPP_ANSI_OPTS             = -std=c++98 -pedantic -Wno-long-long -fwrapv$/;"	m
+CPP_EXT	EKF_IFS_2.mk	/^CPP_EXT             = .cpp$/;"	m
+CPP_EXT	makefile	/^CPP_EXT             = .cpp$/;"	m
+CPP_LD	EKF_IFS_2.mk	/^CPP_LD = g++$/;"	m
+CPP_LD	makefile	/^CPP_LD = g++$/;"	m
+CPP_LDFLAGS	EKF_IFS_2.mk	/^CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+CPP_LDFLAGS	makefile	/^CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+CPP_OUTPUT_FLAG	EKF_IFS_2.mk	/^CPP_OUTPUT_FLAG     = -o$/;"	m
+CPP_OUTPUT_FLAG	makefile	/^CPP_OUTPUT_FLAG     = -o$/;"	m
+CPP_SHAREDLIB_LDFLAGS	EKF_IFS_2.mk	/^CPP_SHAREDLIB_LDFLAGS  = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+CPP_SHAREDLIB_LDFLAGS	makefile	/^CPP_SHAREDLIB_LDFLAGS  = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+CPP_WARN_FLAGS	EKF_IFS_2.mk	/^CPP_WARN_FLAGS     = -Wall -W -Wwrite-strings -Winline -Wpointer-arith -Wcast-align$/;"	m
+CPP_WARN_FLAGS	makefile	/^CPP_WARN_FLAGS     = -Wall -W -Wwrite-strings -Winline -Wpointer-arith -Wcast-align$/;"	m
+CPP_WARN_FLAGS_MAX	EKF_IFS_2.mk	/^CPP_WARN_FLAGS_MAX = $(CPP_WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+CPP_WARN_FLAGS_MAX	makefile	/^CPP_WARN_FLAGS_MAX = $(CPP_WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+CREAL_T	rtwtypes.h	77;"	d
+CUINT16_T	rtwtypes.h	115;"	d
+CUINT32_T	rtwtypes.h	129;"	d
+CUINT8_T	rtwtypes.h	101;"	d
+C_EXT	EKF_IFS_2.mk	/^C_EXT               = .c$/;"	m
+C_EXT	makefile	/^C_EXT               = .c$/;"	m
+C_OUTPUT_FLAG	EKF_IFS_2.mk	/^C_OUTPUT_FLAG       = -o$/;"	m
+C_OUTPUT_FLAG	makefile	/^C_OUTPUT_FLAG       = -o$/;"	m
+Cbar	EKF_IFS_2.h	/^  real_T Cbar;                         \/* Variable: Cbar$/;"	m	struct:P_EKF_IFS_2_T_
+Ch_tilde	EKF_IFS_2.h	/^  real_T Ch_tilde[48];                 \/* Variable: Ch_tilde$/;"	m	struct:P_EKF_IFS_2_T_
+CinvMatrix_Value	EKF_IFS_2.h	/^  real_T CinvMatrix_Value[96];         \/* Expression: Kd_inv.c$/;"	m	struct:P_EKF_IFS_2_T_
+Clb	EKF_IFS_2.h	/^  real_T Clb;                          \/* Variable: Clb$/;"	m	struct:P_EKF_IFS_2_T_
+Clda	EKF_IFS_2.h	/^  real_T Clda;                         \/* Variable: Clda$/;"	m	struct:P_EKF_IFS_2_T_
+Cldr	EKF_IFS_2.h	/^  real_T Cldr;                         \/* Variable: Cldr$/;"	m	struct:P_EKF_IFS_2_T_
+CloseIMU	VectorNav/wrapper.c	/^void CloseIMU()$/;"	f
+CloseSerial	VectorNav/wrapper.c	/^void CloseSerial()$/;"	f
+Clp	EKF_IFS_2.h	/^  real_T Clp;                          \/* Variable: Clp$/;"	m	struct:P_EKF_IFS_2_T_
+Clr	EKF_IFS_2.h	/^  real_T Clr;                          \/* Variable: Clr$/;"	m	struct:P_EKF_IFS_2_T_
+Cm0	EKF_IFS_2.h	/^  real_T Cm0;                          \/* Variable: Cm0$/;"	m	struct:P_EKF_IFS_2_T_
+Cm1	EKF_IFS_2.h	/^  real_T Cm1;                          \/* Variable: Cm1$/;"	m	struct:P_EKF_IFS_2_T_
+Cma	EKF_IFS_2.h	/^  real_T Cma;                          \/* Variable: Cma$/;"	m	struct:P_EKF_IFS_2_T_
+Cmadot	EKF_IFS_2.h	/^  real_T Cmadot;                       \/* Variable: Cmadot$/;"	m	struct:P_EKF_IFS_2_T_
+Cmde	EKF_IFS_2.h	/^  real_T Cmde;                         \/* Variable: Cmde$/;"	m	struct:P_EKF_IFS_2_T_
+Cmq	EKF_IFS_2.h	/^  real_T Cmq;                          \/* Variable: Cmq$/;"	m	struct:P_EKF_IFS_2_T_
+Cmu	EKF_IFS_2.h	/^  real_T Cmu;                          \/* Variable: Cmu$/;"	m	struct:P_EKF_IFS_2_T_
+Cnb	EKF_IFS_2.h	/^  real_T Cnb;                          \/* Variable: Cnb$/;"	m	struct:P_EKF_IFS_2_T_
+Cnda	EKF_IFS_2.h	/^  real_T Cnda;                         \/* Variable: Cnda$/;"	m	struct:P_EKF_IFS_2_T_
+Cndr	EKF_IFS_2.h	/^  real_T Cndr;                         \/* Variable: Cndr$/;"	m	struct:P_EKF_IFS_2_T_
+Cnp	EKF_IFS_2.h	/^  real_T Cnp;                          \/* Variable: Cnp$/;"	m	struct:P_EKF_IFS_2_T_
+Cnr	EKF_IFS_2.h	/^  real_T Cnr;                          \/* Variable: Cnr$/;"	m	struct:P_EKF_IFS_2_T_
+CommandedStates	EKF_IFS_2.h	/^  Guidance_cmd_bus CommandedStates;    \/* '<Root>\/Commanded States' *\/$/;"	m	struct:__anon37
+Constant15_Value	EKF_IFS_2.h	/^  real_T Constant15_Value;             \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_a	EKF_IFS_2.h	/^  real_T Constant15_Value_a;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_aq	EKF_IFS_2.h	/^  real_T Constant15_Value_aq;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_e	EKF_IFS_2.h	/^  real_T Constant15_Value_e;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_er	EKF_IFS_2.h	/^  real_T Constant15_Value_er;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_es	EKF_IFS_2.h	/^  real_T Constant15_Value_es;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_g	EKF_IFS_2.h	/^  real_T Constant15_Value_g;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_g3	EKF_IFS_2.h	/^  real_T Constant15_Value_g3;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_i	EKF_IFS_2.h	/^  real_T Constant15_Value_i;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_i5	EKF_IFS_2.h	/^  real_T Constant15_Value_i5;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_m	EKF_IFS_2.h	/^  real_T Constant15_Value_m;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_mf	EKF_IFS_2.h	/^  real_T Constant15_Value_mf;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_p	EKF_IFS_2.h	/^  real_T Constant15_Value_p;           \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant15_Value_pw	EKF_IFS_2.h	/^  real_T Constant15_Value_pw;          \/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value	EKF_IFS_2.h	/^  real_T Constant_Value;               \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_a	EKF_IFS_2.h	/^  real_T Constant_Value_a;             \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_aw	EKF_IFS_2.h	/^  real_T Constant_Value_aw;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_ay	EKF_IFS_2.h	/^  real_T Constant_Value_ay;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_b	EKF_IFS_2.h	/^  real_T Constant_Value_b;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_b1	EKF_IFS_2.h	/^  real_T Constant_Value_b1;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_c	EKF_IFS_2.h	/^  real_T Constant_Value_c;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_co	EKF_IFS_2.h	/^  real_T Constant_Value_co;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_cr	EKF_IFS_2.h	/^  real_T Constant_Value_cr;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_cx	EKF_IFS_2.h	/^  real_T Constant_Value_cx;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_d	EKF_IFS_2.h	/^  real_T Constant_Value_d;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_d0	EKF_IFS_2.h	/^  real_T Constant_Value_d0;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_dk	EKF_IFS_2.h	/^  real_T Constant_Value_dk;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_e	EKF_IFS_2.h	/^  real_T Constant_Value_e;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_e0	EKF_IFS_2.h	/^  real_T Constant_Value_e0;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_e5	EKF_IFS_2.h	/^  real_T Constant_Value_e5;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_em	EKF_IFS_2.h	/^  real_T Constant_Value_em;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_ew	EKF_IFS_2.h	/^  real_T Constant_Value_ew;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_f	EKF_IFS_2.h	/^  real_T Constant_Value_f;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_fl	EKF_IFS_2.h	/^  real_T Constant_Value_fl;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_fo	EKF_IFS_2.h	/^  real_T Constant_Value_fo[196];       \/* Expression: eye(14)$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_fo2	EKF_IFS_2.h	/^  real_T Constant_Value_fo2;           \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_g	EKF_IFS_2.h	/^  real_T Constant_Value_g;             \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_h	EKF_IFS_2.h	/^  real_T Constant_Value_h;             \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_h4	EKF_IFS_2.h	/^  real_T Constant_Value_h4;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_hm	EKF_IFS_2.h	/^  real_T Constant_Value_hm;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_i	EKF_IFS_2.h	/^  real_T Constant_Value_i;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_if	EKF_IFS_2.h	/^  real_T Constant_Value_if;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_ih	EKF_IFS_2.h	/^  real_T Constant_Value_ih;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_is	EKF_IFS_2.h	/^  real_T Constant_Value_is;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_iu	EKF_IFS_2.h	/^  real_T Constant_Value_iu;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_iu4	EKF_IFS_2.h	/^  real_T Constant_Value_iu4;           \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_j	EKF_IFS_2.h	/^  real_T Constant_Value_j;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_j2	EKF_IFS_2.h	/^  real_T Constant_Value_j2;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_jp	EKF_IFS_2.h	/^  real_T Constant_Value_jp;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_k	EKF_IFS_2.h	/^  real_T Constant_Value_k;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_l	EKF_IFS_2.h	/^  real_T Constant_Value_l[36];         \/* Expression: eye(6)$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_lb	EKF_IFS_2.h	/^  real_T Constant_Value_lb;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_lo	EKF_IFS_2.h	/^  real_T Constant_Value_lo[14];        \/* Expression: zeros(1,14)$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_m	EKF_IFS_2.h	/^  real_T Constant_Value_m;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_m5	EKF_IFS_2.h	/^  real_T Constant_Value_m5;            \/* Expression: 0.5$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_mb	EKF_IFS_2.h	/^  real_T Constant_Value_mb;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_mp	EKF_IFS_2.h	/^  real_T Constant_Value_mp;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_n	EKF_IFS_2.h	/^  real_T Constant_Value_n;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_na	EKF_IFS_2.h	/^  real_T Constant_Value_na;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_o	EKF_IFS_2.h	/^  real_T Constant_Value_o;             \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Constant_Value_ob	EKF_IFS_2.h	/^  real_T Constant_Value_ob;            \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+ControlSurfaceCommands	EKF_IFS_2.h	/^  Control_cmd_bus ControlSurfaceCommands;\/* '<Root>\/Control Surface Commands' *\/$/;"	m	struct:__anon37
+ControlSurfaceDeflections	EKF_IFS_2_types.h	/^} ControlSurfaceDeflections;$/;"	t	typeref:struct:__anon27
+Control_cmd_bus	EKF_IFS_2_types.h	/^} Control_cmd_bus;$/;"	t	typeref:struct:__anon13
+Cyb	EKF_IFS_2.h	/^  real_T Cyb;                          \/* Variable: Cyb$/;"	m	struct:P_EKF_IFS_2_T_
+Cyda	EKF_IFS_2.h	/^  real_T Cyda;                         \/* Variable: Cyda$/;"	m	struct:P_EKF_IFS_2_T_
+Cydr	EKF_IFS_2.h	/^  real_T Cydr;                         \/* Variable: Cydr$/;"	m	struct:P_EKF_IFS_2_T_
+Cyp	EKF_IFS_2.h	/^  real_T Cyp;                          \/* Variable: Cyp$/;"	m	struct:P_EKF_IFS_2_T_
+Cyr	EKF_IFS_2.h	/^  real_T Cyr;                          \/* Variable: Cyr$/;"	m	struct:P_EKF_IFS_2_T_
+DEBUG	kufcs_main.c	12;"	d	file:
+DEFAULT_TIMEOUT_IN_MS	VectorNav/vndevice.c	43;"	d	file:
+DEFINES	EKF_IFS_2.mk	/^DEFINES = $(DEFINES_BUILD_ARGS) $(DEFINES_IMPLIED) $(DEFINES_STANDARD)$/;"	m
+DEFINES	makefile	/^DEFINES = $(DEFINES_BUILD_ARGS) $(DEFINES_IMPLIED) $(DEFINES_STANDARD)$/;"	m
+DEFINES_BUILD_ARGS	EKF_IFS_2.mk	/^DEFINES_BUILD_ARGS = -DONESTEPFCN=1 -DTERMFCN=1 -DMAT_FILE=0 -DMULTI_INSTANCE_CODE=0 -DINTEGER_CODE=0 -DMT=0 -DCLASSIC_INTERFACE=0 -DALLOCATIONFCN=0$/;"	m
+DEFINES_BUILD_ARGS	makefile	/^DEFINES_BUILD_ARGS = -DONESTEPFCN=1 -DTERMFCN=1 -DMAT_FILE=0 -DMULTI_INSTANCE_CODE=0 -DINTEGER_CODE=0 -DMT=0 -DCLASSIC_INTERFACE=0 -DALLOCATIONFCN=0$/;"	m
+DEFINES_IMPLIED	EKF_IFS_2.mk	/^DEFINES_IMPLIED = -DTID01EQ=0$/;"	m
+DEFINES_IMPLIED	makefile	/^DEFINES_IMPLIED = -DTID01EQ=0$/;"	m
+DEFINES_STANDARD	EKF_IFS_2.mk	/^DEFINES_STANDARD = -DMODEL=EKF_IFS_2 -DNUMST=1 -DNCSTATES=0 -DHAVESTDIO -DUNIX$/;"	m
+DEFINES_STANDARD	makefile	/^DEFINES_STANDARD = -DMODEL=EKF_IFS_2 -DNUMST=1 -DNCSTATES=0 -DHAVESTDIO -DUNIX$/;"	m
+DLL_EXPORT	VectorNav/vn100.h	57;"	d
+DLL_EXPORT	VectorNav/vn100.h	60;"	d
+DLL_EXPORT	VectorNav/vn200.h	47;"	d
+DLL_EXPORT	VectorNav/vn200.h	50;"	d
+DLL_EXPORT	VectorNav/vndevice.h	56;"	d
+DLL_EXPORT	VectorNav/vndevice.h	59;"	d
+DOWNLOAD	EKF_IFS_2.mk	/^DOWNLOAD =$/;"	m
+DOWNLOAD	makefile	/^DOWNLOAD =$/;"	m
+DOWNLOAD_FLAGS	EKF_IFS_2.mk	/^DOWNLOAD_FLAGS       =$/;"	m
+DOWNLOAD_FLAGS	makefile	/^DOWNLOAD_FLAGS       =$/;"	m
+DW_EKF_IFS_2_T	EKF_IFS_2.h	/^} DW_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon35
+DelayInput1_DSTATE	EKF_IFS_2.h	/^  real_T DelayInput1_DSTATE;           \/* '<S56>\/Delay Input1' *\/$/;"	m	struct:__anon35
+DetectChange_vinit	EKF_IFS_2.h	/^  real_T DetectChange_vinit;           \/* Mask Parameter: DetectChange_vinit$/;"	m	struct:P_EKF_IFS_2_T_
+DinvMatrix_Value	EKF_IFS_2.h	/^  real_T DinvMatrix_Value[16];         \/* Expression: Kd.d$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_DSTATE	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_DSTATE;\/* '<S23>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_DSTATE_b	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_DSTATE_b[4];\/* '<S18>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_DSTATE_e	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_DSTATE_e[4];\/* '<S16>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_DSTATE_h	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_DSTATE_h;\/* '<S22>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_IC	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_IC;    \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_IC_d	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_IC_d;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_IC_g	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_IC_g;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_IC_n	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_IC_n;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_LowerS_j	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_LowerS_j;\/* Expression: -pi$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_LowerSat	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_LowerSat;\/* Expression: -pi$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_PrevRe_b	EKF_IFS_2.h	/^  int8_T DiscreteTimeIntegrator_PrevRe_b;\/* '<S22>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_PrevRe_c	EKF_IFS_2.h	/^  int8_T DiscreteTimeIntegrator_PrevRe_c;\/* '<S16>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_PrevRese	EKF_IFS_2.h	/^  int8_T DiscreteTimeIntegrator_PrevRese;\/* '<S23>\/Discrete-Time Integrator' *\/$/;"	m	struct:__anon35
+DiscreteTimeIntegrator_UpperS_d	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_UpperS_d;\/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_UpperSat	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_UpperSat;\/* Expression: pi$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_gainva_e	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_gainva_e;\/* Computed Parameter: DiscreteTimeIntegrator_gainva_e$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_gainva_f	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_gainva_f;\/* Computed Parameter: DiscreteTimeIntegrator_gainva_f$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_gainva_m	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_gainva_m;\/* Computed Parameter: DiscreteTimeIntegrator_gainva_m$/;"	m	struct:P_EKF_IFS_2_T_
+DiscreteTimeIntegrator_gainval	EKF_IFS_2.h	/^  real_T DiscreteTimeIntegrator_gainval;\/* Computed Parameter: DiscreteTimeIntegrator_gainval$/;"	m	struct:P_EKF_IFS_2_T_
+DistancetoWaypoint	EKF_IFS_2.h	/^  real32_T DistancetoWaypoint;         \/* '<Root>\/Distance to Waypoint' *\/$/;"	m	struct:__anon37
+ECHO	EKF_IFS_2.mk	/^ECHO                = @echo$/;"	m
+ECHO	makefile	/^ECHO                = @echo$/;"	m
+EKF_ConvertLatLonAlttoFlatEarth	EKF_IFS_2.c	/^void EKF_ConvertLatLonAlttoFlatEarth(const waypoint_bus *rtu_wpts, real_T$/;"	f
+EKF_IFS_2_B	EKF_IFS_2.c	/^B_EKF_IFS_2_T EKF_IFS_2_B;$/;"	v
+EKF_IFS_2_COMMON_INCLUDES_	EKF_IFS_2.h	22;"	d
+EKF_IFS_2_DW	EKF_IFS_2.c	/^DW_EKF_IFS_2_T EKF_IFS_2_DW;$/;"	v
+EKF_IFS_2_M	EKF_IFS_2.c	/^RT_MODEL_EKF_IFS_2_T *const EKF_IFS_2_M = &EKF_IFS_2_M_;$/;"	v
+EKF_IFS_2_M_	EKF_IFS_2.c	/^RT_MODEL_EKF_IFS_2_T EKF_IFS_2_M_;$/;"	v
+EKF_IFS_2_P	EKF_IFS_2_data.c	/^P_EKF_IFS_2_T EKF_IFS_2_P = {$/;"	v
+EKF_IFS_2_Subsystem1	EKF_IFS_2.c	/^void EKF_IFS_2_Subsystem1(real_T rtu_u, real_T rtu_u_e, B_Subsystem1_EKF_IFS_2_T$/;"	f
+EKF_IFS_2_Subsystem1_h	EKF_IFS_2.c	/^void EKF_IFS_2_Subsystem1_h(real_T rtu_u, real_T rtu_u_i, real_T rtu_u_o,$/;"	f
+EKF_IFS_2_Subsystem4	EKF_IFS_2.c	/^void EKF_IFS_2_Subsystem4(real_T rtu_u, real_T rtu_u_a, B_Subsystem4_EKF_IFS_2_T$/;"	f
+EKF_IFS_2_Subsystem4_p	EKF_IFS_2.c	/^void EKF_IFS_2_Subsystem4_p(real_T rtu_u, real_T rtu_u_o, real_T rtu_u_od,$/;"	f
+EKF_IFS_2_U	EKF_IFS_2.c	/^ExtU_EKF_IFS_2_T EKF_IFS_2_U;$/;"	v
+EKF_IFS_2_Y	EKF_IFS_2.c	/^ExtY_EKF_IFS_2_T EKF_IFS_2_Y;$/;"	v
+EKF_IFS_2_initialize	EKF_IFS_2.c	/^void EKF_IFS_2_initialize(void)$/;"	f
+EKF_IFS_2_invNxN	EKF_IFS_2.c	/^static void EKF_IFS_2_invNxN(const real_T x[36], real_T y[36])$/;"	f	file:
+EKF_IFS_2_invNxN_i	EKF_IFS_2.c	/^static void EKF_IFS_2_invNxN_i(const real_T x[64], real_T y[64])$/;"	f	file:
+EKF_IFS_2_step	EKF_IFS_2.c	/^void EKF_IFS_2_step(void)$/;"	f
+EKF_IFS_2_terminate	EKF_IFS_2.c	/^void EKF_IFS_2_terminate(void)$/;"	f
+EXECUTE	EKF_IFS_2.mk	/^EXECUTE = $(PRODUCT)$/;"	m
+EXECUTE	makefile	/^EXECUTE = $(PRODUCT)$/;"	m
+EXECUTE_FLAGS	EKF_IFS_2.mk	/^EXECUTE_FLAGS        =$/;"	m
+EXECUTE_FLAGS	makefile	/^EXECUTE_FLAGS        =$/;"	m
+EXE_EXT	EKF_IFS_2.mk	/^EXE_EXT             =$/;"	m
+EXE_EXT	makefile	/^EXE_EXT             =$/;"	m
+East	EKF_IFS_2.h	/^  real_T East;                         \/* '<S5>\/Convert Lat\/\/Lon\/\/Alt to Flat Earth' *\/$/;"	m	struct:__anon29
+East	EKF_IFS_2_types.h	/^  real_T East;$/;"	m	struct:__anon23
+Elevator	EKF_IFS_2_types.h	/^  real_T Elevator;$/;"	m	struct:__anon27
+ElevatorMax	EKF_IFS_2.h	/^  real_T ElevatorMax;                  \/* Variable: ElevatorMax$/;"	m	struct:P_EKF_IFS_2_T_
+ElevatorMin	EKF_IFS_2.h	/^  real_T ElevatorMin;                  \/* Variable: ElevatorMin$/;"	m	struct:P_EKF_IFS_2_T_
+EnableDisable	EKF_IFS_2.h	/^  boolean_T EnableDisable;             \/* '<Root>\/Enable\/\/Disable' *\/$/;"	m	struct:__anon36
+EulerAngles	EKF_IFS_2.h	/^  INS_angles_bus EulerAngles;          \/* '<Root>\/Euler Angles' *\/$/;"	m	struct:__anon36
+ExtU_EKF_IFS_2_T	EKF_IFS_2.h	/^} ExtU_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon36
+ExtY_EKF_IFS_2_T	EKF_IFS_2.h	/^} ExtY_EKF_IFS_2_T;$/;"	t	typeref:struct:__anon37
+FALLING_ZCEVENT	rtwtypes.h	/^  FALLING_ZCEVENT = -1,$/;"	e	enum:__anon54
+FALLING_ZERO_CROSSING	rtwtypes.h	/^  FALLING_ZERO_CROSSING = -1,$/;"	e	enum:__anon53
+F_second_hinf	EKF_IFS_2.h	/^  real_T F_second_hinf[80];            \/* Variable: F_second_hinf$/;"	m	struct:P_EKF_IFS_2_T_
+GPSPosition	EKF_IFS_2.h	/^  GPS_position_bus GPSPosition;        \/* '<Root>\/GPS Position' *\/$/;"	m	struct:__anon36
+GPSVelocity	EKF_IFS_2.h	/^  GPS_velocity_bus GPSVelocity;        \/* '<Root>\/GPS Velocity' *\/$/;"	m	struct:__anon36
+GPS_position_bus	EKF_IFS_2_types.h	/^} GPS_position_bus;$/;"	t	typeref:struct:__anon15
+GPS_velocity_bus	EKF_IFS_2_types.h	/^} GPS_velocity_bus;$/;"	t	typeref:struct:__anon16
+Gain1_Gain	EKF_IFS_2.h	/^  real_T Gain1_Gain;                   \/* Expression: 1\/6$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_a	EKF_IFS_2.h	/^  real_T Gain1_Gain_a;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_ab	EKF_IFS_2.h	/^  real_T Gain1_Gain_ab;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_b	EKF_IFS_2.h	/^  real_T Gain1_Gain_b;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_b0	EKF_IFS_2.h	/^  real_T Gain1_Gain_b0;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_b0r	EKF_IFS_2.h	/^  real_T Gain1_Gain_b0r;               \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_bg	EKF_IFS_2.h	/^  real_T Gain1_Gain_bg;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_c	EKF_IFS_2.h	/^  real_T Gain1_Gain_c;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_c2	EKF_IFS_2.h	/^  real_T Gain1_Gain_c2;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_c3	EKF_IFS_2.h	/^  real_T Gain1_Gain_c3;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_cm	EKF_IFS_2.h	/^  real_T Gain1_Gain_cm;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_d	EKF_IFS_2.h	/^  real_T Gain1_Gain_d;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_d3	EKF_IFS_2.h	/^  real_T Gain1_Gain_d3;                \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_db	EKF_IFS_2.h	/^  real_T Gain1_Gain_db;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_dk	EKF_IFS_2.h	/^  real_T Gain1_Gain_dk;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_dx	EKF_IFS_2.h	/^  real_T Gain1_Gain_dx;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_e	EKF_IFS_2.h	/^  real_T Gain1_Gain_e;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_e0	EKF_IFS_2.h	/^  real_T Gain1_Gain_e0;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_el	EKF_IFS_2.h	/^  real_T Gain1_Gain_el;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_er	EKF_IFS_2.h	/^  real_T Gain1_Gain_er;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_f	EKF_IFS_2.h	/^  real_T Gain1_Gain_f;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_h	EKF_IFS_2.h	/^  real_T Gain1_Gain_h;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_i	EKF_IFS_2.h	/^  real_T Gain1_Gain_i;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_iz	EKF_IFS_2.h	/^  real_T Gain1_Gain_iz;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_j	EKF_IFS_2.h	/^  real_T Gain1_Gain_j;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_k	EKF_IFS_2.h	/^  real_T Gain1_Gain_k;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_kb	EKF_IFS_2.h	/^  real_T Gain1_Gain_kb;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_l	EKF_IFS_2.h	/^  real_T Gain1_Gain_l;                 \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_lb	EKF_IFS_2.h	/^  real_T Gain1_Gain_lb;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_le	EKF_IFS_2.h	/^  real_T Gain1_Gain_le;                \/* Expression: 1\/6$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_lj	EKF_IFS_2.h	/^  real_T Gain1_Gain_lj;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_lk	EKF_IFS_2.h	/^  real_T Gain1_Gain_lk;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_lq	EKF_IFS_2.h	/^  real_T Gain1_Gain_lq;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_ly	EKF_IFS_2.h	/^  real_T Gain1_Gain_ly;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_m	EKF_IFS_2.h	/^  real_T Gain1_Gain_m;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_m1	EKF_IFS_2.h	/^  real_T Gain1_Gain_m1;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_mb	EKF_IFS_2.h	/^  real_T Gain1_Gain_mb;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_mu	EKF_IFS_2.h	/^  real_T Gain1_Gain_mu;                \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_mv	EKF_IFS_2.h	/^  real_T Gain1_Gain_mv;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_mvu	EKF_IFS_2.h	/^  real_T Gain1_Gain_mvu;               \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_n	EKF_IFS_2.h	/^  real_T Gain1_Gain_n;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_nc	EKF_IFS_2.h	/^  real_T Gain1_Gain_nc;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_nd	EKF_IFS_2.h	/^  real_T Gain1_Gain_nd;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_ng	EKF_IFS_2.h	/^  real_T Gain1_Gain_ng;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_o	EKF_IFS_2.h	/^  real_T Gain1_Gain_o;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_o4	EKF_IFS_2.h	/^  real_T Gain1_Gain_o4;                \/* Expression: 0.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_o5	EKF_IFS_2.h	/^  real_T Gain1_Gain_o5;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_om	EKF_IFS_2.h	/^  real_T Gain1_Gain_om;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain1_Gain_on	EKF_IFS_2.h	/^  real_T Gain1_Gain_on;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain	EKF_IFS_2.h	/^  real_T Gain2_Gain;                   \/* Expression: 1\/24$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_a	EKF_IFS_2.h	/^  real_T Gain2_Gain_a;                 \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_a2	EKF_IFS_2.h	/^  real_T Gain2_Gain_a2;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_b	EKF_IFS_2.h	/^  real_T Gain2_Gain_b;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_bi	EKF_IFS_2.h	/^  real_T Gain2_Gain_bi;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_bo	EKF_IFS_2.h	/^  real_T Gain2_Gain_bo;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_bq	EKF_IFS_2.h	/^  real_T Gain2_Gain_bq;                \/* Expression: 0.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_c	EKF_IFS_2.h	/^  real_T Gain2_Gain_c;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_c5	EKF_IFS_2.h	/^  real_T Gain2_Gain_c5;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_cp	EKF_IFS_2.h	/^  real_T Gain2_Gain_cp;                \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_cq	EKF_IFS_2.h	/^  real_T Gain2_Gain_cq;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_e	EKF_IFS_2.h	/^  real_T Gain2_Gain_e;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_f	EKF_IFS_2.h	/^  real_T Gain2_Gain_f;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_g	EKF_IFS_2.h	/^  real_T Gain2_Gain_g;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_ge	EKF_IFS_2.h	/^  real_T Gain2_Gain_ge;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_h	EKF_IFS_2.h	/^  real_T Gain2_Gain_h;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_h5	EKF_IFS_2.h	/^  real_T Gain2_Gain_h5;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_hu	EKF_IFS_2.h	/^  real_T Gain2_Gain_hu;                \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_hz	EKF_IFS_2.h	/^  real_T Gain2_Gain_hz;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_i	EKF_IFS_2.h	/^  real_T Gain2_Gain_i;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_j	EKF_IFS_2.h	/^  real_T Gain2_Gain_j;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_jb	EKF_IFS_2.h	/^  real_T Gain2_Gain_jb;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_jj	EKF_IFS_2.h	/^  real_T Gain2_Gain_jj;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_jl	EKF_IFS_2.h	/^  real_T Gain2_Gain_jl;                \/* Expression: 1\/24$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_k	EKF_IFS_2.h	/^  real_T Gain2_Gain_k;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_k2	EKF_IFS_2.h	/^  real_T Gain2_Gain_k2;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_k5	EKF_IFS_2.h	/^  real_T Gain2_Gain_k5;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_kp	EKF_IFS_2.h	/^  real_T Gain2_Gain_kp;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_kz	EKF_IFS_2.h	/^  real_T Gain2_Gain_kz;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_kzv	EKF_IFS_2.h	/^  real_T Gain2_Gain_kzv;               \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_l	EKF_IFS_2.h	/^  real_T Gain2_Gain_l;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_lf	EKF_IFS_2.h	/^  real_T Gain2_Gain_lf;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_lr	EKF_IFS_2.h	/^  real_T Gain2_Gain_lr;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_m	EKF_IFS_2.h	/^  real_T Gain2_Gain_m;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_n	EKF_IFS_2.h	/^  real_T Gain2_Gain_n;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_ns	EKF_IFS_2.h	/^  real_T Gain2_Gain_ns;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_o	EKF_IFS_2.h	/^  real_T Gain2_Gain_o;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_o4	EKF_IFS_2.h	/^  real_T Gain2_Gain_o4;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_oa	EKF_IFS_2.h	/^  real_T Gain2_Gain_oa;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_oc	EKF_IFS_2.h	/^  real_T Gain2_Gain_oc;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_oz	EKF_IFS_2.h	/^  real_T Gain2_Gain_oz;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_p	EKF_IFS_2.h	/^  real_T Gain2_Gain_p;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_p1	EKF_IFS_2.h	/^  real_T Gain2_Gain_p1;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_p4	EKF_IFS_2.h	/^  real_T Gain2_Gain_p4;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_p4x	EKF_IFS_2.h	/^  real_T Gain2_Gain_p4x;               \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_pm	EKF_IFS_2.h	/^  real_T Gain2_Gain_pm;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_po	EKF_IFS_2.h	/^  real_T Gain2_Gain_po;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_pv	EKF_IFS_2.h	/^  real_T Gain2_Gain_pv;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain2_Gain_py	EKF_IFS_2.h	/^  real_T Gain2_Gain_py;                \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain	EKF_IFS_2.h	/^  real_T Gain3_Gain;                   \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_a	EKF_IFS_2.h	/^  real_T Gain3_Gain_a;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_a4	EKF_IFS_2.h	/^  real_T Gain3_Gain_a4;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_av	EKF_IFS_2.h	/^  real_T Gain3_Gain_av;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_b	EKF_IFS_2.h	/^  real_T Gain3_Gain_b;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_by	EKF_IFS_2.h	/^  real_T Gain3_Gain_by;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_c	EKF_IFS_2.h	/^  real_T Gain3_Gain_c;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_c0	EKF_IFS_2.h	/^  real_T Gain3_Gain_c0;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_d	EKF_IFS_2.h	/^  real_T Gain3_Gain_d;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_e	EKF_IFS_2.h	/^  real_T Gain3_Gain_e;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_e1	EKF_IFS_2.h	/^  real_T Gain3_Gain_e1;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_e3	EKF_IFS_2.h	/^  real_T Gain3_Gain_e3;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_f	EKF_IFS_2.h	/^  real_T Gain3_Gain_f;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_f1	EKF_IFS_2.h	/^  real_T Gain3_Gain_f1;                \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_fi	EKF_IFS_2.h	/^  real_T Gain3_Gain_fi;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_h	EKF_IFS_2.h	/^  real_T Gain3_Gain_h;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_i	EKF_IFS_2.h	/^  real_T Gain3_Gain_i;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_j	EKF_IFS_2.h	/^  real_T Gain3_Gain_j;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_jf	EKF_IFS_2.h	/^  real_T Gain3_Gain_jf;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_k	EKF_IFS_2.h	/^  real_T Gain3_Gain_k;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_k5	EKF_IFS_2.h	/^  real_T Gain3_Gain_k5;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_l	EKF_IFS_2.h	/^  real_T Gain3_Gain_l;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_m	EKF_IFS_2.h	/^  real_T Gain3_Gain_m;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_mb	EKF_IFS_2.h	/^  real_T Gain3_Gain_mb;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_mr	EKF_IFS_2.h	/^  real_T Gain3_Gain_mr;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_n	EKF_IFS_2.h	/^  real_T Gain3_Gain_n;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_nb	EKF_IFS_2.h	/^  real_T Gain3_Gain_nb;                \/* Expression: -0.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_o	EKF_IFS_2.h	/^  real_T Gain3_Gain_o;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_oa	EKF_IFS_2.h	/^  real_T Gain3_Gain_oa;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_p	EKF_IFS_2.h	/^  real_T Gain3_Gain_p;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_p2	EKF_IFS_2.h	/^  real_T Gain3_Gain_p2;                \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain3_Gain_po	EKF_IFS_2.h	/^  real_T Gain3_Gain_po;                \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain4_Gain	EKF_IFS_2.h	/^  real_T Gain4_Gain;                   \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain4_Gain_i	EKF_IFS_2.h	/^  real_T Gain4_Gain_i;                 \/* Expression: 1\/.3048$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain	EKF_IFS_2.h	/^  real_T Gain_Gain;                    \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_a	EKF_IFS_2.h	/^  real_T Gain_Gain_a;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_a5	EKF_IFS_2.h	/^  real_T Gain_Gain_a5;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ab	EKF_IFS_2.h	/^  real_T Gain_Gain_ab;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ae	EKF_IFS_2.h	/^  real_T Gain_Gain_ae;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ag	EKF_IFS_2.h	/^  real_T Gain_Gain_ag;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_b	EKF_IFS_2.h	/^  real_T Gain_Gain_b;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_bv	EKF_IFS_2.h	/^  real_T Gain_Gain_bv;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_c	EKF_IFS_2.h	/^  real_T Gain_Gain_c;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_c3	EKF_IFS_2.h	/^  real_T Gain_Gain_c3;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ci	EKF_IFS_2.h	/^  real_T Gain_Gain_ci;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_d	EKF_IFS_2.h	/^  real_T Gain_Gain_d;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_d5	EKF_IFS_2.h	/^  real_T Gain_Gain_d5;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_dl	EKF_IFS_2.h	/^  real_T Gain_Gain_dl;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_e	EKF_IFS_2.h	/^  real_T Gain_Gain_e;                  \/* Expression: 1\/2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_f	EKF_IFS_2.h	/^  real_T Gain_Gain_f;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_f1	EKF_IFS_2.h	/^  real_T Gain_Gain_f1;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_f3	EKF_IFS_2.h	/^  real_T Gain_Gain_f3;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_fb	EKF_IFS_2.h	/^  real_T Gain_Gain_fb;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_fj	EKF_IFS_2.h	/^  real_T Gain_Gain_fj;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_fo	EKF_IFS_2.h	/^  real_T Gain_Gain_fo;                 \/* Expression: 2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_fu	EKF_IFS_2.h	/^  real_T Gain_Gain_fu;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_fy	EKF_IFS_2.h	/^  real_T Gain_Gain_fy;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_g	EKF_IFS_2.h	/^  real_T Gain_Gain_g;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_gq	EKF_IFS_2.h	/^  real_T Gain_Gain_gq;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_gu	EKF_IFS_2.h	/^  real_T Gain_Gain_gu;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_i	EKF_IFS_2.h	/^  real_T Gain_Gain_i;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ir	EKF_IFS_2.h	/^  real_T Gain_Gain_ir;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_j	EKF_IFS_2.h	/^  real_T Gain_Gain_j;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_k	EKF_IFS_2.h	/^  real_T Gain_Gain_k;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_kw	EKF_IFS_2.h	/^  real_T Gain_Gain_kw;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_l	EKF_IFS_2.h	/^  real_T Gain_Gain_l;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_lq	EKF_IFS_2.h	/^  real_T Gain_Gain_lq;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_m	EKF_IFS_2.h	/^  real_T Gain_Gain_m;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_n	EKF_IFS_2.h	/^  real_T Gain_Gain_n;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_nh	EKF_IFS_2.h	/^  real_T Gain_Gain_nh;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_nk	EKF_IFS_2.h	/^  real_T Gain_Gain_nk;                 \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_nky	EKF_IFS_2.h	/^  real_T Gain_Gain_nky;                \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_o	EKF_IFS_2.h	/^  real_T Gain_Gain_o;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_oi	EKF_IFS_2.h	/^  real_T Gain_Gain_oi;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ot	EKF_IFS_2.h	/^  real_T Gain_Gain_ot;                 \/* Expression: 1\/2$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_ow	EKF_IFS_2.h	/^  real_T Gain_Gain_ow;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_p	EKF_IFS_2.h	/^  real_T Gain_Gain_p;                  \/* Expression: 100$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_pc	EKF_IFS_2.h	/^  real_T Gain_Gain_pc;                 \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Gain_Gain_pd	EKF_IFS_2.h	/^  real_T Gain_Gain_pd;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+GetIMUData	VectorNav/wrapper.c	/^void GetIMUData(ExtU_EKF_IFS_2_T *data)$/;"	f
+GetOther	VectorNav/wrapper.c	/^void GetOther(ExtU_EKF_IFS_2_T *data)$/;"	f
+GetSerialData	VectorNav/wrapper.c	/^void GetSerialData(ExtU_EKF_IFS_2_T *data)$/;"	f
+Guidance_cmd_bus	EKF_IFS_2_types.h	/^} Guidance_cmd_bus;$/;"	t	typeref:struct:__anon25
+HPP_EXT	EKF_IFS_2.mk	/^HPP_EXT             = .hpp$/;"	m
+HPP_EXT	makefile	/^HPP_EXT             = .hpp$/;"	m
+H_EXT	EKF_IFS_2.mk	/^H_EXT               = .h$/;"	m
+H_EXT	makefile	/^H_EXT               = .h$/;"	m
+H_k_Value	EKF_IFS_2.h	/^  real_T H_k_Value[36];                \/* Expression: eye(6)$/;"	m	struct:P_EKF_IFS_2_T_
+Height	EKF_IFS_2.h	/^  real_T Height;                       \/* '<S5>\/Convert Lat\/\/Lon\/\/Alt to Flat Earth' *\/$/;"	m	struct:__anon29
+Height	EKF_IFS_2_types.h	/^  real_T Height;$/;"	m	struct:__anon23
+HomeCmd	EKF_IFS_2.h	/^  boolean_T HomeCmd;                   \/* '<Root>\/Home Cmd' *\/$/;"	m	struct:__anon36
+HomeResetMemory_InitialValue	EKF_IFS_2.h	/^  uint8_T HomeResetMemory_InitialValue;\/* Computed Parameter: HomeResetMemory_InitialValue$/;"	m	struct:P_EKF_IFS_2_T_
+Home_reset	EKF_IFS_2.h	/^  uint8_T Home_reset;                  \/* '<S8>\/Home Reset Memory' *\/$/;"	m	struct:__anon35
+IEEESingle	rt_nonfinite.h	/^} IEEESingle;$/;"	t	typeref:struct:__anon42
+IMU_H	imu.h	3;"	d
+INCLUDES	EKF_IFS_2.mk	/^INCLUDES = $(INCLUDES_BUILDINFO)$/;"	m
+INCLUDES	makefile	/^INCLUDES = $(INCLUDES_BUILDINFO)$/;"	m
+INCLUDES_BUILDINFO	EKF_IFS_2.mk	/^INCLUDES_BUILDINFO = -I$(START_DIR)\/EKF_IFS_2_ert_rtw -I$(START_DIR) -I\/nfs\/users\/heechul\/Documents\/MATLAB -I$(MATLAB_ROOT)\/extern\/include -I$(MATLAB_ROOT)\/simulink\/include -I$(MATLAB_ROOT)\/rtw\/c\/src -I$(MATLAB_ROOT)\/rtw\/c\/src\/ext_mode\/common -I$(MATLAB_ROOT)\/rtw\/c\/ert -IVectorNav$/;"	m
+INCLUDES_BUILDINFO	makefile	/^INCLUDES_BUILDINFO = -I$(START_DIR)\/EKF_IFS_2_ert_rtw -I$(START_DIR) -I\/nfs\/users\/heechul\/Documents\/MATLAB -I$(MATLAB_ROOT)\/extern\/include -I$(MATLAB_ROOT)\/simulink\/include -I$(MATLAB_ROOT)\/rtw\/c\/src -I$(MATLAB_ROOT)\/rtw\/c\/src\/ext_mode\/common -I$(MATLAB_ROOT)\/rtw\/c\/ert -I$(START_DIR)\/VectorNav$/;"	m
+INS_angles_bus	EKF_IFS_2_types.h	/^} INS_angles_bus;$/;"	t	typeref:struct:__anon17
+INS_rates_bus	EKF_IFS_2_types.h	/^} INS_rates_bus;$/;"	t	typeref:struct:__anon18
+InitIMU	VectorNav/wrapper.c	/^void InitIMU(void)$/;"	f
+InitMovingWaypoints	VectorNav/wrapper.c	/^void InitMovingWaypoints(ExtU_EKF_IFS_2_T *data)$/;"	f
+InitOther	VectorNav/wrapper.c	/^void InitOther(ExtU_EKF_IFS_2_T *data)$/;"	f
+InitSerial	VectorNav/wrapper.c	/^void InitSerial()$/;"	f
+InitStaticWaypoints	VectorNav/wrapper.c	/^void InitStaticWaypoints(ExtU_EKF_IFS_2_T *data)$/;"	f
+IxxB	EKF_IFS_2.h	/^  real_T IxxB;                         \/* Variable: IxxB$/;"	m	struct:P_EKF_IFS_2_T_
+IxzB	EKF_IFS_2.h	/^  real_T IxzB;                         \/* Variable: IxzB$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value	EKF_IFS_2.h	/^  real_T Ixz_Value;                    \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_a	EKF_IFS_2.h	/^  real_T Ixz_Value_a;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_at	EKF_IFS_2.h	/^  real_T Ixz_Value_at;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_au	EKF_IFS_2.h	/^  real_T Ixz_Value_au;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_b	EKF_IFS_2.h	/^  real_T Ixz_Value_b;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_c	EKF_IFS_2.h	/^  real_T Ixz_Value_c;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_f	EKF_IFS_2.h	/^  real_T Ixz_Value_f;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_f2	EKF_IFS_2.h	/^  real_T Ixz_Value_f2;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_fr	EKF_IFS_2.h	/^  real_T Ixz_Value_fr;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_g	EKF_IFS_2.h	/^  real_T Ixz_Value_g;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_h	EKF_IFS_2.h	/^  real_T Ixz_Value_h;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_l	EKF_IFS_2.h	/^  real_T Ixz_Value_l;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_ly	EKF_IFS_2.h	/^  real_T Ixz_Value_ly;                 \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Ixz_Value_p	EKF_IFS_2.h	/^  real_T Ixz_Value_p;                  \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+IyyB	EKF_IFS_2.h	/^  real_T IyyB;                         \/* Variable: IyyB$/;"	m	struct:P_EKF_IFS_2_T_
+IzzB	EKF_IFS_2.h	/^  real_T IzzB;                         \/* Variable: IzzB$/;"	m	struct:P_EKF_IFS_2_T_
+KiLat	EKF_IFS_2.h	/^  real_T KiLat;                        \/* Variable: KiLat$/;"	m	struct:P_EKF_IFS_2_T_
+KiLon	EKF_IFS_2.h	/^  real_T KiLon;                        \/* Variable: KiLon$/;"	m	struct:P_EKF_IFS_2_T_
+KpLat	EKF_IFS_2.h	/^  real_T KpLat;                        \/* Variable: KpLat$/;"	m	struct:P_EKF_IFS_2_T_
+KpLon	EKF_IFS_2.h	/^  real_T KpLon;                        \/* Variable: KpLon$/;"	m	struct:P_EKF_IFS_2_T_
+L	EKF_IFS_2.h	/^  real_T L;                            \/* Variable: L$/;"	m	struct:P_EKF_IFS_2_T_
+LD	EKF_IFS_2.mk	/^LD = gcc$/;"	m
+LD	makefile	/^LD = gcc$/;"	m
+LDDEBUG	EKF_IFS_2.mk	/^LDDEBUG             = -g$/;"	m
+LDDEBUG	makefile	/^LDDEBUG             = -g$/;"	m
+LDFLAGS	EKF_IFS_2.mk	/^LDFLAGS              = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+LDFLAGS	makefile	/^LDFLAGS              = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"$/;"	m
+LIBS	EKF_IFS_2.mk	/^LIBS = $/;"	m
+LIBS	makefile	/^LIBS = $/;"	m
+LOGVALDIMS_EMPTYMX	rt_logging.h	/^    LOGVALDIMS_EMPTYMX,$/;"	e	enum:__anon28
+LOGVALDIMS_VARDIMS	rt_logging.h	/^    LOGVALDIMS_VARDIMS$/;"	e	enum:__anon28
+Latitude	EKF_IFS_2_types.h	/^  real_T Latitude;$/;"	m	struct:__anon15
+LittleEndianIEEEDouble	rt_nonfinite.h	/^} LittleEndianIEEEDouble;$/;"	t	typeref:struct:__anon40
+Local_position_bus	EKF_IFS_2_types.h	/^} Local_position_bus;$/;"	t	typeref:struct:__anon23
+LogValDimsStat	rt_logging.h	/^} LogValDimsStat;$/;"	t	typeref:enum:__anon28
+LogVar	rt_logging.h	/^typedef struct LogVar_Tag LogVar;$/;"	t	typeref:struct:LogVar_Tag
+LogVar_Tag	rt_logging.h	/^struct LogVar_Tag {$/;"	s
+Logictimecontrol_InitialValue	EKF_IFS_2.h	/^  real_T Logictimecontrol_InitialValue;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Longitude	EKF_IFS_2_types.h	/^  real_T Longitude;$/;"	m	struct:__anon15
+MAIN_OBJ	EKF_IFS_2.mk	/^MAIN_OBJ = kufcs_main.o$/;"	m
+MAIN_OBJ	makefile	/^MAIN_OBJ = kufcs_main.o$/;"	m
+MAIN_SRC	EKF_IFS_2.mk	/^MAIN_SRC = $(START_DIR)\/EKF_IFS_2_ert_rtw\/kufcs_main.c$/;"	m
+MAIN_SRC	makefile	/^MAIN_SRC = $(START_DIR)\/EKF_IFS_2_ert_rtw\/kufcs_main.c$/;"	m
+MAKE	EKF_IFS_2.mk	/^MAKE = $(MAKE_PATH)\/gmake$/;"	m
+MAKE	makefile	/^MAKE = $(MAKE_PATH)\/gmake$/;"	m
+MAKEFILE	EKF_IFS_2.mk	/^MAKEFILE                  = EKF_IFS_2.mk$/;"	m
+MAKEFILE	makefile	/^MAKEFILE                  = EKF_IFS_2.mk$/;"	m
+MAKE_EXT	EKF_IFS_2.mk	/^MAKE_EXT            = .mk$/;"	m
+MAKE_EXT	makefile	/^MAKE_EXT            = .mk$/;"	m
+MAKE_FLAGS	EKF_IFS_2.mk	/^MAKE_FLAGS           = -f $(MAKEFILE)$/;"	m
+MAKE_FLAGS	makefile	/^MAKE_FLAGS           = -f $(MAKEFILE)$/;"	m
+MAKE_PATH	EKF_IFS_2.mk	/^MAKE_PATH = %MATLAB%\/bin\/glnxa64$/;"	m
+MAKE_PATH	makefile	/^MAKE_PATH = %MATLAB%\/bin\/glnxa64$/;"	m
+MASTER_ANCHOR_DIR	EKF_IFS_2.mk	/^MASTER_ANCHOR_DIR         = $/;"	m
+MASTER_ANCHOR_DIR	makefile	/^MASTER_ANCHOR_DIR         = $/;"	m
+MATFILE	kufcs_main.c	36;"	d	file:
+MATFILE	kufcs_main.c	38;"	d	file:
+MATFILE1	kufcs_main.c	35;"	d	file:
+MATFILE2	kufcs_main.c	34;"	d	file:
+MATLAB_ARCH_BIN	EKF_IFS_2.mk	/^MATLAB_ARCH_BIN           = \/opt\/matlab2014b\/bin\/glnxa64$/;"	m
+MATLAB_ARCH_BIN	makefile	/^MATLAB_ARCH_BIN           = $(MATLAB_ROOT)\/bin\/glnxa64$/;"	m
+MATLAB_BIN	EKF_IFS_2.mk	/^MATLAB_BIN                = \/opt\/matlab2014b\/bin$/;"	m
+MATLAB_BIN	makefile	/^MATLAB_BIN                = $(MATLAB_ROOT)\/bin$/;"	m
+MATLAB_ROOT	EKF_IFS_2.mk	/^MATLAB_ROOT               = \/opt\/matlab2014b$/;"	m
+MATLAB_ROOT	makefile	/^MATLAB_ROOT               = \/nfs\/tools\/matlab\/$/;"	m
+MAX_int16_T	rtwtypes.h	145;"	d
+MAX_int32_T	rtwtypes.h	149;"	d
+MAX_int8_T	rtwtypes.h	141;"	d
+MAX_uint16_T	rtwtypes.h	147;"	d
+MAX_uint32_T	rtwtypes.h	151;"	d
+MAX_uint8_T	rtwtypes.h	143;"	d
+MEX	EKF_IFS_2.mk	/^MEX = $(MEX_PATH)\/mex$/;"	m
+MEX	makefile	/^MEX = $(MEX_PATH)\/mex$/;"	m
+MEX_CFLAGS	EKF_IFS_2.mk	/^MEX_CFLAGS           = -MATLAB_ARCH=$(ARCH) $(INCLUDES) \\$/;"	m
+MEX_CFLAGS	makefile	/^MEX_CFLAGS           = -MATLAB_ARCH=$(ARCH) $(INCLUDES) \\$/;"	m
+MEX_DEBUG	EKF_IFS_2.mk	/^MEX_DEBUG           = -g$/;"	m
+MEX_DEBUG	makefile	/^MEX_DEBUG           = -g$/;"	m
+MEX_EXT	EKF_IFS_2.mk	/^MEX_EXT             = .mexa64$/;"	m
+MEX_EXT	makefile	/^MEX_EXT             = .mexa64$/;"	m
+MEX_LDFLAGS	EKF_IFS_2.mk	/^MEX_LDFLAGS          = LDFLAGS=='$$LDFLAGS'$/;"	m
+MEX_LDFLAGS	makefile	/^MEX_LDFLAGS          = LDFLAGS=='$$LDFLAGS'$/;"	m
+MEX_PATH	EKF_IFS_2.mk	/^MEX_PATH = $(MATLAB_BIN)$/;"	m
+MEX_PATH	makefile	/^MEX_PATH = $(MATLAB_BIN)$/;"	m
+MIN_int16_T	rtwtypes.h	146;"	d
+MIN_int32_T	rtwtypes.h	150;"	d
+MIN_int8_T	rtwtypes.h	142;"	d
+MIN_uint16_T	rtwtypes.h	148;"	d
+MIN_uint32_T	rtwtypes.h	152;"	d
+MIN_uint8_T	rtwtypes.h	144;"	d
+MODELREF_LINK_RSPFILE_NAME	EKF_IFS_2.mk	/^MODELREF_LINK_RSPFILE_NAME = EKF_IFS_2_ref.rsp$/;"	m
+MODELREF_LINK_RSPFILE_NAME	makefile	/^MODELREF_LINK_RSPFILE_NAME = EKF_IFS_2_ref.rsp$/;"	m
+MV	EKF_IFS_2.mk	/^MV                  = @mv$/;"	m
+MV	makefile	/^MV                  = @mv$/;"	m
+ManualSwitch_CurrentSetting	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting; \/* Computed Parameter: ManualSwitch_CurrentSetting$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_a	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_a;\/* Computed Parameter: ManualSwitch_CurrentSetting_a$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_a5	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_a5;\/* Computed Parameter: ManualSwitch_CurrentSetting_a5$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_ah	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_ah;\/* Computed Parameter: ManualSwitch_CurrentSetting_ah$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_aq	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_aq;\/* Computed Parameter: ManualSwitch_CurrentSetting_aq$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_au	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_au;\/* Computed Parameter: ManualSwitch_CurrentSetting_au$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_az	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_az;\/* Computed Parameter: ManualSwitch_CurrentSetting_az$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_b	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_b;\/* Computed Parameter: ManualSwitch_CurrentSetting_b$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_c	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_c;\/* Computed Parameter: ManualSwitch_CurrentSetting_c$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_ck	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_ck;\/* Computed Parameter: ManualSwitch_CurrentSetting_ck$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_d	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_d;\/* Computed Parameter: ManualSwitch_CurrentSetting_d$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_db	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_db;\/* Computed Parameter: ManualSwitch_CurrentSetting_db$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_dd	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_dd;\/* Computed Parameter: ManualSwitch_CurrentSetting_dd$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_ds	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_ds;\/* Computed Parameter: ManualSwitch_CurrentSetting_ds$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_dt	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_dt;\/* Computed Parameter: ManualSwitch_CurrentSetting_dt$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_du	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_du;\/* Computed Parameter: ManualSwitch_CurrentSetting_du$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_e	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_e;\/* Computed Parameter: ManualSwitch_CurrentSetting_e$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_e2	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_e2;\/* Computed Parameter: ManualSwitch_CurrentSetting_e2$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_e4	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_e4;\/* Computed Parameter: ManualSwitch_CurrentSetting_e4$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_eb	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_eb;\/* Computed Parameter: ManualSwitch_CurrentSetting_eb$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_ep	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_ep;\/* Computed Parameter: ManualSwitch_CurrentSetting_ep$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_f	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_f;\/* Computed Parameter: ManualSwitch_CurrentSetting_f$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_fc	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_fc;\/* Computed Parameter: ManualSwitch_CurrentSetting_fc$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_fo	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_fo;\/* Computed Parameter: ManualSwitch_CurrentSetting_fo$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_fq	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_fq;\/* Computed Parameter: ManualSwitch_CurrentSetting_fq$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_g	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_g;\/* Computed Parameter: ManualSwitch_CurrentSetting_g$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_gk	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_gk;\/* Computed Parameter: ManualSwitch_CurrentSetting_gk$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_go	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_go;\/* Computed Parameter: ManualSwitch_CurrentSetting_go$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_gp	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_gp;\/* Computed Parameter: ManualSwitch_CurrentSetting_gp$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_gpw	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_gpw;\/* Computed Parameter: ManualSwitch_CurrentSetting_gpw$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_h	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_h;\/* Computed Parameter: ManualSwitch_CurrentSetting_h$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_h0	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_h0;\/* Computed Parameter: ManualSwitch_CurrentSetting_h0$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_hl	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_hl;\/* Computed Parameter: ManualSwitch_CurrentSetting_hl$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_hp	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_hp;\/* Computed Parameter: ManualSwitch_CurrentSetting_hp$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_hr	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_hr;\/* Computed Parameter: ManualSwitch_CurrentSetting_hr$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_i	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_i;\/* Computed Parameter: ManualSwitch_CurrentSetting_i$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_j	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_j;\/* Computed Parameter: ManualSwitch_CurrentSetting_j$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_j4	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_j4;\/* Computed Parameter: ManualSwitch_CurrentSetting_j4$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_jv	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_jv;\/* Computed Parameter: ManualSwitch_CurrentSetting_jv$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_k	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_k;\/* Computed Parameter: ManualSwitch_CurrentSetting_k$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_kl	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_kl;\/* Computed Parameter: ManualSwitch_CurrentSetting_kl$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_l	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_l;\/* Computed Parameter: ManualSwitch_CurrentSetting_l$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_l2	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_l2;\/* Computed Parameter: ManualSwitch_CurrentSetting_l2$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_lc	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_lc;\/* Computed Parameter: ManualSwitch_CurrentSetting_lc$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_ll	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_ll;\/* Computed Parameter: ManualSwitch_CurrentSetting_ll$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_lx	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_lx;\/* Computed Parameter: ManualSwitch_CurrentSetting_lx$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_m	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_m;\/* Computed Parameter: ManualSwitch_CurrentSetting_m$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_n	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_n;\/* Computed Parameter: ManualSwitch_CurrentSetting_n$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_nh	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_nh;\/* Computed Parameter: ManualSwitch_CurrentSetting_nh$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_o	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_o;\/* Computed Parameter: ManualSwitch_CurrentSetting_o$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_o5	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_o5;\/* Computed Parameter: ManualSwitch_CurrentSetting_o5$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_og	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_og;\/* Computed Parameter: ManualSwitch_CurrentSetting_og$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_p	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_p;\/* Computed Parameter: ManualSwitch_CurrentSetting_p$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_p5	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_p5;\/* Computed Parameter: ManualSwitch_CurrentSetting_p5$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_pk	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_pk;\/* Computed Parameter: ManualSwitch_CurrentSetting_pk$/;"	m	struct:P_EKF_IFS_2_T_
+ManualSwitch_CurrentSetting_pz	EKF_IFS_2.h	/^  uint8_T ManualSwitch_CurrentSetting_pz;\/* Computed Parameter: ManualSwitch_CurrentSetting_pz$/;"	m	struct:P_EKF_IFS_2_T_
+MatReal	rt_logging.h	/^typedef double MatReal;                \/* "real" data type used in model.mat  *\/$/;"	t
+MatrixData	rt_logging.h	/^} MatrixData;$/;"	t	typeref:struct:MatrixData_Tag
+MatrixData_Tag	rt_logging.h	/^typedef struct MatrixData_Tag {$/;"	s
+NEG_ZCSIG	rtwtypes.h	173;"	d
+NO_LOGVALDIMS	rt_logging.h	/^    NO_LOGVALDIMS,      $/;"	e	enum:__anon28
+NO_ZCEVENT	rtwtypes.h	/^  NO_ZCEVENT = 0,$/;"	e	enum:__anon54
+NUMBER_OF_MILLISECONDS_TO_SLEEP_AFTER_RECEIVING_NO_BYTES_ON_COM_PORT_READ	VectorNav/vndevice.c	42;"	d	file:
+North	EKF_IFS_2.h	/^  real_T North;                        \/* '<S5>\/Convert Lat\/\/Lon\/\/Alt to Flat Earth' *\/$/;"	m	struct:__anon29
+North	EKF_IFS_2_types.h	/^  real_T North;$/;"	m	struct:__anon23
+NumBitsPerChar	rtGetInf.c	21;"	d	file:
+NumBitsPerChar	rtGetNaN.c	21;"	d	file:
+OBJS	EKF_IFS_2.mk	/^OBJS = EKF_IFS_2.o EKF_IFS_2_data.o rtGetInf.o rtGetNaN.o rt_nonfinite.o \\$/;"	m
+OBJS	makefile	/^OBJS = EKF_IFS_2.o EKF_IFS_2_data.o rtGetInf.o rtGetNaN.o rt_nonfinite.o \\$/;"	m
+OBJ_EXT	EKF_IFS_2.mk	/^OBJ_EXT             = .o$/;"	m
+OBJ_EXT	makefile	/^OBJ_EXT             = .o$/;"	m
+OUTPUT_FLAG	EKF_IFS_2.mk	/^OUTPUT_FLAG         = -o$/;"	m
+OUTPUT_FLAG	makefile	/^OUTPUT_FLAG         = -o$/;"	m
+P	EKF_IFS_2_types.h	/^  real_T P;$/;"	m	struct:__anon18
+P0_est_nav	EKF_IFS_2.h	/^  real_T P0_est_nav[36];               \/* Variable: P0_est_nav$/;"	m	struct:P_EKF_IFS_2_T_
+P0_est_sta	EKF_IFS_2.h	/^  real_T P0_est_sta[196];              \/* Variable: P0_est_sta$/;"	m	struct:P_EKF_IFS_2_T_
+PDEBUG	VectorNav/wrapper.c	36;"	d	file:
+PDEBUG	kufcs_main.c	44;"	d	file:
+PICCIC	EKF_IFS_2.h	/^  boolean_T PICCIC;                    \/* '<Root>\/PIC\/\/CIC' *\/$/;"	m	struct:__anon36
+PICCICLastStateMemory_InitialVa	EKF_IFS_2.h	/^  boolean_T PICCICLastStateMemory_InitialVa;\/* Computed Parameter: PICCICLastStateMemory_InitialVa$/;"	m	struct:P_EKF_IFS_2_T_
+PIC_CIC_Last	EKF_IFS_2.h	/^  boolean_T PIC_CIC_Last;              \/* '<S8>\/PIC\/\/CIC Last State Memory' *\/$/;"	m	struct:__anon35
+POS_ZCSIG	rtwtypes.h	174;"	d
+PREBUILT_OBJS	EKF_IFS_2.mk	/^PREBUILT_OBJS = $/;"	m
+PREBUILT_OBJS	makefile	/^PREBUILT_OBJS = $/;"	m
+PRODUCT	EKF_IFS_2.mk	/^PRODUCT = $(RELATIVE_PATH_TO_ANCHOR)\/EKF_IFS_2$/;"	m
+PRODUCT	makefile	/^PRODUCT = $(RELATIVE_PATH_TO_ANCHOR)\/EKF_IFS_2$/;"	m
+PRODUCT_NAME	EKF_IFS_2.mk	/^PRODUCT_NAME              = EKF_IFS_2$/;"	m
+PRODUCT_NAME	makefile	/^PRODUCT_NAME              = EKF_IFS_2$/;"	m
+PRODUCT_TYPE	EKF_IFS_2.mk	/^PRODUCT_TYPE = "executable"$/;"	m
+PRODUCT_TYPE	makefile	/^PRODUCT_TYPE = "executable"$/;"	m
+P_EKF_IFS_2_T	EKF_IFS_2_types.h	/^typedef struct P_EKF_IFS_2_T_ P_EKF_IFS_2_T;$/;"	t	typeref:struct:P_EKF_IFS_2_T_
+P_EKF_IFS_2_T_	EKF_IFS_2.h	/^struct P_EKF_IFS_2_T_ {$/;"	s
+P_est_00_DSTATE	EKF_IFS_2.h	/^  real_T P_est_00_DSTATE[36];          \/* '<S52>\/P_est_[0\/\/0]' *\/$/;"	m	struct:__anon35
+P_est_00_DSTATE_n	EKF_IFS_2.h	/^  real_T P_est_00_DSTATE_n[196];       \/* '<S143>\/P_est_[0\/\/0]' *\/$/;"	m	struct:__anon35
+Ptrim	EKF_IFS_2.h	/^  real_T Ptrim;                        \/* Variable: Ptrim$/;"	m	struct:P_EKF_IFS_2_T_
+Q	EKF_IFS_2_types.h	/^  real_T Q;$/;"	m	struct:__anon18
+QUOTE	kufcs_main.c	32;"	d	file:
+QUOTE1	kufcs_main.c	31;"	d	file:
+Q_obs_nav	EKF_IFS_2.h	/^  real_T Q_obs_nav[36];                \/* Variable: Q_obs_nav$/;"	m	struct:P_EKF_IFS_2_T_
+Q_obs_sta	EKF_IFS_2.h	/^  real_T Q_obs_sta[196];               \/* Variable: Q_obs_sta$/;"	m	struct:P_EKF_IFS_2_T_
+Qtrim	EKF_IFS_2.h	/^  real_T Qtrim;                        \/* Variable: Qtrim$/;"	m	struct:P_EKF_IFS_2_T_
+R	EKF_IFS_2_types.h	/^  real_T R;$/;"	m	struct:__anon18
+RC	EKF_IFS_2.h	/^  Control_cmd_bus RC;                  \/* '<Root>\/R\/\/C' *\/$/;"	m	struct:__anon36
+READ_BUFFER_SIZE	VectorNav/vndevice.c	41;"	d	file:
+RELATIVE_PATH_TO_ANCHOR	EKF_IFS_2.mk	/^RELATIVE_PATH_TO_ANCHOR   = ..$/;"	m
+RELATIVE_PATH_TO_ANCHOR	makefile	/^RELATIVE_PATH_TO_ANCHOR   = ..$/;"	m
+RISING_ZCEVENT	rtwtypes.h	/^  RISING_ZCEVENT = 1$/;"	e	enum:__anon54
+RISING_ZERO_CROSSING	rtwtypes.h	/^  RISING_ZERO_CROSSING = 1$/;"	e	enum:__anon53
+RM	EKF_IFS_2.mk	/^RM                  = @rm -f$/;"	m
+RM	makefile	/^RM                  = @rm -f$/;"	m
+RTW_HEADER_EKF_IFS_2_h_	EKF_IFS_2.h	17;"	d
+RTW_HEADER_EKF_IFS_2_private_h_	EKF_IFS_2_private.h	17;"	d
+RTW_HEADER_EKF_IFS_2_types_h_	EKF_IFS_2_types.h	17;"	d
+RTW_HEADER_rtGetInf_h_	rtGetInf.h	17;"	d
+RTW_HEADER_rtGetNaN_h_	rtGetNaN.h	17;"	d
+RTW_HEADER_rt_defines_h_	rt_defines.h	17;"	d
+RTW_HEADER_rt_nonfinite_h_	rt_nonfinite.h	17;"	d
+RT_E	rt_defines.h	28;"	d
+RT_EF	rt_defines.h	29;"	d
+RT_LN_10	rt_defines.h	24;"	d
+RT_LN_10F	rt_defines.h	25;"	d
+RT_LOG10E	rt_defines.h	26;"	d
+RT_LOG10EF	rt_defines.h	27;"	d
+RT_MODEL_EKF_IFS_2_T	EKF_IFS_2_types.h	/^typedef struct tag_RTM_EKF_IFS_2_T RT_MODEL_EKF_IFS_2_T;$/;"	t	typeref:struct:tag_RTM_EKF_IFS_2_T
+RT_PI	rt_defines.h	22;"	d
+RT_PIF	rt_defines.h	23;"	d
+RUN	EKF_IFS_2.mk	/^RUN                 =$/;"	m
+RUN	makefile	/^RUN                 =$/;"	m
+R_obs_nav	EKF_IFS_2.h	/^  real_T R_obs_nav[36];                \/* Variable: R_obs_nav$/;"	m	struct:P_EKF_IFS_2_T_
+R_obs_sta	EKF_IFS_2.h	/^  real_T R_obs_sta[64];                \/* Variable: R_obs_sta$/;"	m	struct:P_EKF_IFS_2_T_
+ReadLine	VectorNav/wrapper.c	/^int ReadLine(int fd, char *buf)$/;"	f
+ReadN	VectorNav/wrapper.c	/^int ReadN(int fd, char *buf, int len)$/;"	f
+Remoteaileron_InitialValue	EKF_IFS_2.h	/^  real_T Remoteaileron_InitialValue;   \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Remoteelevator_InitialValue	EKF_IFS_2.h	/^  real_T Remoteelevator_InitialValue;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Remoterudder_InitialValue	EKF_IFS_2.h	/^  real_T Remoterudder_InitialValue;    \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Remotethrottle_InitialValue	EKF_IFS_2.h	/^  real_T Remotethrottle_InitialValue;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Rtrim	EKF_IFS_2.h	/^  real_T Rtrim;                        \/* Variable: Rtrim$/;"	m	struct:P_EKF_IFS_2_T_
+Rudder	EKF_IFS_2_types.h	/^  real_T Rudder;$/;"	m	struct:__anon27
+RudderMax	EKF_IFS_2.h	/^  real_T RudderMax;                    \/* Variable: RudderMax$/;"	m	struct:P_EKF_IFS_2_T_
+RudderMin	EKF_IFS_2.h	/^  real_T RudderMin;                    \/* Variable: RudderMin$/;"	m	struct:P_EKF_IFS_2_T_
+S	EKF_IFS_2.h	/^  real_T S;                            \/* Variable: S$/;"	m	struct:P_EKF_IFS_2_T_
+SAVEFILE	kufcs_main.c	13;"	d	file:
+SHAREDLIB_EXT	EKF_IFS_2.mk	/^SHAREDLIB_EXT       = .so$/;"	m
+SHAREDLIB_EXT	makefile	/^SHAREDLIB_EXT       = .so$/;"	m
+SHAREDLIB_LDFLAGS	EKF_IFS_2.mk	/^SHAREDLIB_LDFLAGS    = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+SHAREDLIB_LDFLAGS	makefile	/^SHAREDLIB_LDFLAGS    = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined$/;"	m
+SOLVER	EKF_IFS_2.mk	/^SOLVER                    = $/;"	m
+SOLVER	makefile	/^SOLVER                    = $/;"	m
+SOLVER_OBJ	EKF_IFS_2.mk	/^SOLVER_OBJ                = $/;"	m
+SOLVER_OBJ	makefile	/^SOLVER_OBJ                = $/;"	m
+SRCS	EKF_IFS_2.mk	/^SRCS = $(START_DIR)\/EKF_IFS_2_ert_rtw\/EKF_IFS_2.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/EKF_IFS_2_data.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rtGetInf.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rtGetNaN.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rt_nonfinite.c$/;"	m
+SRCS	makefile	/^SRCS = $(START_DIR)\/EKF_IFS_2_ert_rtw\/EKF_IFS_2.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/EKF_IFS_2_data.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rtGetInf.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rtGetNaN.c $(START_DIR)\/EKF_IFS_2_ert_rtw\/rt_nonfinite.c$/;"	m
+START_DIR	EKF_IFS_2.mk	/^START_DIR                 = \/nfs\/users\/heechul\/Documents\/MATLAB\/KUFCS_Take2\/kufcs_sim$/;"	m
+START_DIR	makefile	/^START_DIR                 = $(PWD)$/;"	m
+STATICLIB_EXT	EKF_IFS_2.mk	/^STATICLIB_EXT       = .a$/;"	m
+STATICLIB_EXT	makefile	/^STATICLIB_EXT       = .a$/;"	m
+STATICLIB_OUTPUT_FLAG	EKF_IFS_2.mk	/^STATICLIB_OUTPUT_FLAG =$/;"	m
+STATICLIB_OUTPUT_FLAG	makefile	/^STATICLIB_OUTPUT_FLAG =$/;"	m
+SYSTEM_LIBS	EKF_IFS_2.mk	/^SYSTEM_LIBS = -lm -lrt -lpthread$/;"	m
+SYSTEM_LIBS	makefile	/^SYSTEM_LIBS = -lm -lrt -lpthread$/;"	m
+Saturation_LowerSat	EKF_IFS_2.h	/^  real_T Saturation_LowerSat;          \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_c	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_c;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_d	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_d;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_e	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_e;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_f	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_f;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_fj	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_fj;       \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_fo	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_fo;       \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_j	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_j;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_k	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_k;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_l	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_l;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_m	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_m;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_n	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_n;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_ne	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_ne;       \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_LowerSat_p	EKF_IFS_2.h	/^  real_T Saturation_LowerSat_p;        \/* Expression: -1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat	EKF_IFS_2.h	/^  real_T Saturation_UpperSat;          \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_a	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_a;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_ab	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_ab;       \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_b	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_b;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_d	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_d;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_e	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_e;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_f	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_f;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_g	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_g;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_h	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_h;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_h0	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_h0;       \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_h1	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_h1;       \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_hr	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_hr;       \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_k	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_k;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Saturation_UpperSat_l	EKF_IFS_2.h	/^  real_T Saturation_UpperSat_l;        \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+SendSerialData	VectorNav/wrapper.c	/^void SendSerialData(ExtY_EKF_IFS_2_T *data)$/;"	f
+ServoCommands	EKF_IFS_2.h	/^  Control_cmd_bus ServoCommands;       \/* '<Root>\/Servo Commands' *\/$/;"	m	struct:__anon36
+Servodeflection	EKF_IFS_2.h	/^  real_T Servodeflection[4];           \/* '<Root>\/Servo deflection' *\/$/;"	m	struct:__anon36
+SignalsStruct	rt_logging.h	/^} SignalsStruct;$/;"	t	typeref:struct:SignalsStruct_Tag
+SignalsStruct_Tag	rt_logging.h	/^typedef struct SignalsStruct_Tag {$/;"	s
+Sqrt	EKF_IFS_2.h	/^  real_T Sqrt;                         \/* '<S31>\/Sqrt' *\/$/;"	m	struct:__anon30
+Sqrt	EKF_IFS_2.h	/^  real_T Sqrt;                         \/* '<S33>\/Sqrt' *\/$/;"	m	struct:__anon32
+StartWaypointMemory_InitialValu	EKF_IFS_2.h	/^  real_T StartWaypointMemory_InitialValu[3];\/* Expression: [0,0,0]$/;"	m	struct:P_EKF_IFS_2_T_
+Start_Wpt	EKF_IFS_2.h	/^  real_T Start_Wpt[3];                 \/* '<S8>\/Start Waypoint Memory' *\/$/;"	m	struct:__anon35
+State_outputfeedbackselection	EKF_IFS_2.h	/^  real_T State_outputfeedbackselection;\/* '<Root>\/State_output feedback selection' *\/$/;"	m	struct:__anon36
+Statefeedbackcontrollerstates	EKF_IFS_2.h	/^  real_T Statefeedbackcontrollerstates[20];\/* '<Root>\/State feedback controller states' *\/$/;"	m	struct:__anon37
+StructLogVar	rt_logging.h	/^typedef struct StructLogVar_Tag StructLogVar;$/;"	t	typeref:struct:StructLogVar_Tag
+StructLogVar_Tag	rt_logging.h	/^struct StructLogVar_Tag {$/;"	s
+Subsystem1	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_l_T Subsystem1;\/* '<S24>\/Subsystem1' *\/$/;"	m	struct:__anon34
+Subsystem1_c	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_l_T Subsystem1_c;\/* '<S40>\/Subsystem1' *\/$/;"	m	struct:__anon34
+Subsystem1_d	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_T Subsystem1_d;\/* '<S22>\/Subsystem1' *\/$/;"	m	struct:__anon34
+Subsystem1_h	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_l_T Subsystem1_h;\/* '<S23>\/Subsystem1' *\/$/;"	m	struct:__anon34
+Subsystem2	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_T Subsystem2; \/* '<S23>\/Subsystem2' *\/$/;"	m	struct:__anon34
+Subsystem3	EKF_IFS_2.h	/^  B_Subsystem1_EKF_IFS_2_T Subsystem3; \/* '<S23>\/Subsystem3' *\/$/;"	m	struct:__anon34
+Subsystem4	EKF_IFS_2.h	/^  B_Subsystem4_EKF_IFS_2_e_T Subsystem4;\/* '<S23>\/Subsystem4' *\/$/;"	m	struct:__anon34
+Subsystem4_j	EKF_IFS_2.h	/^  B_Subsystem4_EKF_IFS_2_T Subsystem4_j;\/* '<S22>\/Subsystem4' *\/$/;"	m	struct:__anon34
+SumofElements	EKF_IFS_2.h	/^  real_T SumofElements;                \/* '<S32>\/Sum of Elements' *\/$/;"	m	struct:__anon31
+SumofElements	EKF_IFS_2.h	/^  real_T SumofElements;                \/* '<S36>\/Sum of Elements' *\/$/;"	m	struct:__anon33
+Switch1_Threshold	EKF_IFS_2.h	/^  uint8_T Switch1_Threshold;           \/* Computed Parameter: Switch1_Threshold$/;"	m	struct:P_EKF_IFS_2_T_
+Switch2_Threshold	EKF_IFS_2.h	/^  uint8_T Switch2_Threshold;           \/* Computed Parameter: Switch2_Threshold$/;"	m	struct:P_EKF_IFS_2_T_
+Switch3_Threshold	EKF_IFS_2.h	/^  uint8_T Switch3_Threshold;           \/* Computed Parameter: Switch3_Threshold$/;"	m	struct:P_EKF_IFS_2_T_
+Switch4_Threshold	EKF_IFS_2.h	/^  uint8_T Switch4_Threshold;           \/* Computed Parameter: Switch4_Threshold$/;"	m	struct:P_EKF_IFS_2_T_
+Switch5_Threshold	EKF_IFS_2.h	/^  uint8_T Switch5_Threshold;           \/* Computed Parameter: Switch5_Threshold$/;"	m	struct:P_EKF_IFS_2_T_
+Switch_Threshold	EKF_IFS_2.h	/^  real_T Switch_Threshold;             \/* Expression: 1$/;"	m	struct:P_EKF_IFS_2_T_
+Switch_Threshold_i	EKF_IFS_2.h	/^  real_T Switch_Threshold_i;           \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+Switch_Threshold_m	EKF_IFS_2.h	/^  uint8_T Switch_Threshold_m;          \/* Computed Parameter: Switch_Threshold_m$/;"	m	struct:P_EKF_IFS_2_T_
+TGT_FCN_LIB	EKF_IFS_2.mk	/^TGT_FCN_LIB               = None$/;"	m
+TGT_FCN_LIB	makefile	/^TGT_FCN_LIB               = None$/;"	m
+TMW_NAME_LENGTH_MAX	rt_logging.h	23;"	d
+TOOLCHAIN_INCS	EKF_IFS_2.mk	/^TOOLCHAIN_INCS = $/;"	m
+TOOLCHAIN_INCS	makefile	/^TOOLCHAIN_INCS = $/;"	m
+TOOLCHAIN_LIBS	EKF_IFS_2.mk	/^TOOLCHAIN_LIBS = $/;"	m
+TOOLCHAIN_LIBS	makefile	/^TOOLCHAIN_LIBS = $/;"	m
+TOOLCHAIN_SRCS	EKF_IFS_2.mk	/^TOOLCHAIN_SRCS = $/;"	m
+TOOLCHAIN_SRCS	makefile	/^TOOLCHAIN_SRCS = $/;"	m
+TR	EKF_IFS_2.h	/^  real_T TR;                           \/* Variable: TR$/;"	m	struct:P_EKF_IFS_2_T_
+Throttle	EKF_IFS_2_types.h	/^  real_T Throttle;$/;"	m	struct:__anon27
+ThrottleMax	EKF_IFS_2.h	/^  real_T ThrottleMax;                  \/* Variable: ThrottleMax$/;"	m	struct:P_EKF_IFS_2_T_
+ThrottleMin	EKF_IFS_2.h	/^  real_T ThrottleMin;                  \/* Variable: ThrottleMin$/;"	m	struct:P_EKF_IFS_2_T_
+TrackAngles	EKF_IFS_2.h	/^  Track_angles_bus TrackAngles;        \/* '<Root>\/Track Angles' *\/$/;"	m	struct:__anon37
+Track_angles_bus	EKF_IFS_2_types.h	/^} Track_angles_bus;$/;"	t	typeref:struct:__anon22
+UNINITIALIZED_ZCSIG	rtwtypes.h	172;"	d
+UNUSED_PARAMETER	rt_defines.h	38;"	d
+UNUSED_PARAMETER	rt_defines.h	45;"	d
+UnitDelay1_DSTATE	EKF_IFS_2.h	/^  real_T UnitDelay1_DSTATE[6];         \/* '<S46>\/Unit Delay1' *\/$/;"	m	struct:__anon35
+UnitDelay1_DSTATE_b	EKF_IFS_2.h	/^  real_T UnitDelay1_DSTATE_b[7];       \/* '<S142>\/Unit Delay1' *\/$/;"	m	struct:__anon35
+UnitDelay1_InitialCondition	EKF_IFS_2.h	/^  real_T UnitDelay1_InitialCondition;  \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay1_InitialCondition_l	EKF_IFS_2.h	/^  real_T UnitDelay1_InitialCondition_l;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_DSTATE	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE;             \/* '<S191>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_b	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_b;           \/* '<S281>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_bs	EKF_IFS_2.h	/^  boolean_T UnitDelay_DSTATE_bs;       \/* '<S11>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_c	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_c;           \/* '<S506>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_cq	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_cq;          \/* '<S641>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_d	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_d;           \/* '<S236>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_di	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_di;          \/* '<S822>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_dx	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_dx;          \/* '<S371>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_e	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_e;           \/* '<S326>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_f	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_f;           \/* '<S416>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_j	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_j;           \/* '<S461>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_j3	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_j3;          \/* '<S596>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_ja	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_ja;          \/* '<S686>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_l	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_l;           \/* '<S731>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_m	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_m[24];       \/* '<S13>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_DSTATE_p	EKF_IFS_2.h	/^  real_T UnitDelay_DSTATE_p;           \/* '<S551>\/Unit Delay' *\/$/;"	m	struct:__anon35
+UnitDelay_InitialCondition	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition;   \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_b	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_b; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_c	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_c; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_cf	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_cf;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_cw	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_cw;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_g	EKF_IFS_2.h	/^  boolean_T UnitDelay_InitialCondition_g;\/* Computed Parameter: UnitDelay_InitialCondition_g$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_h	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_h; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_hq	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_hq;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_i	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_i; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_j	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_j; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_k	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_k; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_l	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_l; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_o	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_o; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_oq	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_oq;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_oq2	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_oq2;\/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UnitDelay_InitialCondition_p	EKF_IFS_2.h	/^  real_T UnitDelay_InitialCondition_p; \/* Expression: 0$/;"	m	struct:P_EKF_IFS_2_T_
+UtcTime	VectorNav/vndevice.h	/^} UtcTime;$/;"	t	typeref:struct:__anon10
+Utrim	EKF_IFS_2.h	/^  real_T Utrim;                        \/* Variable: Utrim$/;"	m	struct:P_EKF_IFS_2_T_
+VNASYNC_OFF	VectorNav/vndevice.h	71;"	d
+VNASYNC_VNACC	VectorNav/vndevice.h	82;"	d
+VNASYNC_VNCMV	VectorNav/vndevice.h	94;"	d
+VNASYNC_VNCOV	VectorNav/vndevice.h	96;"	d
+VNASYNC_VNDCM	VectorNav/vndevice.h	80;"	d
+VNASYNC_VNGPS	VectorNav/vndevice.h	91;"	d
+VNASYNC_VNGYR	VectorNav/vndevice.h	83;"	d
+VNASYNC_VNICM	VectorNav/vndevice.h	89;"	d
+VNASYNC_VNIMU	VectorNav/vndevice.h	90;"	d
+VNASYNC_VNINS	VectorNav/vndevice.h	92;"	d
+VNASYNC_VNMAG	VectorNav/vndevice.h	81;"	d
+VNASYNC_VNMAR	VectorNav/vndevice.h	84;"	d
+VNASYNC_VNQAR	VectorNav/vndevice.h	78;"	d
+VNASYNC_VNQMA	VectorNav/vndevice.h	77;"	d
+VNASYNC_VNQMR	VectorNav/vndevice.h	79;"	d
+VNASYNC_VNQTA	VectorNav/vndevice.h	75;"	d
+VNASYNC_VNQTM	VectorNav/vndevice.h	74;"	d
+VNASYNC_VNQTN	VectorNav/vndevice.h	73;"	d
+VNASYNC_VNQTR	VectorNav/vndevice.h	76;"	d
+VNASYNC_VNRAW	VectorNav/vndevice.h	93;"	d
+VNASYNC_VNSTV	VectorNav/vndevice.h	95;"	d
+VNASYNC_VNYBA	VectorNav/vndevice.h	87;"	d
+VNASYNC_VNYCM	VectorNav/vndevice.h	86;"	d
+VNASYNC_VNYIA	VectorNav/vndevice.h	88;"	d
+VNASYNC_VNYMR	VectorNav/vndevice.h	85;"	d
+VNASYNC_VNYPR	VectorNav/vndevice.h	72;"	d
+VNERR_FILE_NOT_FOUND	VectorNav/vn_errorCodes.h	54;"	d
+VNERR_INVALID_VALUE	VectorNav/vn_errorCodes.h	53;"	d
+VNERR_NOT_CONNECTED	VectorNav/vn_errorCodes.h	55;"	d
+VNERR_NOT_IMPLEMENTED	VectorNav/vn_errorCodes.h	51;"	d
+VNERR_NO_ERROR	VectorNav/vn_errorCodes.h	49;"	d
+VNERR_PERMISSION_DENIED	VectorNav/vn_errorCodes.h	56;"	d
+VNERR_SENSOR_ERROR_BUFFER_OVERFLOW	VectorNav/vn_errorCodes.h	68;"	d
+VNERR_SENSOR_HARD_FAULT	VectorNav/vn_errorCodes.h	57;"	d
+VNERR_SENSOR_INSUFFICIENT_BAUD_RATE	VectorNav/vn_errorCodes.h	67;"	d
+VNERR_SENSOR_INVALID_CHECKSUM	VectorNav/vn_errorCodes.h	59;"	d
+VNERR_SENSOR_INVALID_COMMAND	VectorNav/vn_errorCodes.h	60;"	d
+VNERR_SENSOR_INVALID_PARAMETER	VectorNav/vn_errorCodes.h	63;"	d
+VNERR_SENSOR_NOT_ENOUGH_PARAMETERS	VectorNav/vn_errorCodes.h	61;"	d
+VNERR_SENSOR_OUTPUT_BUFFER_OVERFLOW	VectorNav/vn_errorCodes.h	66;"	d
+VNERR_SENSOR_SERIAL_BUFFER_OVERFLOW	VectorNav/vn_errorCodes.h	58;"	d
+VNERR_SENSOR_TOO_MANY_PARAMETERS	VectorNav/vn_errorCodes.h	62;"	d
+VNERR_SENSOR_UNAUTHORIZED_ACCESS	VectorNav/vn_errorCodes.h	64;"	d
+VNERR_SENSOR_WATCHDOG_RESET	VectorNav/vn_errorCodes.h	65;"	d
+VNERR_TIMEOUT	VectorNav/vn_errorCodes.h	52;"	d
+VNERR_UNKNOWN_ERROR	VectorNav/vn_errorCodes.h	50;"	d
+VN_BAUDRATE	VectorNav/wrapper.c	/^const int VN_BAUDRATE = 115200;$/;"	v
+VN_CRITICAL_SECTION	VectorNav/vncp_services.h	/^	typedef CRITICAL_SECTION	VN_CRITICAL_SECTION;$/;"	t
+VN_CRITICAL_SECTION	VectorNav/vncp_services.h	/^	typedef pthread_mutex_t	VN_CRITICAL_SECTION;$/;"	t
+VN_ERROR_CODE	VectorNav/vn_errorCodes.h	/^typedef uint32_t VN_ERROR_CODE;$/;"	t
+VN_HANDLE	VectorNav/vncp_services.h	/^	typedef HANDLE				VN_HANDLE;$/;"	t
+VN_HANDLE	VectorNav/vncp_services.h	/^	} VN_HANDLE;$/;"	t	typeref:union:__anon4
+VN_MAX_COMMAND_SIZE	VectorNav/vndevice.h	225;"	d
+VN_MAX_RESPONSE_SIZE	VectorNav/vndevice.h	224;"	d
+VN_NULL	VectorNav/vncp_services.h	99;"	d
+VN_RESPONSE_MATCH_SIZE	VectorNav/vndevice.h	223;"	d
+VN_THREAD_START_ROUTINE	VectorNav/vncp_services.h	/^typedef void *(*VN_THREAD_START_ROUTINE)(void*);$/;"	t
+VT	EKF_IFS_2_types.h	/^  real_T VT;$/;"	m	struct:__anon19
+VT_A_B_bus	EKF_IFS_2_types.h	/^} VT_A_B_bus;$/;"	t	typeref:struct:__anon19
+VT_cmd	EKF_IFS_2_types.h	/^  real_T VT_cmd;$/;"	m	struct:__anon25
+VTalphabetameas	EKF_IFS_2.h	/^  VT_A_B_bus VTalphabetameas;          \/* '<Root>\/VT, alpha, beta meas' *\/$/;"	m	struct:__anon36
+VTtrim	EKF_IFS_2.h	/^  real_T VTtrim;                       \/* Variable: VTtrim$/;"	m	struct:P_EKF_IFS_2_T_
+V_down	EKF_IFS_2_types.h	/^  real_T V_down;$/;"	m	struct:__anon16
+V_east	EKF_IFS_2_types.h	/^  real_T V_east;$/;"	m	struct:__anon16
+V_north	EKF_IFS_2_types.h	/^  real_T V_north;$/;"	m	struct:__anon16
+Vab	EKF_IFS_2_types.h	/^  real_T Vab;$/;"	m	struct:__anon26
+ValDimsData	rt_logging.h	/^} ValDimsData;$/;"	t	typeref:struct:ValDimsData_Tag
+ValDimsData_Tag	rt_logging.h	/^typedef struct ValDimsData_Tag {$/;"	s
+Vn100	VectorNav/vn100.h	/^} Vn100;$/;"	t	typeref:struct:__anon9
+Vn200	VectorNav/vn200.h	/^} Vn200;$/;"	t	typeref:struct:__anon3
+VnDevice	VectorNav/vndevice.h	/^} VnDevice;$/;"	t	typeref:struct:__anon12
+VnDeviceCompositeData	VectorNav/vndevice.h	/^} VnDeviceCompositeData;$/;"	t	typeref:struct:__anon11
+VnDeviceErrorCodeReceivedListener	VectorNav/vndevice.h	/^typedef void (*VnDeviceErrorCodeReceivedListener) (void* sender, VN_ERROR_CODE errorCode);$/;"	t
+VnDeviceNewAsyncDataReceivedListener	VectorNav/vndevice.h	/^typedef void (*VnDeviceNewAsyncDataReceivedListener)(void* sender, VnDeviceCompositeData* newData);$/;"	t
+VnMatrix3x3	VectorNav/vn_linearAlgebra.h	/^} VnMatrix3x3;$/;"	t	typeref:struct:__anon8
+VnQuaternion	VectorNav/vn_kinematics.h	/^} VnQuaternion;$/;"	t	typeref:struct:__anon2
+VnVector3	VectorNav/vn_linearAlgebra.h	/^} VnVector3;$/;"	t	typeref:struct:__anon7
+VnYpr	VectorNav/vn_kinematics.h	/^} VnYpr;$/;"	t	typeref:struct:__anon1
+VncpConditionAndMutex	VectorNav/vncp_services.c	/^} VncpConditionAndMutex;$/;"	t	typeref:struct:__anon6	file:
+VncpThreadStartData	VectorNav/vncp_services.c	/^} VncpThreadStartData;$/;"	t	typeref:struct:__anon5	file:
+VwE	EKF_IFS_2_types.h	/^  real_T VwE;$/;"	m	struct:__anon21
+VwH	EKF_IFS_2_types.h	/^  real_T VwH;$/;"	m	struct:__anon21
+VwN	EKF_IFS_2_types.h	/^  real_T VwN;$/;"	m	struct:__anon21
+WARN_FLAGS	EKF_IFS_2.mk	/^WARN_FLAGS         = -Wall -W -Wwrite-strings -Winline -Wstrict-prototypes -Wnested-externs -Wpointer-arith -Wcast-align$/;"	m
+WARN_FLAGS	makefile	/^WARN_FLAGS         = -Wall -W -Wwrite-strings -Winline -Wstrict-prototypes -Wnested-externs -Wpointer-arith -Wcast-align$/;"	m
+WARN_FLAGS_MAX	EKF_IFS_2.mk	/^WARN_FLAGS_MAX     = $(WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+WARN_FLAGS_MAX	makefile	/^WARN_FLAGS_MAX     = $(WARN_FLAGS) -Wcast-qual -Wshadow$/;"	m
+WaypointIndex	EKF_IFS_2.h	/^  uint8_T WaypointIndex;               \/* '<Root>\/Waypoint Index' *\/$/;"	m	struct:__anon37
+WaypointIndexMemory_InitialValu	EKF_IFS_2.h	/^  uint8_T WaypointIndexMemory_InitialValu;\/* Computed Parameter: WaypointIndexMemory_InitialValu$/;"	m	struct:P_EKF_IFS_2_T_
+Waypoint_Index	EKF_IFS_2.h	/^  uint8_T Waypoint_Index;              \/* '<S8>\/Waypoint Index Memory' *\/$/;"	m	struct:__anon35
+WaypointsIN	EKF_IFS_2.h	/^  waypoint_bus WaypointsIN;            \/* '<Root>\/Waypoints IN' *\/$/;"	m	struct:__anon36
+Wind_bus	EKF_IFS_2_types.h	/^} Wind_bus;$/;"	t	typeref:struct:__anon21
+WriteLine	VectorNav/wrapper.c	/^int WriteLine(int fd, char *buf)$/;"	f
+ZCDirection	rtwtypes.h	/^} ZCDirection;$/;"	t	typeref:enum:__anon53
+ZCEventType	rtwtypes.h	/^} ZCEventType;$/;"	t	typeref:enum:__anon54
+ZCSigState	rtwtypes.h	/^typedef uint8_T ZCSigState;$/;"	t
+ZERO_ZCSIG	rtwtypes.h	175;"	d
+_Bool	VectorNav/vncp_services.h	/^			typedef int8_t _Bool;$/;"	t
+_DEFINED_TYPEDEF_FOR_Accelerometer_	EKF_IFS_2_types.h	108;"	d
+_DEFINED_TYPEDEF_FOR_ControlSurfaceDeflections_	EKF_IFS_2_types.h	189;"	d
+_DEFINED_TYPEDEF_FOR_Control_cmd_bus_	EKF_IFS_2_types.h	20;"	d
+_DEFINED_TYPEDEF_FOR_GPS_position_bus_	EKF_IFS_2_types.h	53;"	d
+_DEFINED_TYPEDEF_FOR_GPS_velocity_bus_	EKF_IFS_2_types.h	64;"	d
+_DEFINED_TYPEDEF_FOR_Guidance_cmd_bus_	EKF_IFS_2_types.h	162;"	d
+_DEFINED_TYPEDEF_FOR_INS_angles_bus_	EKF_IFS_2_types.h	75;"	d
+_DEFINED_TYPEDEF_FOR_INS_rates_bus_	EKF_IFS_2_types.h	86;"	d
+_DEFINED_TYPEDEF_FOR_Local_position_bus_	EKF_IFS_2_types.h	140;"	d
+_DEFINED_TYPEDEF_FOR_Track_angles_bus_	EKF_IFS_2_types.h	130;"	d
+_DEFINED_TYPEDEF_FOR_VT_A_B_bus_	EKF_IFS_2_types.h	97;"	d
+_DEFINED_TYPEDEF_FOR_Wind_bus_	EKF_IFS_2_types.h	119;"	d
+_DEFINED_TYPEDEF_FOR_d_point_bus_	EKF_IFS_2_types.h	151;"	d
+_DEFINED_TYPEDEF_FOR_trajectory_bus_	EKF_IFS_2_types.h	174;"	d
+_DEFINED_TYPEDEF_FOR_waypoint_bus_	EKF_IFS_2_types.h	32;"	d
+_VECTORNAV_H_	VectorNav/vectornav.h	32;"	d
+_VN100_H_	VectorNav/vn100.h	32;"	d
+_VN200_H_	VectorNav/vn200.h	32;"	d
+_VNCP_SERVICES_H_	VectorNav/vncp_services.h	33;"	d
+_VNDEVICE_H_	VectorNav/vndevice.h	32;"	d
+_VNINT_H_	VectorNav/vnint.h	32;"	d
+_VN_COMMON_H_	VectorNav/vn_common.h	32;"	d
+_VN_ERRORCODES_H_	VectorNav/vn_errorCodes.h	32;"	d
+_VN_KINEMATICS_H	VectorNav/vn_kinematics.h	31;"	d
+_VN_LINEAR_ALGEBRA_H_	VectorNav/vn_linearAlgebra.h	36;"	d
+_VN_MATH_H_	VectorNav/vn_math.h	37;"	d
+__RTWTYPES_H__	rtwtypes.h	17;"	d
+__TMWTYPES__	rtwtypes.h	32;"	d
+__ZERO_CROSSING_TYPES__	rtwtypes.h	159;"	d
+__bool_true_false_are_defined	VectorNav/vncp_services.h	89;"	d
+_clockStart	VectorNav/vncp_services.c	/^double _clockStart = -1.0;$/;"	v
+_dims	rt_logging.h	/^  int_T          _dims[2];           \/* most cases, dimensions are 2          *\/$/;"	m	struct:MatrixData_Tag
+accelEcef	VectorNav/vndevice.h	/^	VnVector3		accelEcef;					\/**< The estimated acceleration (with gravity) givin in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+accelNed	VectorNav/vndevice.h	/^	VnVector3		accelNed;					\/**< The estimated acceleration (with gravity) given in the North, East, Down (NED) frame. *\/$/;"	m	struct:__anon11
+acceleration	VectorNav/vndevice.h	/^	VnVector3		acceleration;				\/**< Acceleration measurements. *\/$/;"	m	struct:__anon11
+accelerationUncompensated	VectorNav/vndevice.h	/^	VnVector3		accelerationUncompensated;	\/**< Uncompensated acceleration measurements. *\/$/;"	m	struct:__anon11
+accelerationVoltage	VectorNav/vndevice.h	/^	VnVector3		accelerationVoltage;		\/**< Accleration sensor voltages. *\/$/;"	m	struct:__anon11
+aileron_cmd	EKF_IFS_2_types.h	/^  real_T aileron_cmd;$/;"	m	struct:__anon13
+ailerontrim	EKF_IFS_2.h	/^  real_T ailerontrim;                  \/* Variable: ailerontrim$/;"	m	struct:P_EKF_IFS_2_T_
+alpha	EKF_IFS_2_types.h	/^  real_T alpha;$/;"	m	struct:__anon19
+alphatrim	EKF_IFS_2.h	/^  real_T alphatrim;                    \/* Variable: alphatrim$/;"	m	struct:P_EKF_IFS_2_T_
+angularRate	VectorNav/vndevice.h	/^	VnVector3		angularRate;				\/**< Angular rate \/ gyro measurements. *\/$/;"	m	struct:__anon11
+angularRateBias	VectorNav/vndevice.h	/^	VnVector3		angularRateBias;			\/**< Angular rate estimated biases. *\/$/;"	m	struct:__anon11
+angularRateBiasVariance	VectorNav/vndevice.h	/^	VnVector3		angularRateBiasVariance;	\/**< Angular rate bias variance. *\/$/;"	m	struct:__anon11
+angularRateUncompensated	VectorNav/vndevice.h	/^	VnVector3		angularRateUncompensated;	\/**< Uncompensated angular rate measurements. *\/$/;"	m	struct:__anon11
+angularRateVoltage	VectorNav/vndevice.h	/^	VnVector3		angularRateVoltage;			\/**< Angular rate sensor voltages. *\/$/;"	m	struct:__anon11
+asyncDataListener	VectorNav/vndevice.h	/^	VnDeviceNewAsyncDataReceivedListener asyncDataListener;$/;"	m	struct:__anon12
+attitudeUncertainty	VectorNav/vndevice.h	/^	float			attitudeUncertainty;		\/**< Uncertainty in attitude estimate. *\/$/;"	m	struct:__anon11
+attitudeVariance	VectorNav/vndevice.h	/^	VnVector3		attitudeVariance;			\/**< Variance for the computed attitude. *\/$/;"	m	struct:__anon11
+b	EKF_IFS_2.h	/^  real_T b;                            \/* Variable: b$/;"	m	struct:P_EKF_IFS_2_T_
+baudRate	VectorNav/vn100.h	/^	int					baudRate;		\/**< The baudrate of the serial port. *\/$/;"	m	struct:__anon9
+baudRate	VectorNav/vn200.h	/^	int					baudRate;		\/**< The baudrate of the serial port. *\/$/;"	m	struct:__anon3
+beta	EKF_IFS_2_types.h	/^  real_T beta;$/;"	m	struct:__anon19
+beta_cmd	EKF_IFS_2_types.h	/^  real_T beta_cmd;$/;"	m	struct:__anon25
+betatrim	EKF_IFS_2.h	/^  real_T betatrim;                     \/* Variable: betatrim$/;"	m	struct:P_EKF_IFS_2_T_
+blockName	rt_logging.h	/^    MatrixData    *blockName;$/;"	m	struct:StructLogVar_Tag
+blockNames	rt_logging.h	/^    MatrixData   *blockNames;$/;"	m	struct:SignalsStruct_Tag
+bool	VectorNav/vncp_services.h	86;"	d
+boolean_T	rtwtypes.h	/^typedef unsigned char boolean_T;$/;"	t
+byte_T	rtwtypes.h	/^typedef char_T byte_T;$/;"	t
+c0	VectorNav/vn_linearAlgebra.h	/^	double	c0;		\/**< Component 0 *\/$/;"	m	struct:__anon7
+c00	VectorNav/vn_linearAlgebra.h	/^	double c00;		\/**< Component 0,0 *\/$/;"	m	struct:__anon8
+c01	VectorNav/vn_linearAlgebra.h	/^	double c01;		\/**< Component 0,1 *\/$/;"	m	struct:__anon8
+c02	VectorNav/vn_linearAlgebra.h	/^	double c02;		\/**< Component 0,2 *\/$/;"	m	struct:__anon8
+c1	VectorNav/vn_linearAlgebra.h	/^	double	c1;		\/**< Component 1 *\/$/;"	m	struct:__anon7
+c10	VectorNav/vn_linearAlgebra.h	/^	double c10;		\/**< Component 1,0 *\/$/;"	m	struct:__anon8
+c11	VectorNav/vn_linearAlgebra.h	/^	double c11;		\/**< Component 1,1 *\/$/;"	m	struct:__anon8
+c12	VectorNav/vn_linearAlgebra.h	/^	double c12;		\/**< Component 1,2 *\/$/;"	m	struct:__anon8
+c2	VectorNav/vn_linearAlgebra.h	/^	double	c2;		\/**< Component 2 *\/$/;"	m	struct:__anon7
+c20	VectorNav/vn_linearAlgebra.h	/^	double c20;		\/**< Component 2,0 *\/$/;"	m	struct:__anon8
+c21	VectorNav/vn_linearAlgebra.h	/^	double c21;		\/**< Component 2,1 *\/$/;"	m	struct:__anon8
+c22	VectorNav/vn_linearAlgebra.h	/^	double c22;		\/**< Component 2,2 *\/$/;"	m	struct:__anon8
+char_T	rtwtypes.h	/^typedef char char_T;$/;"	t
+checkForResponse	VectorNav/vndevice.h	/^	bool					checkForResponse;$/;"	m	struct:__anon12
+cint16_T	rtwtypes.h	/^} cint16_T;$/;"	t	typeref:struct:__anon49
+cint32_T	rtwtypes.h	/^} cint32_T;$/;"	t	typeref:struct:__anon51
+cint8_T	rtwtypes.h	/^} cint8_T;$/;"	t	typeref:struct:__anon47
+cmd	EKF_IFS_2_types.h	/^  uint8_T cmd[32];$/;"	m	struct:__anon14
+cmdResponseBuffer	VectorNav/vndevice.h	/^	char					cmdResponseBuffer[VN_MAX_RESPONSE_SIZE + 1];$/;"	m	struct:__anon12
+cmdResponseMatchBuffer	VectorNav/vndevice.h	/^	char					cmdResponseMatchBuffer[VN_RESPONSE_MATCH_SIZE + 1];$/;"	m	struct:__anon12
+comPortHandle	VectorNav/vncp_services.h	/^		int					comPortHandle;$/;"	m	union:__anon4
+comPortHandle	VectorNav/vndevice.h	/^	VN_HANDLE				comPortHandle;$/;"	m	struct:__anon12
+comPortServiceThreadHandle	VectorNav/vndevice.h	/^	VN_HANDLE				comPortServiceThreadHandle;$/;"	m	struct:__anon12
+complex	rt_logging.h	/^  uint32_T       complex;            \/* is this a complex matrix?             *\/$/;"	m	struct:MatrixData_Tag
+condition	VectorNav/vncp_services.c	/^	pthread_cond_t		condition;$/;"	m	struct:__anon6	file:
+conditionAndMutexStruct	VectorNav/vncp_services.h	/^		void*				conditionAndMutexStruct;$/;"	m	union:__anon4
+continueServicingComPort	VectorNav/vndevice.h	/^	bool					continueServicingComPort;$/;"	m	struct:__anon12
+coords	rt_logging.h	/^    int_T     *coords;$/;"	m	struct:LogVar_Tag
+creal32_T	rtwtypes.h	/^} creal32_T;$/;"	t	typeref:struct:__anon44
+creal64_T	rtwtypes.h	/^} creal64_T;$/;"	t	typeref:struct:__anon45
+creal_T	rtwtypes.h	/^} creal_T;$/;"	t	typeref:struct:__anon46
+critSecForComPort	VectorNav/vndevice.h	/^	VN_CRITICAL_SECTION		critSecForComPort;$/;"	m	struct:__anon12
+critSecForLatestAsyncDataAccess	VectorNav/vndevice.h	/^	VN_CRITICAL_SECTION		critSecForLatestAsyncDataAccess;$/;"	m	struct:__anon12
+critSecForResponseMatchAccess	VectorNav/vndevice.h	/^	VN_CRITICAL_SECTION		critSecForResponseMatchAccess;$/;"	m	struct:__anon12
+crossMdlRef	rt_logging.h	/^    MatrixData   *crossMdlRef;$/;"	m	struct:SignalsStruct_Tag
+cuint16_T	rtwtypes.h	/^} cuint16_T;$/;"	t	typeref:struct:__anon50
+cuint32_T	rtwtypes.h	/^} cuint32_T;$/;"	t	typeref:struct:__anon52
+cuint8_T	rtwtypes.h	/^} cuint8_T;$/;"	t	typeref:struct:__anon48
+currSigDims	rt_logging.h	/^  void           **currSigDims;      \/* dimensions of current output          *\/$/;"	m	struct:ValDimsData_Tag
+currSigDimsSize	rt_logging.h	/^  int_T          *currSigDimsSize;   \/* size in bytes of current sig dims     *\/$/;"	m	struct:ValDimsData_Tag
+currStrides	rt_logging.h	/^    int_T     *currStrides;           \/* coords, strides and currStrides will be$/;"	m	struct:LogVar_Tag
+dTypeID	rt_logging.h	/^  DTypeId        dTypeID;            \/* data type id                          *\/$/;"	m	struct:MatrixData_Tag
+d_point_bus	EKF_IFS_2_types.h	/^} d_point_bus;$/;"	t	typeref:struct:__anon24
+data	rt_logging.h	/^    MatrixData  data;                 \/* Container for name, data etc.,       *\/$/;"	m	struct:LogVar_Tag
+dataTypeConvertInfo	rt_logging.h	/^  RTWLogDataTypeConvert dataTypeConvertInfo;$/;"	m	struct:MatrixData_Tag
+day	VectorNav/vndevice.h	/^	uint8_t		day;	\/**< Day. *\/$/;"	m	struct:__anon10
+dcm	VectorNav/vndevice.h	/^	VnMatrix3x3		dcm;						\/**< Direction cosine matrix. *\/$/;"	m	struct:__anon11
+decimation	rt_logging.h	/^    int_T     decimation;             \/* decimation factor                    *\/$/;"	m	struct:LogVar_Tag
+deltaTheta	VectorNav/vndevice.h	/^	VnVector3		deltaTheta;					\/**< The delta rotation angles due to rotation since the values were last output by the device. *\/$/;"	m	struct:__anon11
+deltaTime	VectorNav/vndevice.h	/^	double			deltaTime;					\/**< Time interval that the delta angles and velocities are integrated over. *\/$/;"	m	struct:__anon11
+deltaVelocity	VectorNav/vndevice.h	/^	VnVector3		deltaVelocity;				\/**< The delta velocity due to motion since the values were last output by the device. *\/$/;"	m	struct:__anon11
+delta_Value	EKF_IFS_2.h	/^  real_T delta_Value;                  \/* Expression: 0.00001$/;"	m	struct:P_EKF_IFS_2_T_
+delta_Value_a	EKF_IFS_2.h	/^  real_T delta_Value_a;                \/* Expression: 0.00001$/;"	m	struct:P_EKF_IFS_2_T_
+delta_Value_i	EKF_IFS_2.h	/^  real_T delta_Value_i;                \/* Expression: 0.00001$/;"	m	struct:P_EKF_IFS_2_T_
+deviceMask	VectorNav/vndevice.h	/^	void* deviceMask;$/;"	m	struct:__anon12
+dimensions	rt_logging.h	/^    MatrixData   *dimensions;$/;"	m	struct:SignalsStruct_Tag
+dims	rt_logging.h	/^  int_T          *dims;              \/* dimensions of the log variable we $/;"	m	struct:MatrixData_Tag
+dimsData	rt_logging.h	/^  real_T         *dimsData;          \/* pointer to the value of dimension     *\/$/;"	m	struct:ValDimsData_Tag
+dist2b	EKF_IFS_2.h	/^  real_T dist2b;                       \/* Variable: dist2b$/;"	m	struct:P_EKF_IFS_2_T_
+dt	EKF_IFS_2.h	/^  real_T dt;                           \/* Variable: dt$/;"	m	struct:P_EKF_IFS_2_T_
+e	EKF_IFS_2_types.h	/^  real_T e[32];$/;"	m	struct:__anon14
+e_Value	EKF_IFS_2.h	/^  real_T e_Value;                      \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_b	EKF_IFS_2.h	/^  real_T e_Value_b;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_c	EKF_IFS_2.h	/^  real_T e_Value_c;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_cc	EKF_IFS_2.h	/^  real_T e_Value_cc;                   \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_d	EKF_IFS_2.h	/^  real_T e_Value_d;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_dw	EKF_IFS_2.h	/^  real_T e_Value_dw;                   \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_e	EKF_IFS_2.h	/^  real_T e_Value_e;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_i	EKF_IFS_2.h	/^  real_T e_Value_i;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_j	EKF_IFS_2.h	/^  real_T e_Value_j;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_k	EKF_IFS_2.h	/^  real_T e_Value_k;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_k1	EKF_IFS_2.h	/^  real_T e_Value_k1;                   \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_n	EKF_IFS_2.h	/^  real_T e_Value_n;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_o	EKF_IFS_2.h	/^  real_T e_Value_o;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_Value_p	EKF_IFS_2.h	/^  real_T e_Value_p;                    \/* Expression: 0.87$/;"	m	struct:P_EKF_IFS_2_T_
+e_op	EKF_IFS_2.h	/^  real_T e_op[22];                     \/* '<Root>\/e_op' *\/$/;"	m	struct:__anon36
+ea	EKF_IFS_2_types.h	/^  real_T ea;$/;"	m	struct:__anon26
+eb	EKF_IFS_2_types.h	/^  real_T eb;$/;"	m	struct:__anon26
+ed	EKF_IFS_2_types.h	/^  real_T ed;$/;"	m	struct:__anon24
+elSize	rt_logging.h	/^  size_t         elSize;             \/* element size in bytes                 *\/$/;"	m	struct:MatrixData_Tag
+elevator_cmd	EKF_IFS_2_types.h	/^  real_T elevator_cmd;$/;"	m	struct:__anon13
+elevatortrim	EKF_IFS_2.h	/^  real_T elevatortrim;                 \/* Variable: elevatortrim$/;"	m	struct:P_EKF_IFS_2_T_
+errorCodeListener	VectorNav/vndevice.h	/^	VnDeviceErrorCodeReceivedListener errorCodeListener;$/;"	m	struct:__anon12
+errorStatus	EKF_IFS_2.h	/^  const char_T * volatile errorStatus;$/;"	m	struct:tag_RTM_EKF_IFS_2_T
+etaLat	EKF_IFS_2_types.h	/^  real_T etaLat;$/;"	m	struct:__anon22
+etaLon	EKF_IFS_2_types.h	/^  real_T etaLon;$/;"	m	struct:__anon22
+fact_lat	EKF_IFS_2_types.h	/^  real_T fact_lat;$/;"	m	struct:__anon14
+fact_lon	EKF_IFS_2_types.h	/^  real_T fact_lon;$/;"	m	struct:__anon14
+false	VectorNav/vncp_services.h	88;"	d
+fieldNames	rt_logging.h	/^    const char_T *fieldNames;$/;"	m	struct:SignalsStruct_Tag
+fp	EKF_IFS_2_types.h	/^  uint8_T fp;$/;"	m	struct:__anon14
+frameData	rt_logging.h	/^  uint32_T       frameData;          \/* is this data frame based?             *\/$/;"	m	struct:MatrixData_Tag
+frameSize	rt_logging.h	/^  uint32_T       frameSize;          \/* is this data frame based?             *\/$/;"	m	struct:MatrixData_Tag
+g	EKF_IFS_2.h	/^  real_T g;                            \/* Variable: g$/;"	m	struct:P_EKF_IFS_2_T_
+g_debug_level	VectorNav/wrapper.c	/^int g_debug_level = 1;$/;"	v
+get_elapsed	kufcs_main.c	/^uint64_t get_elapsed(struct timespec *start, struct timespec *end)$/;"	f
+gpsFix	VectorNav/vndevice.h	/^	uint8_t			gpsFix;						\/**< The current GPS fix. *\/$/;"	m	struct:__anon11
+gpsPosEcef	VectorNav/vndevice.h	/^	VnVector3		gpsPosEcef;					\/**< The current GPS position given in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+gpsPosLla	VectorNav/vndevice.h	/^	VnVector3		gpsPosLla;					\/**< The current GPS possition given in latitude, longitude, and altitude. *\/$/;"	m	struct:__anon11
+gpsPosU	VectorNav/vndevice.h	/^	VnVector3		gpsPosU;					\/**< The current GPS position uncertainty in the North, East, Down (NED) frame. *\/$/;"	m	struct:__anon11
+gpsTowNs	VectorNav/vndevice.h	/^	uint64_t		gpsTowNs;					\/**< GPS time of week in nanoseconds. *\/$/;"	m	struct:__anon11
+gpsTowSec	VectorNav/vndevice.h	/^	double			gpsTowSec;					\/**< GPS time of week in seconds. *\/$/;"	m	struct:__anon11
+gpsVelEcef	VectorNav/vndevice.h	/^	VnVector3		gpsVelEcef;					\/**< The current GPS velocity in the Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+gpsVelU	VectorNav/vndevice.h	/^	double			gpsVelU;					\/**< The current GPS velocity uncertainty in m\/s. *\/$/;"	m	struct:__anon11
+gpsVelocity	VectorNav/vndevice.h	/^	VnVector3		gpsVelocity;				\/**< The current GPS velocity. *\/$/;"	m	struct:__anon11
+gpsWeek	VectorNav/vndevice.h	/^	uint16_t		gpsWeek;					\/**< GPS week. *\/$/;"	m	struct:__anon11
+h	EKF_IFS_2_types.h	/^  real_T h[32];$/;"	m	struct:__anon14
+h_op	EKF_IFS_2.h	/^  real_T h_op[22];                     \/* '<Root>\/h_op' *\/$/;"	m	struct:__anon36
+ha	EKF_IFS_2_types.h	/^  real_T ha;$/;"	m	struct:__anon26
+hb	EKF_IFS_2_types.h	/^  real_T hb;$/;"	m	struct:__anon26
+hd	EKF_IFS_2_types.h	/^  real_T hd;$/;"	m	struct:__anon24
+hour	VectorNav/vndevice.h	/^	uint8_t		hour;	\/**< Hour. *\/$/;"	m	struct:__anon10
+im	rt_logging.h	/^  void           *im;                \/* pointer to imaginary part, if complex *\/$/;"	m	struct:MatrixData_Tag
+im	rtwtypes.h	/^  int16_T im;$/;"	m	struct:__anon49
+im	rtwtypes.h	/^  int32_T im;$/;"	m	struct:__anon51
+im	rtwtypes.h	/^  int8_T im;$/;"	m	struct:__anon47
+im	rtwtypes.h	/^  real32_T im;$/;"	m	struct:__anon44
+im	rtwtypes.h	/^  real64_T im;$/;"	m	struct:__anon45
+im	rtwtypes.h	/^  real_T im;$/;"	m	struct:__anon46
+im	rtwtypes.h	/^  uint16_T im;$/;"	m	struct:__anon50
+im	rtwtypes.h	/^  uint32_T im;$/;"	m	struct:__anon52
+im	rtwtypes.h	/^  uint8_T im;$/;"	m	struct:__anon48
+insStatus	VectorNav/vndevice.h	/^	uint16_t		insStatus;					\/**< Status flags for the INS filter. *\/$/;"	m	struct:__anon11
+int16_T	rtwtypes.h	/^typedef short int16_T;$/;"	t
+int16_t	VectorNav/vnint.h	/^typedef signed __int16		int16_t;$/;"	t
+int32_T	rtwtypes.h	/^typedef int int32_T;$/;"	t
+int32_t	VectorNav/vnint.h	/^typedef signed __int32		int32_t;$/;"	t
+int64_t	VectorNav/vnint.h	/^typedef signed __int64		int64_t;$/;"	t
+int8_T	rtwtypes.h	/^typedef signed char int8_T;$/;"	t
+int8_t	VectorNav/vnint.h	/^typedef signed __int8		int8_t;$/;"	t
+int_T	rtwtypes.h	/^typedef int int_T;$/;"	t
+isConnected	VectorNav/vn100.h	/^	bool				isConnected;	\/**< Inidicates if the serial port is open. *\/$/;"	m	struct:__anon9
+isConnected	VectorNav/vn200.h	/^	bool				isConnected;	\/**< Inidicates if the serial port is open. *\/$/;"	m	struct:__anon3
+isTriggered	VectorNav/vncp_services.c	/^	bool				isTriggered;$/;"	m	struct:__anon6	file:
+isVarDims	rt_logging.h	/^    boolean_T    *isVarDims;         \/* is this signal a variable-size signal? *\/$/;"	m	struct:SignalsStruct_Tag
+labels	rt_logging.h	/^    MatrixData   *labels;$/;"	m	struct:SignalsStruct_Tag
+lastestAsyncData	VectorNav/vndevice.h	/^	VnDeviceCompositeData	lastestAsyncData;$/;"	m	struct:__anon12
+latitudeLongitudeAltitude	VectorNav/vndevice.h	/^	VnVector3		latitudeLongitudeAltitude;	\/**< The estimated latitude, longitude and altitude. *\/$/;"	m	struct:__anon11
+linearAccelBody	VectorNav/vndevice.h	/^	VnVector3		linearAccelBody;			\/**< The estimated linear acceleration (without gravity) given in the body frame. *\/$/;"	m	struct:__anon11
+linearAccelEcef	VectorNav/vndevice.h	/^	VnVector3		linearAccelEcef;			\/**< The estimated linear acceleration (without gravity) givin in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+linearAccelNed	VectorNav/vndevice.h	/^	VnVector3		linearAccelNed;				\/**< The estimated linear acceleration (without gravity) givein in the North, East, Down (NED) frame. *\/$/;"	m	struct:__anon11
+logTime	rt_logging.h	/^    boolean_T     logTime;$/;"	m	struct:StructLogVar_Tag
+logValueDimensions	rt_logging.h	/^    boolean_T    logValueDimensions; \/* If there's any variable-size signal $/;"	m	struct:SignalsStruct_Tag
+logical	rt_logging.h	/^  uint32_T       logical;            \/* is this a logical array ?             *\/$/;"	m	struct:MatrixData_Tag
+magEcef	VectorNav/vndevice.h	/^	VnVector3		magEcef;					\/**< The compensated magnetic measurement givein in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+magNed	VectorNav/vndevice.h	/^	VnVector3		magNed;						\/**< The estimated magnetic field in North, East, Down (NED) frame. *\/$/;"	m	struct:__anon11
+magnetic	VectorNav/vndevice.h	/^	VnVector3		magnetic;					\/**< Magnetic measurements. *\/$/;"	m	struct:__anon11
+magneticUncompensated	VectorNav/vndevice.h	/^	VnVector3		magneticUncompensated;		\/**< Uncompensated magnetic measurements. *\/$/;"	m	struct:__anon11
+magneticVoltage	VectorNav/vndevice.h	/^	VnVector3		magneticVoltage;			\/**< Magnetic sensor voltages. *\/$/;"	m	struct:__anon11
+main	VectorNav/vn200_linux_basic.c	/^int main()$/;"	f
+main	kufcs_main.c	/^int main(int argc, char *argv[])$/;"	f
+matDOUBLE	rt_logging.h	151;"	d
+matFLOAT	rt_logging.h	150;"	d
+matINT16	rt_logging.h	146;"	d
+matINT32	rt_logging.h	148;"	d
+matINT64	rt_logging.h	152;"	d
+matINT8	rt_logging.h	144;"	d
+matMATRIX	rt_logging.h	154;"	d
+matUINT16	rt_logging.h	147;"	d
+matUINT32	rt_logging.h	149;"	d
+matUINT64	rt_logging.h	153;"	d
+matUINT8	rt_logging.h	145;"	d
+matUNKNOWN	rt_logging.h	143;"	d
+min	VectorNav/vndevice.h	/^	uint8_t		min;	\/**< Minute. *\/$/;"	m	struct:__anon10
+month	VectorNav/vndevice.h	/^	uint8_t		month;	\/**< Month. *\/$/;"	m	struct:__anon10
+ms	VectorNav/vndevice.h	/^	uint16_t	ms;		\/**< Millisecond. *\/$/;"	m	struct:__anon10
+mutex	VectorNav/vncp_services.c	/^	pthread_mutex_t		mutex;$/;"	m	struct:__anon6	file:
+mutexHandle	VectorNav/vncp_services.h	/^		pthread_mutex_t		mutexHandle;$/;"	m	union:__anon4
+mxID	rt_logging.h	/^  mxClassID      mxID;               \/* mxId corresponding to this dTypeID    *\/$/;"	m	struct:MatrixData_Tag
+mxMAXNAM	rt_logging.h	25;"	d
+n	EKF_IFS_2_types.h	/^  real_T n[32];$/;"	m	struct:__anon14
+nCols	rt_logging.h	/^  int_T          nCols;              \/* number of columns                     *\/$/;"	m	struct:MatrixData_Tag
+nCols	rt_logging.h	/^  int_T          nCols;              \/* number of columns                     *\/$/;"	m	struct:ValDimsData_Tag
+nDataPoints	rt_logging.h	/^    int_T     nDataPoints;            \/* total number of data points logged   *\/$/;"	m	struct:LogVar_Tag
+nDims	rt_logging.h	/^  int_T          nDims;              \/* number of dimensions                  *\/$/;"	m	struct:MatrixData_Tag
+nRows	rt_logging.h	/^  int_T          nRows;              \/* number of rows                        *\/$/;"	m	struct:MatrixData_Tag
+nRows	rt_logging.h	/^  int_T          nRows;              \/* number of rows                        *\/$/;"	m	struct:ValDimsData_Tag
+n_op	EKF_IFS_2.h	/^  real_T n_op[22];                     \/* '<Root>\/n_op' *\/$/;"	m	struct:__anon36
+na	EKF_IFS_2_types.h	/^  real_T na;$/;"	m	struct:__anon26
+name	rt_logging.h	/^    char_T        name[mxMAXNAM];    \/* Name of the ML Struct variable         *\/$/;"	m	struct:StructLogVar_Tag
+name	rt_logging.h	/^  char_T         name[mxMAXNAM];     \/* Name of the variable                  *\/$/;"	m	struct:MatrixData_Tag
+name	rt_logging.h	/^  char_T         name[mxMAXNAM];     \/* Name of the variable                  *\/$/;"	m	struct:ValDimsData_Tag
+nb	EKF_IFS_2_types.h	/^  real_T nb;$/;"	m	struct:__anon26
+nd	EKF_IFS_2_types.h	/^  real_T nd;$/;"	m	struct:__anon24
+next	rt_logging.h	/^    LogVar    *next;$/;"	m	struct:LogVar_Tag
+next	rt_logging.h	/^    StructLogVar  *next;$/;"	m	struct:StructLogVar_Tag
+numActiveFields	rt_logging.h	/^    int_T         numActiveFields;   \/* number of active fields                *\/$/;"	m	struct:StructLogVar_Tag
+numActiveFields	rt_logging.h	/^    int_T        numActiveFields;   \/* number of active fields                *\/$/;"	m	struct:SignalsStruct_Tag
+numHits	rt_logging.h	/^    int_T     numHits;                \/* decimation hit count                 *\/$/;"	m	struct:LogVar_Tag
+numSats	VectorNav/vndevice.h	/^	uint8_t			numSats;					\/**< Number of tracked GPS satellites. *\/$/;"	m	struct:__anon11
+numSignals	rt_logging.h	/^    int_T        numSignals;$/;"	m	struct:SignalsStruct_Tag
+okayToRealloc	rt_logging.h	/^    int_T     okayToRealloc;          \/* reallocate during sim?               *\/$/;"	m	struct:LogVar_Tag
+pThreadHandle	VectorNav/vncp_services.h	/^		pthread_t			pThreadHandle;$/;"	m	union:__anon4
+params	EKF_IFS_2_types.h	/^  int16_T params[256];$/;"	m	struct:__anon14
+phi	EKF_IFS_2_types.h	/^  real_T phi;$/;"	m	struct:__anon17
+phi_cmd	EKF_IFS_2_types.h	/^  real_T phi_cmd;$/;"	m	struct:__anon25
+phitrim	EKF_IFS_2.h	/^  real_T phitrim;                      \/* Variable: phitrim$/;"	m	struct:P_EKF_IFS_2_T_
+pitch	VectorNav/vn_kinematics.h	/^	double	pitch;		\/**< Pitch *\/$/;"	m	struct:__anon1
+plotStyles	rt_logging.h	/^    MatrixData   *plotStyles;$/;"	m	struct:SignalsStruct_Tag
+pointer_T	rtwtypes.h	/^typedef void * pointer_T;$/;"	t
+portName	VectorNav/vn100.h	/^	char*				portName;		\/**< The name of the serial port. *\/$/;"	m	struct:__anon9
+portName	VectorNav/vn200.h	/^	char*				portName;		\/**< The name of the serial port. *\/$/;"	m	struct:__anon3
+posEcef	VectorNav/vndevice.h	/^	VnVector3		posEcef;					\/**< The estimated position given in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+posU	VectorNav/vndevice.h	/^	double			posU;						\/**< The estimated uncertainty of the current position estimate in meters. *\/$/;"	m	struct:__anon11
+pressure	VectorNav/vndevice.h	/^	double			pressure;					\/**< Pressure measurements. *\/$/;"	m	struct:__anon11
+psi	EKF_IFS_2_types.h	/^  real_T psi;$/;"	m	struct:__anon17
+quaternion	VectorNav/vndevice.h	/^	VnQuaternion	quaternion;					\/**< Quaternion. *\/$/;"	m	struct:__anon11
+re	rt_logging.h	/^  void           *re;                \/* pointer to real part of the data      *\/$/;"	m	struct:MatrixData_Tag
+re	rtwtypes.h	/^  int16_T re;$/;"	m	struct:__anon49
+re	rtwtypes.h	/^  int32_T re;$/;"	m	struct:__anon51
+re	rtwtypes.h	/^  int8_T re;$/;"	m	struct:__anon47
+re	rtwtypes.h	/^  real32_T re;$/;"	m	struct:__anon44
+re	rtwtypes.h	/^  real64_T re;$/;"	m	struct:__anon45
+re	rtwtypes.h	/^  real_T re;$/;"	m	struct:__anon46
+re	rtwtypes.h	/^  uint16_T re;$/;"	m	struct:__anon50
+re	rtwtypes.h	/^  uint32_T re;$/;"	m	struct:__anon52
+re	rtwtypes.h	/^  uint8_T re;$/;"	m	struct:__anon48
+real32_T	rtwtypes.h	/^typedef float real32_T;$/;"	t
+real64_T	rtwtypes.h	/^typedef double real64_T;$/;"	t
+real_T	rtwtypes.h	/^typedef double real_T;$/;"	t
+ref_alt	EKF_IFS_2_types.h	/^  real_T ref_alt;$/;"	m	struct:__anon14
+ref_lat	EKF_IFS_2_types.h	/^  real_T ref_lat;$/;"	m	struct:__anon14
+ref_lon	EKF_IFS_2_types.h	/^  real_T ref_lon;$/;"	m	struct:__anon14
+remote_aileron_mem	EKF_IFS_2.h	/^  real_T remote_aileron_mem;           \/* '<S7>\/Remote aileron' *\/$/;"	m	struct:__anon35
+remote_elevator_mem	EKF_IFS_2.h	/^  real_T remote_elevator_mem;          \/* '<S7>\/Remote elevator' *\/$/;"	m	struct:__anon35
+remote_rudder_mem	EKF_IFS_2.h	/^  real_T remote_rudder_mem;            \/* '<S7>\/Remote rudder' *\/$/;"	m	struct:__anon35
+remote_throttle_mem	EKF_IFS_2.h	/^  real_T remote_throttle_mem;          \/* '<S7>\/Remote throttle' *\/$/;"	m	struct:__anon35
+rho_o	EKF_IFS_2.h	/^  real_T rho_o;                        \/* Variable: rho_o$/;"	m	struct:P_EKF_IFS_2_T_
+roll	VectorNav/vn_kinematics.h	/^	double	roll;		\/**< Roll *\/$/;"	m	struct:__anon1
+routineData	VectorNav/vncp_services.c	/^	void*					routineData;$/;"	m	struct:__anon5	file:
+rowIdx	rt_logging.h	/^    int_T      rowIdx;                \/* current row index                    *\/$/;"	m	struct:LogVar_Tag
+rp	EKF_IFS_2_types.h	/^  uint8_T rp;$/;"	m	struct:__anon14
+rtGetInf	rtGetInf.c	/^real_T rtGetInf(void)$/;"	f
+rtGetInfF	rtGetInf.c	/^real32_T rtGetInfF(void)$/;"	f
+rtGetMinusInf	rtGetInf.c	/^real_T rtGetMinusInf(void)$/;"	f
+rtGetMinusInfF	rtGetInf.c	/^real32_T rtGetMinusInfF(void)$/;"	f
+rtGetNaN	rtGetNaN.c	/^real_T rtGetNaN(void)$/;"	f
+rtGetNaNF	rtGetNaN.c	/^real32_T rtGetNaNF(void)$/;"	f
+rtInf	rt_nonfinite.c	/^real_T rtInf;$/;"	v
+rtInfF	rt_nonfinite.c	/^real32_T rtInfF;$/;"	v
+rtIsInf	rt_nonfinite.c	/^boolean_T rtIsInf(real_T value)$/;"	f
+rtIsInfF	rt_nonfinite.c	/^boolean_T rtIsInfF(real32_T value)$/;"	f
+rtIsNaN	rt_nonfinite.c	/^boolean_T rtIsNaN(real_T value)$/;"	f
+rtIsNaNF	rt_nonfinite.c	/^boolean_T rtIsNaNF(real32_T value)$/;"	f
+rtMinusInf	rt_nonfinite.c	/^real_T rtMinusInf;$/;"	v
+rtMinusInfF	rt_nonfinite.c	/^real32_T rtMinusInfF;$/;"	v
+rtNaN	rt_nonfinite.c	/^real_T rtNaN;$/;"	v
+rtNaNF	rt_nonfinite.c	/^real32_T rtNaNF;$/;"	v
+rt_InitInfAndNaN	rt_nonfinite.c	/^void rt_InitInfAndNaN(size_t realSize)$/;"	f
+rt_StartDataLogging	rt_logging.h	275;"	d
+rt_StopDataLogging	rt_logging.h	277;"	d
+rt_UpdateTXYLogVars	rt_logging.h	276;"	d
+rt_atan2d_snf	EKF_IFS_2.c	/^real_T rt_atan2d_snf(real_T u0, real_T u1)$/;"	f
+rt_logging_h	rt_logging.h	4;"	d
+rt_powd_snf	EKF_IFS_2.c	/^real_T rt_powd_snf(real_T u0, real_T u1)$/;"	f
+rtmGetErrorStatus	EKF_IFS_2.h	33;"	d
+rtmSetErrorStatus	EKF_IFS_2.h	37;"	d
+rudder_cmd	EKF_IFS_2_types.h	/^  real_T rudder_cmd;$/;"	m	struct:__anon13
+ruddertrim	EKF_IFS_2.h	/^  real_T ruddertrim;                   \/* Variable: ruddertrim$/;"	m	struct:P_EKF_IFS_2_T_
+saturation_max_sta	EKF_IFS_2.h	/^  real_T saturation_max_sta[14];       \/* Variable: saturation_max_sta$/;"	m	struct:P_EKF_IFS_2_T_
+saturation_min_sta	EKF_IFS_2.h	/^  real_T saturation_min_sta[14];       \/* Variable: saturation_min_sta$/;"	m	struct:P_EKF_IFS_2_T_
+sec	VectorNav/vndevice.h	/^	uint8_t		sec;	\/**< Second. *\/$/;"	m	struct:__anon10
+sensSat	VectorNav/vndevice.h	/^	uint16_t		sensSat;					\/**< Flags for identifying sensor saturation. *\/$/;"	m	struct:__anon11
+sensorError	VectorNav/vndevice.h	/^	VN_ERROR_CODE sensorError;$/;"	m	struct:__anon12
+sf_ConvertLatLonAlttoFlatEart_o	EKF_IFS_2.h	/^  B_ConvertLatLonAlttoFlatEarth_T sf_ConvertLatLonAlttoFlatEart_o;\/* '<S5>\/Convert Lat\/\/Lon\/\/Alt to Flat Earth' *\/$/;"	m	struct:__anon34
+sf_ConvertLatLonAlttoFlatEarth	EKF_IFS_2.h	/^  B_ConvertLatLonAlttoFlatEarth_T sf_ConvertLatLonAlttoFlatEarth;\/* '<S47>\/Convert Lat\/\/Lon\/\/Alt to Flat Earth' *\/$/;"	m	struct:__anon34
+signals	rt_logging.h	/^    SignalsStruct signals;$/;"	m	struct:StructLogVar_Tag
+startRoutine	VectorNav/vncp_services.c	/^	VN_THREAD_START_ROUTINE	startRoutine;$/;"	m	struct:__anon5	file:
+stateNames	rt_logging.h	/^    MatrixData   *stateNames;$/;"	m	struct:SignalsStruct_Tag
+strides	rt_logging.h	/^    int_T     *strides;$/;"	m	struct:LogVar_Tag
+sw_time	EKF_IFS_2.h	/^  real_T sw_time;                      \/* '<S7>\/Logic time control' *\/$/;"	m	struct:__anon35
+syncInCnt	VectorNav/vndevice.h	/^	uint32_t		syncInCnt;					\/**< Number of SyncIn trigger events. *\/$/;"	m	struct:__anon11
+tag_RTM_EKF_IFS_2_T	EKF_IFS_2.h	/^struct tag_RTM_EKF_IFS_2_T {$/;"	s
+temperature	VectorNav/vndevice.h	/^	double			temperature;				\/**< Temperature. *\/$/;"	m	struct:__anon11
+temperatureVoltage	VectorNav/vndevice.h	/^	double			temperatureVoltage;			\/**< Temperatue sensor voltages. *\/$/;"	m	struct:__anon11
+theta	EKF_IFS_2_types.h	/^  real_T theta;$/;"	m	struct:__anon17
+theta_cmd	EKF_IFS_2_types.h	/^  real_T theta_cmd;$/;"	m	struct:__anon25
+thetatrim	EKF_IFS_2.h	/^  real_T thetatrim;                    \/* Variable: thetatrim$/;"	m	struct:P_EKF_IFS_2_T_
+throttle_cmd	EKF_IFS_2_types.h	/^  real_T throttle_cmd;$/;"	m	struct:__anon13
+throttletrim	EKF_IFS_2.h	/^  real_T throttletrim;                 \/* Variable: throttletrim$/;"	m	struct:P_EKF_IFS_2_T_
+time	rt_logging.h	/^    void          *time;$/;"	m	struct:StructLogVar_Tag
+timeAccSec	VectorNav/vndevice.h	/^	float			timeAccSec;					\/**< The current GPS time accuracy given in seconds. *\/$/;"	m	struct:__anon11
+timeGps	VectorNav/vndevice.h	/^	uint64_t		timeGps;					\/**< GPS time. *\/$/;"	m	struct:__anon11
+timeGpsPps	VectorNav/vndevice.h	/^	uint64_t		timeGpsPps;					\/**< Time since the last GPS PPS trigger event. *\/$/;"	m	struct:__anon11
+timeStartup	VectorNav/vndevice.h	/^	uint64_t		timeStartup;				\/**< Time since startup. *\/$/;"	m	struct:__anon11
+timeSyncIn	VectorNav/vndevice.h	/^	uint64_t		timeSyncIn;					\/**< Time since the last SyncIn trigger. *\/$/;"	m	struct:__anon11
+timeU	VectorNav/vndevice.h	/^	uint32_t		timeU;						\/**< The current GPS time uncertainty given in nanoseconds. *\/$/;"	m	struct:__anon11
+timeUtc	VectorNav/vndevice.h	/^	UtcTime			timeUtc;					\/**< UTC time. *\/$/;"	m	struct:__anon11
+time_T	rtwtypes.h	/^typedef double time_T;$/;"	t
+timeout	VectorNav/vndevice.h	/^	int						timeout;$/;"	m	struct:__anon12
+titles	rt_logging.h	/^    MatrixData   *titles;$/;"	m	struct:SignalsStruct_Tag
+trajectory_bus	EKF_IFS_2_types.h	/^} trajectory_bus;$/;"	t	typeref:struct:__anon26
+true	VectorNav/vncp_services.h	87;"	d
+tty_fd	VectorNav/wrapper.c	/^int tty_fd;$/;"	v
+uchar_T	rtwtypes.h	/^typedef unsigned char uchar_T;$/;"	t
+uint16_T	rtwtypes.h	/^typedef unsigned short uint16_T;$/;"	t
+uint16_t	VectorNav/vnint.h	/^typedef unsigned __int16	uint16_t;$/;"	t
+uint32_T	rtwtypes.h	/^typedef unsigned int uint32_T;$/;"	t
+uint32_t	VectorNav/vnint.h	/^typedef unsigned __int32	uint32_t;$/;"	t
+uint64_t	VectorNav/vnint.h	/^typedef unsigned __int64	uint64_t;$/;"	t
+uint8_T	rtwtypes.h	/^typedef unsigned char uint8_T;$/;"	t
+uint8_t	VectorNav/vnint.h	/^typedef unsigned __int8		uint8_t;$/;"	t
+uint_T	rtwtypes.h	/^typedef unsigned int uint_T;$/;"	t
+ulong_T	rtwtypes.h	/^typedef unsigned long ulong_T;$/;"	t
+usage	kufcs_main.c	/^void usage(int argc, char *argv[])$/;"	f
+usingDefaultBufSize	rt_logging.h	/^    int_T     usingDefaultBufSize;    \/* used to print a message at end       *\/$/;"	m	struct:LogVar_Tag
+v	EKF_IFS_2_types.h	/^  real_T v[32];$/;"	m	struct:__anon14
+valDims	rt_logging.h	/^    ValDimsData *valDims;             \/* field of valueDimensions$/;"	m	struct:LogVar_Tag
+values	rt_logging.h	/^    LogVar       *values;$/;"	m	struct:SignalsStruct_Tag
+ve_op	EKF_IFS_2.h	/^  real_T ve_op[22];                    \/* '<Root>\/ve_op' *\/$/;"	m	struct:__anon36
+velBody	VectorNav/vndevice.h	/^	VnVector3		velBody;					\/**< The estimated velocity in the body frame. *\/$/;"	m	struct:__anon11
+velEcef	VectorNav/vndevice.h	/^	VnVector3		velEcef;					\/**< The estimated velocity given in Earth-Centered, Earth-Fixed (ECEF) frame. *\/$/;"	m	struct:__anon11
+velNed	VectorNav/vndevice.h	/^	VnVector3		velNed;						\/**< The estimated velocity in the North, East, Down (NED) frame. *\/$/;"	m	struct:__anon11
+velU	VectorNav/vndevice.h	/^	double			velU;						\/**< The estimated uncertainty of the current velocity estimate in m\/s. *\/$/;"	m	struct:__anon11
+velocity	VectorNav/vndevice.h	/^	VnVector3		velocity;					\/**< Velocity measurements. *\/$/;"	m	struct:__anon11
+vh_op	EKF_IFS_2.h	/^  real_T vh_op[22];                    \/* '<Root>\/vh_op' *\/$/;"	m	struct:__anon36
+vn200	VectorNav/wrapper.c	/^static Vn200 vn200;$/;"	v	file:
+vn200_connect	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_connect($/;"	f
+vn200_disconnect	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_disconnect($/;"	f
+vn200_getAcceleration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getAcceleration($/;"	f
+vn200_getAccelerationCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getAccelerationCompensation($/;"	f
+vn200_getAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getAngularRate($/;"	f
+vn200_getAsynchronousDataOutputFrequency	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getAsynchronousDataOutputFrequency($/;"	f
+vn200_getAsynchronousDataOutputType	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getAsynchronousDataOutputType($/;"	f
+vn200_getBinaryOutput1Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getBinaryOutput1Configuration($/;"	f
+vn200_getBinaryOutput2Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getBinaryOutput2Configuration($/;"	f
+vn200_getBinaryOutput3Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getBinaryOutput3Configuration($/;"	f
+vn200_getBinaryOutputConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getBinaryOutputConfiguration($/;"	f
+vn200_getCalculatedMagnetometerCalibration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getCalculatedMagnetometerCalibration($/;"	f
+vn200_getCommunicationProtocolControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getCommunicationProtocolControl($/;"	f
+vn200_getCurrentAsyncData	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getCurrentAsyncData($/;"	f
+vn200_getDeltaThetaAndDeltaVelocity	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getDeltaThetaAndDeltaVelocity($/;"	f
+vn200_getDeltaThetaAndDeltaVelocityConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getDeltaThetaAndDeltaVelocityConfiguration($/;"	f
+vn200_getFirmwareVersion	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getFirmwareVersion($/;"	f
+vn200_getGpsAntennaOffset	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGpsAntennaOffset($/;"	f
+vn200_getGpsConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGpsConfiguration($/;"	f
+vn200_getGpsConfiguration_preFirmwareVersion1d0	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGpsConfiguration_preFirmwareVersion1d0($/;"	f
+vn200_getGpsSolutionEcef	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGpsSolutionEcef($/;"	f
+vn200_getGpsSolutionLla	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGpsSolutionLla($/;"	f
+vn200_getGyroCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getGyroCompensation($/;"	f
+vn200_getHardwareRevision	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getHardwareRevision($/;"	f
+vn200_getImuFilteringConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getImuFilteringConfiguration($/;"	f
+vn200_getImuMeasurements	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getImuMeasurements($/;"	f
+vn200_getInsBasicConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getInsBasicConfiguration($/;"	f
+vn200_getInsSolutionEcef	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getInsSolutionEcef($/;"	f
+vn200_getInsSolutionLla	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getInsSolutionLla($/;"	f
+vn200_getInsStateEcef	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getInsStateEcef($/;"	f
+vn200_getInsStateLla	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getInsStateLla($/;"	f
+vn200_getMagnetic	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getMagnetic($/;"	f
+vn200_getMagneticAccelerationAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getMagneticAccelerationAngularRate($/;"	f
+vn200_getMagneticCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getMagneticCompensation($/;"	f
+vn200_getMagneticGravityReferenceVectors	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getMagneticGravityReferenceVectors($/;"	f
+vn200_getMagnetometerCalibrationControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getMagnetometerCalibrationControl($/;"	f
+vn200_getModelNumber	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getModelNumber($/;"	f
+vn200_getQuaternion	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getQuaternion($/;"	f
+vn200_getQuaternionMagneticAccelerationAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getQuaternionMagneticAccelerationAngularRate($/;"	f
+vn200_getReferenceFrameRotation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getReferenceFrameRotation($/;"	f
+vn200_getReferenceVectorConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getReferenceVectorConfiguration($/;"	f
+vn200_getSerialBaudRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getSerialBaudRate($/;"	f
+vn200_getSerialNumber	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getSerialNumber($/;"	f
+vn200_getStartupFilterBiasEstimate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getStartupFilterBiasEstimate($/;"	f
+vn200_getSynchronizationControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getSynchronizationControl($/;"	f
+vn200_getSynchronizationStatus	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getSynchronizationStatus($/;"	f
+vn200_getUserTag	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getUserTag($/;"	f
+vn200_getVpeAccelerometerBasicTuning	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getVpeAccelerometerBasicTuning($/;"	f
+vn200_getVpeControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getVpeControl($/;"	f
+vn200_getVpeMagnetometerBasicTuning	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getVpeMagnetometerBasicTuning($/;"	f
+vn200_getYawPitchRoll	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getYawPitchRoll($/;"	f
+vn200_getYawPitchRollMagneticAccelerationAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getYawPitchRollMagneticAccelerationAngularRate($/;"	f
+vn200_getYawPitchRollTrueBodyAccelerationAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getYawPitchRollTrueBodyAccelerationAngularRate($/;"	f
+vn200_getYawPitchRollTrueInertialAccelerationAngularRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_getYawPitchRollTrueInertialAccelerationAngularRate($/;"	f
+vn200_get_timeout	VectorNav/vn200.c	/^int vn200_get_timeout($/;"	f
+vn200_pauseAsyncOutputs	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_pauseAsyncOutputs($/;"	f
+vn200_registerAsyncDataReceivedListener	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_registerAsyncDataReceivedListener($/;"	f
+vn200_registerErrorCodeReceivedListener	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_registerErrorCodeReceivedListener($/;"	f
+vn200_reset	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_reset($/;"	f
+vn200_restoreFactorySettings	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_restoreFactorySettings($/;"	f
+vn200_resumeAsyncOutputs	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_resumeAsyncOutputs($/;"	f
+vn200_setAccelerationCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setAccelerationCompensation($/;"	f
+vn200_setAsynchronousDataOutputFrequency	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setAsynchronousDataOutputFrequency($/;"	f
+vn200_setAsynchronousDataOutputType	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setAsynchronousDataOutputType($/;"	f
+vn200_setBinaryOutput1Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setBinaryOutput1Configuration($/;"	f
+vn200_setBinaryOutput2Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setBinaryOutput2Configuration($/;"	f
+vn200_setBinaryOutput3Configuration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setBinaryOutput3Configuration($/;"	f
+vn200_setBinaryOutputConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setBinaryOutputConfiguration($/;"	f
+vn200_setCommunicationProtocolControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setCommunicationProtocolControl($/;"	f
+vn200_setDeltaThetaAndDeltaVelocityConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setDeltaThetaAndDeltaVelocityConfiguration($/;"	f
+vn200_setFilterBias	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setFilterBias($/;"	f
+vn200_setGpsAntennaOffset	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setGpsAntennaOffset($/;"	f
+vn200_setGpsConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setGpsConfiguration($/;"	f
+vn200_setGpsConfiguration_preFirmwareVersion1d0	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setGpsConfiguration_preFirmwareVersion1d0($/;"	f
+vn200_setGyroCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setGyroCompensation($/;"	f
+vn200_setImuFilteringConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setImuFilteringConfiguration($/;"	f
+vn200_setInsBasicConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setInsBasicConfiguration($/;"	f
+vn200_setMagneticCompensation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setMagneticCompensation($/;"	f
+vn200_setMagneticGravityReferenceVectors	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setMagneticGravityReferenceVectors($/;"	f
+vn200_setMagnetometerCalibrationControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setMagnetometerCalibrationControl($/;"	f
+vn200_setReferenceFrameRotation	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setReferenceFrameRotation($/;"	f
+vn200_setReferenceVectorConfiguration	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setReferenceVectorConfiguration($/;"	f
+vn200_setSerialBaudRate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setSerialBaudRate($/;"	f
+vn200_setStartupFilterBiasEstimate	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setStartupFilterBiasEstimate($/;"	f
+vn200_setSynchronizationControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setSynchronizationControl($/;"	f
+vn200_setSynchronizationStatus	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setSynchronizationStatus($/;"	f
+vn200_setUserTag	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setUserTag($/;"	f
+vn200_setVpeAccelerometerBasicTuning	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setVpeAccelerometerBasicTuning($/;"	f
+vn200_setVpeControl	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setVpeControl($/;"	f
+vn200_setVpeMagnetometerBasicTuning	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_setVpeMagnetometerBasicTuning($/;"	f
+vn200_set_timeout	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_set_timeout($/;"	f
+vn200_unregisterAsyncDataReceivedListener	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_unregisterAsyncDataReceivedListener($/;"	f
+vn200_unregisterErrorCodeReceivedListener	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_unregisterErrorCodeReceivedListener($/;"	f
+vn200_verifyConnectivity	VectorNav/vn200.c	/^bool vn200_verifyConnectivity($/;"	f
+vn200_writeSettings	VectorNav/vn200.c	/^VN_ERROR_CODE vn200_writeSettings($/;"	f
+vn_op	EKF_IFS_2.h	/^  real_T vn_op[22];                    \/* '<Root>\/vn_op' *\/$/;"	m	struct:__anon36
+vncp_comPort_close	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_close(VN_HANDLE comPortHandle)$/;"	f
+vncp_comPort_isOptimized	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_isOptimized($/;"	f
+vncp_comPort_open	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_open(VN_HANDLE* newComPortHandle, char const* portName, unsigned int baudrate)$/;"	f
+vncp_comPort_optimize	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_optimize($/;"	f
+vncp_comPort_readData	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_readData(VN_HANDLE comPortHandle, char* readBuffer, unsigned int numOfBytesToRead, unsigned int* numOfBytesActuallyRead)$/;"	f
+vncp_comPort_writeData	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_comPort_writeData(VN_HANDLE comPortHandle, char const* dataToWrite, unsigned int numOfBytesToWrite)$/;"	f
+vncp_convertNativeToVnErrorCode	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_convertNativeToVnErrorCode(int nativeErrorCode)$/;"	f
+vncp_criticalSection_dispose	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_criticalSection_dispose(VN_CRITICAL_SECTION* criticalSection)$/;"	f
+vncp_criticalSection_enter	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_criticalSection_enter(VN_CRITICAL_SECTION* criticalSection)$/;"	f
+vncp_criticalSection_initialize	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_criticalSection_initialize(VN_CRITICAL_SECTION* criticalSection)$/;"	f
+vncp_criticalSection_leave	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_criticalSection_leave(VN_CRITICAL_SECTION* criticalSection)$/;"	f
+vncp_determineBaudrateFlag	VectorNav/vncp_services.c	/^tcflag_t vncp_determineBaudrateFlag(unsigned int baudrate)$/;"	f
+vncp_event_create	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_event_create(VN_HANDLE* newEventHandle)$/;"	f
+vncp_event_signal	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_event_signal(VN_HANDLE eventHandle)$/;"	f
+vncp_event_waitFor	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_event_waitFor(VN_HANDLE eventHandle, int timeout)$/;"	f
+vncp_sleepInMs	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_sleepInMs(unsigned int numOfMillisecondsToSleep)$/;"	f
+vncp_startMsTimer	VectorNav/vncp_services.c	/^void vncp_startMsTimer()$/;"	f
+vncp_stopMsTimer	VectorNav/vncp_services.c	/^double vncp_stopMsTimer()$/;"	f
+vncp_thread_startNew	VectorNav/vncp_services.c	/^VN_ERROR_CODE vncp_thread_startNew(VN_HANDLE* newThreadHandle, VN_THREAD_START_ROUTINE startRoutine, void* routineData)$/;"	f
+vncp_thread_startRoutine	VectorNav/vncp_services.c	/^void* vncp_thread_startRoutine(void* threadStartData)$/;"	f
+vndevice	VectorNav/vn100.h	/^	VnDevice	vndevice;		\/**< Pointer to internally used data. *\/$/;"	m	struct:__anon9
+vndevice	VectorNav/vn200.h	/^	VnDevice	vndevice;		\/**< Pointer to internally used data. *\/$/;"	m	struct:__anon3
+vndevice_checksum_computeAndReturnAsHex	VectorNav/vndevice.c	/^void vndevice_checksum_computeAndReturnAsHex($/;"	f
+vndevice_checksum_computeCrc16	VectorNav/vndevice.c	/^uint16_t vndevice_checksum_computeCrc16($/;"	f
+vndevice_checksum_computeCrc16FromCommand	VectorNav/vndevice.c	/^uint16_t vndevice_checksum_computeCrc16FromCommand($/;"	f
+vndevice_checksum_computeCrc8FromCommand	VectorNav/vndevice.c	/^uint8_t vndevice_checksum_computeCrc8FromCommand($/;"	f
+vndevice_communicationHandler	VectorNav/vndevice.c	/^void* vndevice_communicationHandler($/;"	f
+vndevice_computeLengthOfBinaryGroupPayload	VectorNav/vndevice.c	/^int vndevice_computeLengthOfBinaryGroupPayload($/;"	f
+vndevice_computeLengthOfExpectedBinaryPayload	VectorNav/vndevice.c	/^int vndevice_computeLengthOfExpectedBinaryPayload($/;"	f
+vndevice_convertSensorErrorToSystemError	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_convertSensorErrorToSystemError($/;"	f
+vndevice_deinitializeVnDevice	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_deinitializeVnDevice($/;"	f
+vndevice_disableResponseChecking_threadSafe	VectorNav/vndevice.c	/^void vndevice_disableResponseChecking_threadSafe($/;"	f
+vndevice_enableResponseChecking_threadSafe	VectorNav/vndevice.c	/^void vndevice_enableResponseChecking_threadSafe($/;"	f
+vndevice_getAcceleration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getAcceleration($/;"	f
+vndevice_getAccelerationCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getAccelerationCompensation($/;"	f
+vndevice_getAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getAngularRate($/;"	f
+vndevice_getAsynchronousDataOutputFrequency	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getAsynchronousDataOutputFrequency($/;"	f
+vndevice_getAsynchronousDataOutputType	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getAsynchronousDataOutputType($/;"	f
+vndevice_getBinaryOutputConfiguration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getBinaryOutputConfiguration($/;"	f
+vndevice_getCalculatedMagnetometerCalibration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getCalculatedMagnetometerCalibration($/;"	f
+vndevice_getCommunicationProtocolControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getCommunicationProtocolControl($/;"	f
+vndevice_getCurrentAsyncData	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getCurrentAsyncData($/;"	f
+vndevice_getDeltaThetaAndDeltaVelocity	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getDeltaThetaAndDeltaVelocity($/;"	f
+vndevice_getDeltaThetaAndDeltaVelocityConfiguration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getDeltaThetaAndDeltaVelocityConfiguration($/;"	f
+vndevice_getFirmwareVersion	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getFirmwareVersion($/;"	f
+vndevice_getGyroCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getGyroCompensation($/;"	f
+vndevice_getHardwareRevision	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getHardwareRevision($/;"	f
+vndevice_getImuFilteringConfiguration	VectorNav/vndevice.c	/^DLL_EXPORT VN_ERROR_CODE vndevice_getImuFilteringConfiguration($/;"	f
+vndevice_getImuMeasurements	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getImuMeasurements($/;"	f
+vndevice_getMagnetic	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getMagnetic($/;"	f
+vndevice_getMagneticAccelerationAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getMagneticAccelerationAngularRate($/;"	f
+vndevice_getMagneticCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getMagneticCompensation($/;"	f
+vndevice_getMagneticGravityReferenceVectors	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getMagneticGravityReferenceVectors($/;"	f
+vndevice_getMagnetometerCalibrationControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getMagnetometerCalibrationControl($/;"	f
+vndevice_getModelNumber	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getModelNumber($/;"	f
+vndevice_getQuaternion	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getQuaternion(VnDevice* vndevice, VnQuaternion* attitude)$/;"	f
+vndevice_getQuaternionMagneticAccelerationAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getQuaternionMagneticAccelerationAngularRate($/;"	f
+vndevice_getReferenceFrameRotation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getReferenceFrameRotation($/;"	f
+vndevice_getReferenceVectorConfiguration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getReferenceVectorConfiguration($/;"	f
+vndevice_getResponseBuffer	VectorNav/vndevice.c	/^char* vndevice_getResponseBuffer($/;"	f
+vndevice_getSerialBaudRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getSerialBaudRate($/;"	f
+vndevice_getSerialNumber	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getSerialNumber($/;"	f
+vndevice_getSynchronizationControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getSynchronizationControl($/;"	f
+vndevice_getSynchronizationStatus	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getSynchronizationStatus($/;"	f
+vndevice_getUserTag	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getUserTag($/;"	f
+vndevice_getVpeAccelerometerBasicTuning	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getVpeAccelerometerBasicTuning($/;"	f
+vndevice_getVpeControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getVpeControl($/;"	f
+vndevice_getVpeMagnetometerBasicTuning	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getVpeMagnetometerBasicTuning($/;"	f
+vndevice_getYawPitchRoll	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getYawPitchRoll($/;"	f
+vndevice_getYawPitchRollMagneticAccelerationAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getYawPitchRollMagneticAccelerationAngularRate($/;"	f
+vndevice_getYawPitchRollTrueBodyAccelerationAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getYawPitchRollTrueBodyAccelerationAngularRate($/;"	f
+vndevice_getYawPitchRollTrueInertialAccelerationAngularRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_getYawPitchRollTrueInertialAccelerationAngularRate($/;"	f
+vndevice_get_timeout	VectorNav/vndevice.c	/^int vndevice_get_timeout($/;"	f
+vndevice_initializeVnDevice	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_initializeVnDevice($/;"	f
+vndevice_numberOfSetBits	VectorNav/vndevice.c	/^unsigned char vndevice_numberOfSetBits($/;"	f
+vndevice_pauseAsyncOutputs	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_pauseAsyncOutputs($/;"	f
+vndevice_processAsyncData	VectorNav/vndevice.c	/^void vndevice_processAsyncData($/;"	f
+vndevice_processGroup1Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup1Data($/;"	f
+vndevice_processGroup2Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup2Data($/;"	f
+vndevice_processGroup3Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup3Data($/;"	f
+vndevice_processGroup4Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup4Data($/;"	f
+vndevice_processGroup5Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup5Data($/;"	f
+vndevice_processGroup6Data	VectorNav/vndevice.c	/^uint16_t vndevice_processGroup6Data($/;"	f
+vndevice_processReceivedBinaryPacket	VectorNav/vndevice.c	/^void vndevice_processReceivedBinaryPacket($/;"	f
+vndevice_processReceivedPacket	VectorNav/vndevice.c	/^void vndevice_processReceivedPacket($/;"	f
+vndevice_readData_threadSafe	VectorNav/vndevice.c	/^int vndevice_readData_threadSafe($/;"	f
+vndevice_registerAsyncDataReceivedListener	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_registerAsyncDataReceivedListener($/;"	f
+vndevice_registerErrorCodeReceivedListener	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_registerErrorCodeReceivedListener($/;"	f
+vndevice_reset	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_reset($/;"	f
+vndevice_restoreFactorySettings	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_restoreFactorySettings($/;"	f
+vndevice_resumeAsyncOutputs	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_resumeAsyncOutputs($/;"	f
+vndevice_setAccelerationCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setAccelerationCompensation($/;"	f
+vndevice_setAsynchronousDataOutputFrequency	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setAsynchronousDataOutputFrequency($/;"	f
+vndevice_setAsynchronousDataOutputType	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setAsynchronousDataOutputType($/;"	f
+vndevice_setBinaryOutputConfiguration	VectorNav/vndevice.c	/^DLL_EXPORT VN_ERROR_CODE vndevice_setBinaryOutputConfiguration($/;"	f
+vndevice_setCommunicationProtocolControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setCommunicationProtocolControl($/;"	f
+vndevice_setDeltaThetaAndDeltaVelocityConfiguration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setDeltaThetaAndDeltaVelocityConfiguration($/;"	f
+vndevice_setGyroCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setGyroCompensation($/;"	f
+vndevice_setImuFilteringConfiguration	VectorNav/vndevice.c	/^DLL_EXPORT VN_ERROR_CODE vndevice_setImuFilteringConfiguration($/;"	f
+vndevice_setMagneticCompensation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setMagneticCompensation($/;"	f
+vndevice_setMagneticGravityReferenceVectors	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setMagneticGravityReferenceVectors($/;"	f
+vndevice_setMagnetometerCalibrationControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setMagnetometerCalibrationControl($/;"	f
+vndevice_setReferenceFrameRotation	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setReferenceFrameRotation($/;"	f
+vndevice_setReferenceVectorConfiguration	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setReferenceVectorConfiguration($/;"	f
+vndevice_setSerialBaudRate	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setSerialBaudRate($/;"	f
+vndevice_setSynchronizationControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setSynchronizationControl($/;"	f
+vndevice_setSynchronizationStatus	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setSynchronizationStatus($/;"	f
+vndevice_setUserTag	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setUserTag($/;"	f
+vndevice_setVpeAccelerometerBasicTuning	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setVpeAccelerometerBasicTuning($/;"	f
+vndevice_setVpeControl	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setVpeControl($/;"	f
+vndevice_setVpeMagnetometerBasicTuning	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_setVpeMagnetometerBasicTuning($/;"	f
+vndevice_set_timeout	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_set_timeout($/;"	f
+vndevice_shouldCheckForResponse_threadSafe	VectorNav/vndevice.c	/^bool vndevice_shouldCheckForResponse_threadSafe($/;"	f
+vndevice_startHandlingCommunication	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_startHandlingCommunication($/;"	f
+vndevice_transaction	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_transaction($/;"	f
+vndevice_unregisterAsyncDataReceivedListener	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_unregisterAsyncDataReceivedListener($/;"	f
+vndevice_unregisterErrorCodeReceivedListener	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_unregisterErrorCodeReceivedListener($/;"	f
+vndevice_waitForThreadToStartHandlingCommunicationPort	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_waitForThreadToStartHandlingCommunicationPort($/;"	f
+vndevice_writeData_threadSafe	VectorNav/vndevice.c	/^int vndevice_writeData_threadSafe($/;"	f
+vndevice_writeOutCommand	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_writeOutCommand($/;"	f
+vndevice_writeSettings	VectorNav/vndevice.c	/^VN_ERROR_CODE vndevice_writeSettings($/;"	f
+vpeStatus	VectorNav/vndevice.h	/^	uint16_t		vpeStatus;					\/**< The VPE status bitfield. *\/$/;"	m	struct:__anon11
+w	VectorNav/vn_kinematics.h	/^	double w;		\/**< W *\/$/;"	m	struct:__anon2
+waitForCommandResponseEvent	VectorNav/vndevice.h	/^	VN_HANDLE				waitForCommandResponseEvent;$/;"	m	struct:__anon12
+waitForThreadToStartServicingComPortEvent	VectorNav/vndevice.h	/^	VN_HANDLE				waitForThreadToStartServicingComPortEvent;$/;"	m	struct:__anon12
+waitForThreadToStopServicingComPortEvent	VectorNav/vndevice.h	/^	VN_HANDLE				waitForThreadToStopServicingComPortEvent;$/;"	m	struct:__anon12
+waypoint_bus	EKF_IFS_2_types.h	/^} waypoint_bus;$/;"	t	typeref:struct:__anon14
+weight	EKF_IFS_2.h	/^  real_T weight;                       \/* Variable: weight$/;"	m	struct:P_EKF_IFS_2_T_
+wordH	rt_nonfinite.h	/^    uint32_T wordH;$/;"	m	struct:__anon38::__anon39
+wordH	rt_nonfinite.h	/^    uint32_T wordH;$/;"	m	struct:__anon40::__anon41
+wordL	rt_nonfinite.h	/^    uint32_T wordL;$/;"	m	struct:__anon38::__anon39
+wordL	rt_nonfinite.h	/^    uint32_T wordL;$/;"	m	struct:__anon40::__anon41
+wordL	rt_nonfinite.h	/^  } wordL;$/;"	m	struct:__anon42	typeref:union:__anon42::__anon43
+wordLreal	rt_nonfinite.h	/^    real32_T wordLreal;$/;"	m	union:__anon42::__anon43
+wordLuint	rt_nonfinite.h	/^    uint32_T wordLuint;$/;"	m	union:__anon42::__anon43
+words	rt_nonfinite.h	/^  } words;$/;"	m	struct:__anon38	typeref:struct:__anon38::__anon39
+words	rt_nonfinite.h	/^  } words;$/;"	m	struct:__anon40	typeref:struct:__anon40::__anon41
+wrapped	rt_logging.h	/^    int_T      wrapped;               \/* number of times the circular buffer$/;"	m	struct:LogVar_Tag
+x	VectorNav/vn_kinematics.h	/^	double x;		\/**< X *\/$/;"	m	struct:__anon2
+x0_Value	EKF_IFS_2.h	/^  real_T x0_Value[24];                 \/* Expression: zeros(size(Kd.a,1),1)$/;"	m	struct:P_EKF_IFS_2_T_
+x0_est_nav	EKF_IFS_2.h	/^  real_T x0_est_nav[6];                \/* Variable: x0_est_nav$/;"	m	struct:P_EKF_IFS_2_T_
+x0_est_sta	EKF_IFS_2.h	/^  real_T x0_est_sta[14];               \/* Variable: x0_est_sta$/;"	m	struct:P_EKF_IFS_2_T_
+xT0	EKF_IFS_2.h	/^  real_T xT0;                          \/* Variable: xT0$/;"	m	struct:P_EKF_IFS_2_T_
+xT1	EKF_IFS_2.h	/^  real_T xT1;                          \/* Variable: xT1$/;"	m	struct:P_EKF_IFS_2_T_
+xT2	EKF_IFS_2.h	/^  real_T xT2;                          \/* Variable: xT2$/;"	m	struct:P_EKF_IFS_2_T_
+x_est_00_DSTATE	EKF_IFS_2.h	/^  real_T x_est_00_DSTATE[6];           \/* '<S46>\/x_est_[0\/\/0]' *\/$/;"	m	struct:__anon35
+x_est_00_DSTATE_f	EKF_IFS_2.h	/^  real_T x_est_00_DSTATE_f[14];        \/* '<S142>\/x_est_[0\/\/0]' *\/$/;"	m	struct:__anon35
+y	VectorNav/vn_kinematics.h	/^	double y;		\/**< Y *\/$/;"	m	struct:__anon2
+yaw	VectorNav/vn_kinematics.h	/^	double	yaw;		\/**< Yaw *\/$/;"	m	struct:__anon1
+year	VectorNav/vndevice.h	/^	int8_t		year;	\/**< Year. *\/$/;"	m	struct:__anon10
+ypr	VectorNav/vndevice.h	/^	VnYpr			ypr;						\/**< Yaw, pitch, roll. *\/$/;"	m	struct:__anon11
+yprU	VectorNav/vndevice.h	/^	VnVector3		yprU;						\/**< The estimated attitude (Yaw, Pitch, Roll) uncertainty. *\/$/;"	m	struct:__anon11
+z	VectorNav/vn_kinematics.h	/^	double z;		\/**< Z *\/$/;"	m	struct:__anon2

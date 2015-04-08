@@ -112,20 +112,17 @@ void InitSerial()
 		perror("Error while opening serial port\n"); 
 		exit(-11);
 	}
-
 	memset(&tio, 0, sizeof(tio));
-
 	tio.c_iflag = IGNPAR | ICRNL;
 	tio.c_cflag = AR_BAUDRATE | CS8 | CREAD | CLOCAL;
 	tio.c_oflag = 0; 
 	tio.c_lflag = ICANON; 
 	tio.c_cc[VMIN] = 1; 
 	tio.c_cc[VTIME] = 0; 
-        usleep(1000000);
- 	tcflush(tty_fd, TCIFLUSH);
+  usleep(2000000);
+	tcflush(tty_fd, TCIFLUSH);
 	tcsetattr(tty_fd, TCSANOW, &tio); 
 	tcsetattr(tty_fd,TCSAFLUSH,&tio);  
-
 	/* handshake */
 	char buf[BUF_SIZE];
 	WriteLine(tty_fd, "INIT\n");
