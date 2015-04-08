@@ -73,14 +73,6 @@ int main(int argc, char *argv[])
 	double interval_sec = (double)1/20;
 	struct timespec start, end;
 	int opt;
-  char fname[128],fname1[128];
-  printf("\n enter the file name for storing number of operations");
-  scanf("%s",fname);
-  FILE *fp=fopen(fname,"w");
-  printf("\n enter the file name for storing time in");
-  scanf("%s",fname1);
-	FILE *fp1=fopen(fname1,"w");
-  char temp[200];
 	/*
 	 * get command line options 
 	 */
@@ -133,9 +125,6 @@ int main(int argc, char *argv[])
 
 		iter++;
 		PDEBUG("iter %ld took %" PRIu64 "us\n", iter, tmpdiff/1000);
-    sprintf(temp,"%llu",tmpdiff/1000);
-    fprintf(fp,"%ld\n",iter);
-    fprintf(fp1,"%s\n",temp);
 		PDEBUG("Out: throttle=%f elevator=%f aileron=%f rudder=%f\n",
 		       EKF_IFS_2_Y.ControlSurfaceCommands.throttle_cmd,
 		       EKF_IFS_2_Y.ControlSurfaceCommands.elevator_cmd,
@@ -151,8 +140,6 @@ int main(int argc, char *argv[])
 
 	/* Terminate model */
 	EKF_IFS_2_terminate();
-  fclose(fp);
-  fclose(fp1);
 	/* Close hardware */
 	CloseIMU();
 	CloseSerial();
