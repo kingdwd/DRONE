@@ -5,10 +5,15 @@ int a=0,b=0,c=0,d=0;
 /*Input */
 const int chA=22;  //pwm input PIC/CIC  - above threshold is autopilot
 const int chB=24;  //pwm input ENGINE KILL SIGNAL - above threshold is do kill
-const int throttleINT=26;  //pwm input THROTTLE - 
-const int elevatorINT=28;  //pwm input ELEVATOR - 
-const int aileronINT=30;  //pwm input AILERON - 
-const int rudderINT=32;  //pwm input RUDDER - 
+const int throttleINT=0;//pwm input THROTTLE - 
+const int throttle= 2;
+const int elevatorINT=1;  //pwm input ELEVATOR - 
+const int elevator= 3;
+const int aileronINT=2;  //pwm input AILERON -
+const int aileron=21;
+const int rudderINT=3;  //pwm input RUDDER - 
+const int rudder = 20;
+
 //const int chG=34;
 //const int chH=36;
 
@@ -195,6 +200,10 @@ void setup() {
   //pinMode(chD,INPUT);   // Elevators
   //pinMode(chE,INPUT);   // Ailerons
  // pinMode(chF,INPUT);   // Rudder
+   pinMode(throttle, INPUT);
+   pinMode(elevator, INPUT);
+   pinMode(aileron, INPUT);
+   pinMode(rudder, INPUT);
    attachInterrupt(throttleINT, ISRthrottlerising, RISING);
    attachInterrupt(elevatorINT, ISRelevatorrising, RISING);
    attachInterrupt(aileronINT,  ISRaileronrising,  RISING);
