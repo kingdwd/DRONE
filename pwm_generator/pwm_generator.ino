@@ -14,17 +14,18 @@ void setup()
 void loop()
 
 { 
-  if(Serial.available()>0)
   Serial.println("enter your choice");
   Serial.println("1- throttle : 2 -elevator  : 3 - rudder  :  4 - aileron");
   delay(200);
-  
+  while(Serial.available()==0){}
+
   int command =  Serial.parseInt();
   Serial.println("enter the value : 0-1024");
   delay(200);
-   
+  while(Serial.available()==0){}
   int val =  Serial.parseInt();
   val = map(val, 0, 1024, 0, 255);
+  Serial.println(val);
   switch(command)
   {
   case 1:
