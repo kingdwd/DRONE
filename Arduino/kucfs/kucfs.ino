@@ -215,8 +215,7 @@ void setup() {
   //pinMode(rudderOUT, OUTPUT); 
 }
 //Main Program
-void loop() {  
-   if (Serial.available() > 0) {
+void loop() {  if(Serial.available()>0){
     String str = Serial.readStringUntil('\n');
     if (str == "INIT") {
       Serial.println("DONE");
@@ -226,8 +225,8 @@ void loop() {
       getAutopilotControlCommand();
     } else if (str == "VERIFY") {
       verify();
-    }
-  }  
+    }}
+  
   // SAFETY CHECK for a kill signal even if autopilot is in control!!
   if(doKill() == 0)
   {  
@@ -397,6 +396,12 @@ void getSensorInput()
     sprintf(buf, "%d %d %d %d %d %d %d", ch1_duty_cycle, ch2_duty_cycle, ch3_duty_cycle, 
         ch4_duty_cycle, ch5_duty_cycle, ch6_duty_cycle, ch9);
     Serial.println(buf);
+    ch1_high=ch1_low=0;
+    ch2_high=ch2_low=0;
+    ch3_high=ch3_low=0;
+    ch4_high=ch4_low=0;
+    ch5_high=ch5_low=0;
+    ch6_high=ch6_low=0;
 }
 int percent(int in)  
 {

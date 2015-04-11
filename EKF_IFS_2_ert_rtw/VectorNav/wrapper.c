@@ -30,7 +30,7 @@ const char* const COM_PORT = "//dev//ttyUSB0";
 const int VN_BAUDRATE = 115200;
 
 
-#define ARDUINO_COM "/dev/ttyACM1"
+#define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
 
 #define PDEBUG(lvl, fmt, ...)						\
@@ -107,11 +107,11 @@ void InitSerial()
 {
 	int i;
 	struct termios tio;
-
 	if((tty_fd = open(ARDUINO_COM , O_RDWR | O_NOCTTY)) < 0 ) { 
 		perror("Error while opening serial port\n"); 
 		exit(-11);
 	}
+
 	memset(&tio, 0, sizeof(tio));
 	tio.c_iflag = IGNPAR | ICRNL;
 	tio.c_cflag = AR_BAUDRATE | CS8 | CREAD | CLOCAL;
@@ -124,8 +124,11 @@ void InitSerial()
 	tcsetattr(tty_fd, TCSANOW, &tio); 
 	tcsetattr(tty_fd,TCSAFLUSH,&tio);  
 	/* handshake */
-	char buf[BUF_SIZE];
+	char buf[BUF_SIZE]; 
+ // usleep(200000);
+
 	WriteLine(tty_fd, "INIT\n");
+ // usleep(5000000);
 	while(!ReadLine(tty_fd, buf));
 	PDEBUG(0, "Recv %s", buf);
 }
