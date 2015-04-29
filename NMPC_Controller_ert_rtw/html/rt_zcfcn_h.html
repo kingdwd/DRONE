@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="./js/coder_app.js"></script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="./rtwreport_utils.js"></script>
+<script type="text/javascript" src="./rtwannotate.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/coder_app.css"/>
+</head>
+<body onload="srcFileOnload();">
+<pre id="code">
+<table class="code" id="codeTbl">
+<tr name="1" id="1">
+<td>1</td><td><span class="ct">/*</span></td></tr>
+<tr name="2" id="2">
+<td>2</td><td><span class="ct"> * File: rt_zcfcn.h</span></td></tr>
+<tr name="3" id="3">
+<td>3</td><td><span class="ct"> *</span></td></tr>
+<tr name="4" id="4">
+<td>4</td><td><span class="ct"> * Code generated for Simulink model 'NMPC_Controller'.</span></td></tr>
+<tr name="5" id="5">
+<td>5</td><td><span class="ct"> *</span></td></tr>
+<tr name="6" id="6">
+<td>6</td><td><span class="ct"> * Model version                  : 1.654</span></td></tr>
+<tr name="7" id="7">
+<td>7</td><td><span class="ct"> * Simulink Coder version         : 8.7 (R2014b) 08-Sep-2014</span></td></tr>
+<tr name="8" id="8">
+<td>8</td><td><span class="ct"> * C/C++ source code generated on : Mon Apr 27 19:38:57 2015</span></td></tr>
+<tr name="9" id="9">
+<td>9</td><td><span class="ct"> *</span></td></tr>
+<tr name="10" id="10">
+<td>10</td><td><span class="ct"> * Target selection: ert.tlc</span></td></tr>
+<tr name="11" id="11">
+<td>11</td><td><span class="ct"> * Embedded hardware selection: Generic-&gt;32-bit Embedded Processor</span></td></tr>
+<tr name="12" id="12">
+<td>12</td><td><span class="ct"> * Emulation hardware selection:</span></td></tr>
+<tr name="13" id="13">
+<td>13</td><td><span class="ct"> *    Differs from embedded hardware (Generic-&gt;MATLAB Host Computer)</span></td></tr>
+<tr name="14" id="14">
+<td>14</td><td><span class="ct"> * Code generation objectives: Unspecified</span></td></tr>
+<tr name="15" id="15">
+<td>15</td><td><span class="ct"> * Validation result: Not run</span></td></tr>
+<tr name="16" id="16">
+<td>16</td><td><span class="ct"> */</span></td></tr>
+<tr name="17" id="17">
+<td>17</td><td></td></tr>
+<tr name="18" id="18">
+<td>18</td><td><span class="pp">#ifndef</span> <a id="18c9" class="tk">RTW_HEADER_rt_zcfcn_h_</a></td></tr>
+<tr name="19" id="19">
+<td>19</td><td><span class="pp">#define</span> <a id="19c9" class="tk">RTW_HEADER_rt_zcfcn_h_</a></td></tr>
+<tr name="20" id="20">
+<td>20</td><td><span class="pp">#include "rtwtypes.h"</span></td></tr>
+<tr name="21" id="21">
+<td>21</td><td><span class="pp">#include "solver_zc.h"</span></td></tr>
+<tr name="22" id="22">
+<td>22</td><td><span class="pp">#ifndef</span> <a id="22c9" class="tk">slZcHadEvent</a></td></tr>
+<tr name="23" id="23">
+<td>23</td><td><span class="pp">#define</span> <a id="23c9" class="tk">slZcHadEvent</a>(<a id="23c22" class="tk">ev</a>, <a id="23c26" class="tk">zcsDir</a>)       (((<a id="23c43" class="tk">ev</a>) &amp; (<a id="23c50" class="tk">zcsDir</a>)) != 0x00 )</td></tr>
+<tr name="24" id="24">
+<td>24</td><td><span class="pp">#endif</span></td></tr>
+<tr name="25" id="25">
+<td>25</td><td></td></tr>
+<tr name="26" id="26">
+<td>26</td><td><span class="pp">#ifndef</span> <a id="26c9" class="tk">slZcUnAliasEvents</a></td></tr>
+<tr name="27" id="27">
+<td>27</td><td><span class="pp">#define</span> <a id="27c9" class="tk">slZcUnAliasEvents</a>(<a id="27c27" class="tk">evL</a>, <a id="27c32" class="tk">evR</a>)    ((((<a id="27c44" class="tk">slZcHadEvent</a>((<a id="27c58" class="tk">evL</a>), (<a id="27c65" class="tk">SL_ZCS_EVENT_N2Z</a>)) &amp;&amp; <a id="27c87" class="tk">slZcHadEvent</a>((<a id="27c101" class="tk">evR</a>), (<a id="27c108" class="tk">SL_ZCS_EVENT_Z2P</a>))) || (<a id="27c132" class="tk">slZcHadEvent</a>((<a id="27c146" class="tk">evL</a>), (<a id="27c153" class="tk">SL_ZCS_EVENT_P2Z</a>)) &amp;&amp; <a id="27c175" class="tk">slZcHadEvent</a>((<a id="27c189" class="tk">evR</a>), (<a id="27c196" class="tk">SL_ZCS_EVENT_Z2N</a>)))) ? (<a id="27c220" class="tk">SL_ZCS_EVENT_NUL</a>) : (<a id="27c241" class="tk">evR</a>)))</td></tr>
+<tr name="28" id="28">
+<td>28</td><td><span class="pp">#endif</span></td></tr>
+<tr name="29" id="29">
+<td>29</td><td></td></tr>
+<tr name="30" id="30">
+<td>30</td><td><span class="kw">extern</span> <a id="30c8" class="tk">ZCEventType</a> <a id="30c20" class="tk">rt_ZCFcn</a>(<a id="30c29" class="tk">ZCDirection</a> <a id="30c41" class="tk">zcDir</a>, <a id="30c48" class="tk">ZCSigState</a> *<a id="30c60" class="tk">prevZc</a>, <a id="30c68" class="tk">real_T</a></td></tr>
+<tr name="31" id="31">
+<td>31</td><td>  <a id="31c3" class="tk">currValue</a>);</td></tr>
+<tr name="32" id="32">
+<td>32</td><td></td></tr>
+<tr name="33" id="33">
+<td>33</td><td><span class="pp">#endif</span>                                 <span class="ct">/* RTW_HEADER_rt_zcfcn_h_ */</span></td></tr>
+<tr name="34" id="34">
+<td>34</td><td></td></tr>
+<tr name="35" id="35">
+<td>35</td><td><span class="ct">/*</span></td></tr>
+<tr name="36" id="36">
+<td>36</td><td><span class="ct"> * File trailer for generated code.</span></td></tr>
+<tr name="37" id="37">
+<td>37</td><td><span class="ct"> *</span></td></tr>
+<tr name="38" id="38">
+<td>38</td><td><span class="ct"> * [EOF]</span></td></tr>
+<tr name="39" id="39">
+<td>39</td><td><span class="ct"> */</span></td></tr>
+<tr name="40" id="40">
+<td>40</td><td></td></tr>
+</table>
+</pre>
+</body>
+</html>

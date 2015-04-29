@@ -1,0 +1,891 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="stylesheet" type="text/css" href="rtwreport.css" /><script language="JavaScript" type="text/javascript">function rtwTableShrink(o) {var t = o.nextSibling;if (t.nodeType != 1) {t = t.nextSibling;}if (t.style.display == "none") {t.style.display = "";o.innerHTML = "[-]"} else {t.style.display = "none";o.innerHTML = "[+] ... "}}</script><script language="JavaScript" type="text/javascript" src="rtwreport_utils.js"></script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>
+Code Interface Report for NMPC_Controller
+</title>
+
+</head>
+<body ONLOAD="try {if (top) {if (top.rtwPageOnLoad) top.rtwPageOnLoad('rtwIdCodeInterface'); else local_onload();}} catch(err) {};">
+<h1>
+Code Interface Report for NMPC_Controller
+</h1>
+<h3>
+Table of Contents
+</h3>
+<ul>
+<li>
+<a href="#sec_Entry_Point_Functions">
+Entry Point Functions
+</a>
+
+</li>
+<li>
+<a href="#sec_Inports">
+Inports
+</a>
+
+</li>
+<li>
+<a href="#sec_Outports">
+Outports
+</a>
+
+</li>
+<li>
+<a href="#sec_Interface_Parameters">
+Interface Parameters
+</a>
+
+</li>
+<li>
+<a href="#sec_Data_Stores">
+Data Stores
+</a>
+
+</li>
+
+</ul>
+<h3>
+<a name="sec_Entry_Point_Functions">
+Entry Point Functions
+</a>
+
+</h3>
+<p>
+Function: <a href="NMPC_Controller_c.html#fcn_NMPC_Controller_initialize">NMPC_Controller_initialize</a>
+</p>
+<table width="100%" class="AltRow" cellspacing="0">
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Prototype
+</td>
+<td width="75%" align="left" valign="top">
+<b>
+void NMPC_Controller_initialize(void)
+</b>
+
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Description
+</td>
+<td width="75%" align="left" valign="top">
+Initialization entry point of generated code
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Timing
+</td>
+<td width="75%" align="left" valign="top">
+Must be called exactly once
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Arguments
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Return value
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Header file
+</td>
+<td width="75%" align="left" valign="top">
+<a href="NMPC_Controller_h.html">NMPC_Controller.h</a>
+</td>
+
+</tr>
+
+</table>
+<p>
+Function: <a href="NMPC_Controller_c.html#fcn_NMPC_Controller_step">NMPC_Controller_step</a>
+</p>
+<table width="100%" class="AltRow" cellspacing="0">
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Prototype
+</td>
+<td width="75%" align="left" valign="top">
+<b>
+void NMPC_Controller_step(void)
+</b>
+
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Description
+</td>
+<td width="75%" align="left" valign="top">
+Output entry point of generated code
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Timing
+</td>
+<td width="75%" align="left" valign="top">
+Must be called periodically, every 0.05 seconds
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Arguments
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Return value
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Header file
+</td>
+<td width="75%" align="left" valign="top">
+<a href="NMPC_Controller_h.html">NMPC_Controller.h</a>
+</td>
+
+</tr>
+
+</table>
+<p>
+Function: <a href="NMPC_Controller_c.html#fcn_NMPC_Controller_terminate">NMPC_Controller_terminate</a>
+</p>
+<table width="100%" class="AltRow" cellspacing="0">
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Prototype
+</td>
+<td width="75%" align="left" valign="top">
+<b>
+void NMPC_Controller_terminate(void)
+</b>
+
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Description
+</td>
+<td width="75%" align="left" valign="top">
+Termination entry point of generated code
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Timing
+</td>
+<td width="75%" align="left" valign="top">
+Must be called exactly once
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Arguments
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="even">
+<td width="25%" align="left" valign="top">
+Return value
+</td>
+<td width="75%" align="left" valign="top">
+None
+</td>
+
+</tr>
+<tr class="odd">
+<td width="25%" align="left" valign="top">
+Header file
+</td>
+<td width="75%" align="left" valign="top">
+<a href="NMPC_Controller_h.html">NMPC_Controller.h</a>
+</td>
+
+</tr>
+
+</table>
+<h3>
+<a name="sec_Inports">
+Inports
+</a>
+
+</h3>
+<span title="Click to shrink or expand table" onclick="rtwTableShrink(this)">[-]</span><table width="100%" class="AltRow FirstColumn" cellspacing="0">
+<tr class="heading">
+<th width="40%" align="left" valign="top">
+<b>
+Block Name
+</b>
+
+</th>
+<th width="25%" align="left" valign="top">
+<b>
+Code Identifier
+</b>
+
+</th>
+<th width="25%" align="left" valign="top">
+<b>
+Data Type
+</b>
+
+</th>
+<th width="10%" align="right" valign="top">
+<b>
+Dimension
+</b>
+
+</th>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:1814')" name="code2model" class="code2model">&lt;Root&gt;/R//C</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.RC
+</td>
+<td width="25%" align="left" valign="top">
+Control_cmd_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:240')" name="code2model" class="code2model">&lt;Root&gt;/PIC//CIC</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.PICCIC
+</td>
+<td width="25%" align="left" valign="top">
+boolean_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:1692')" name="code2model" class="code2model">&lt;Root&gt;/Home Cmd</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.HomeCmd
+</td>
+<td width="25%" align="left" valign="top">
+boolean_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:737')" name="code2model" class="code2model">&lt;Root&gt;/wpts</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.wpts
+</td>
+<td width="25%" align="left" valign="top">
+waypoint_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:127')" name="code2model" class="code2model">&lt;Root&gt;/GPS Position</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.GPSPosition
+</td>
+<td width="25%" align="left" valign="top">
+GPS_position_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:133')" name="code2model" class="code2model">&lt;Root&gt;/GPS Velocity</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.GPSVelocity
+</td>
+<td width="25%" align="left" valign="top">
+GPS_velocity_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:609')" name="code2model" class="code2model">&lt;Root&gt;/phi, theta, psi</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.phithetapsi
+</td>
+<td width="25%" align="left" valign="top">
+INS_angles_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:610')" name="code2model" class="code2model">&lt;Root&gt;/True Wind</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.TrueWind
+</td>
+<td width="25%" align="left" valign="top">
+Wind_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:611')" name="code2model" class="code2model">&lt;Root&gt;/VT, alpha, beta</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.VTalphabeta
+</td>
+<td width="25%" align="left" valign="top">
+VT_A_B_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:612')" name="code2model" class="code2model">&lt;Root&gt;/P,Q,R</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.PQR
+</td>
+<td width="25%" align="left" valign="top">
+INS_rates_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:613')" name="code2model" class="code2model">&lt;Root&gt;/Servo deflection</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.Servodeflection
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[4]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:649')" name="code2model" class="code2model">&lt;Root&gt;/n_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.n_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:650')" name="code2model" class="code2model">&lt;Root&gt;/e_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.e_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:651')" name="code2model" class="code2model">&lt;Root&gt;/h_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.h_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:652')" name="code2model" class="code2model">&lt;Root&gt;/vn_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.vn_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:653')" name="code2model" class="code2model">&lt;Root&gt;/ve_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.ve_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:654')" name="code2model" class="code2model">&lt;Root&gt;/vh_op</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.vh_op
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  22]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:1783')" name="code2model" class="code2model">&lt;Root&gt;/FL_ann</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.FL_ann
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:858')" name="code2model" class="code2model">&lt;Root&gt;/a_ann_X</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.a_ann_X
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  40]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:859')" name="code2model" class="code2model">&lt;Root&gt;/b_ann_X</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.b_ann_X
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   1]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:860')" name="code2model" class="code2model">&lt;Root&gt;/c_ann_X</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.c_ann_X
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:861')" name="code2model" class="code2model">&lt;Root&gt;/w_ann_X</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.w_ann_X
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   7]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:862')" name="code2model" class="code2model">&lt;Root&gt;/a_ann_Y</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.a_ann_Y
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  40]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:863')" name="code2model" class="code2model">&lt;Root&gt;/b_ann_Y</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.b_ann_Y
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   1]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:864')" name="code2model" class="code2model">&lt;Root&gt;/c_ann_Y</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.c_ann_Y
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:865')" name="code2model" class="code2model">&lt;Root&gt;/w_ann_Y</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.w_ann_Y
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   7]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:866')" name="code2model" class="code2model">&lt;Root&gt;/a_ann_Z</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.a_ann_Z
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[1  40]
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:867')" name="code2model" class="code2model">&lt;Root&gt;/b_ann_Z</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.b_ann_Z
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   1]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:868')" name="code2model" class="code2model">&lt;Root&gt;/c_ann_Z</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.c_ann_Z
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:869')" name="code2model" class="code2model">&lt;Root&gt;/w_ann_Z</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_U.w_ann_Z
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[40   7]
+</td>
+
+</tr>
+
+</table>
+<h3>
+<a name="sec_Outports">
+Outports
+</a>
+
+</h3>
+<span title="Click to shrink or expand table" onclick="rtwTableShrink(this)">[-]</span><table width="100%" class="AltRow FirstColumn" cellspacing="0">
+<tr class="heading">
+<th width="40%" align="left" valign="top">
+<b>
+Block Name
+</b>
+
+</th>
+<th width="25%" align="left" valign="top">
+<b>
+Code Identifier
+</b>
+
+</th>
+<th width="25%" align="left" valign="top">
+<b>
+Data Type
+</b>
+
+</th>
+<th width="10%" align="right" valign="top">
+<b>
+Dimension
+</b>
+
+</th>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:220')" name="code2model" class="code2model">&lt;Root&gt;/Control  Surface Commands</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.ControlSurfaceCommands
+</td>
+<td width="25%" align="left" valign="top">
+Control_cmd_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:622')" name="code2model" class="code2model">&lt;Root&gt;/Commanded States</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.CommandedStates
+</td>
+<td width="25%" align="left" valign="top">
+Guidance_cmd_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:625')" name="code2model" class="code2model">&lt;Root&gt;/Track Angles</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.TrackAngles
+</td>
+<td width="25%" align="left" valign="top">
+Track_angles_bus
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:291')" name="code2model" class="code2model">&lt;Root&gt;/Distance to Waypoint</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.DistancetoWaypoint
+</td>
+<td width="25%" align="left" valign="top">
+real32_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:292')" name="code2model" class="code2model">&lt;Root&gt;/Waypoint Index</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.WaypointIndex
+</td>
+<td width="25%" align="left" valign="top">
+uint8_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+<tr class="odd">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:963')" name="code2model" class="code2model">&lt;Root&gt;/W_data</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.W_data
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+[24]
+</td>
+
+</tr>
+<tr class="even">
+<td width="40%" align="left" valign="top">
+<a href="matlab:coder.internal.code2model('NMPC_Controller:964')" name="code2model" class="code2model">&lt;Root&gt;/V_nmpc</a>
+</td>
+<td width="25%" align="left" valign="top">
+NMPC_Controller_Y.V_nmpc
+</td>
+<td width="25%" align="left" valign="top">
+real_T
+</td>
+<td width="10%" align="right" valign="top">
+1
+</td>
+
+</tr>
+
+</table>
+<h3>
+<a name="sec_Interface_Parameters">
+Interface Parameters
+</a>
+
+</h3>
+<p>
+No interface/tunable parameters in model.
+</p>
+<h3>
+<a name="sec_Data_Stores">
+Data Stores
+</a>
+
+</h3>
+<p>
+No data stores in the model; note that this report lists only data stores with non-auto storage class and global data stores
+</p>
+
+</body>
+
+</html>
