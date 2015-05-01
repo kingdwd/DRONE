@@ -33,13 +33,13 @@ typedef struct {
 #ifndef _DEFINED_TYPEDEF_FOR_struct_xYjaDAhINEeuZgQvvu1iQH_
 #define _DEFINED_TYPEDEF_FOR_struct_xYjaDAhINEeuZgQvvu1iQH_
 
-typedef struct {
+/*typedef struct {
   real_T ref_lat;
   real_T ref_lon;
   real_T ref_alt;
   real_T fact_lat;
   real_T fact_lon;
-} struct_xYjaDAhINEeuZgQvvu1iQH;
+} struct_xYjaDAhINEeuZgQvvu1iQH;*/
 
 #endif
 
@@ -60,6 +60,11 @@ typedef struct {
 
 typedef struct {
   uint8_T fp;
+  real_T ref_lat;
+  real_T ref_lon;
+  real_T ref_alt;
+  real_T fact_lat;
+  real_T fact_lon;
   uint8_T rp;
   real_T h[32];
   real_T n[32];

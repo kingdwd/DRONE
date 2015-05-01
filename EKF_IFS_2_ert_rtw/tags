@@ -576,7 +576,6 @@ HomeCmd	EKF_IFS_2.h	/^  boolean_T HomeCmd;                   \/* '<Root>\/Home C
 HomeResetMemory_InitialValue	EKF_IFS_2.h	/^  uint8_T HomeResetMemory_InitialValue;\/* Computed Parameter: HomeResetMemory_InitialValue$/;"	m	struct:P_EKF_IFS_2_T_
 Home_reset	EKF_IFS_2.h	/^  uint8_T Home_reset;                  \/* '<S8>\/Home Reset Memory' *\/$/;"	m	struct:__anon35
 IEEESingle	rt_nonfinite.h	/^} IEEESingle;$/;"	t	typeref:struct:__anon42
-IMU_H	imu.h	3;"	d
 INCLUDES	EKF_IFS_2.mk	/^INCLUDES = $(INCLUDES_BUILDINFO)$/;"	m
 INCLUDES	makefile	/^INCLUDES = $(INCLUDES_BUILDINFO)$/;"	m
 INCLUDES_BUILDINFO	EKF_IFS_2.mk	/^INCLUDES_BUILDINFO = -I$(START_DIR)\/EKF_IFS_2_ert_rtw -I$(START_DIR) -I\/nfs\/users\/heechul\/Documents\/MATLAB -I$(MATLAB_ROOT)\/extern\/include -I$(MATLAB_ROOT)\/simulink\/include -I$(MATLAB_ROOT)\/rtw\/c\/src -I$(MATLAB_ROOT)\/rtw\/c\/src\/ext_mode\/common -I$(MATLAB_ROOT)\/rtw\/c\/ert -IVectorNav$/;"	m

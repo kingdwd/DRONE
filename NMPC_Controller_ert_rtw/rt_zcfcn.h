@@ -18,7 +18,7 @@
 #ifndef RTW_HEADER_rt_zcfcn_h_
 #define RTW_HEADER_rt_zcfcn_h_
 #include "rtwtypes.h"
-#include "solver_zc.h"
+//#include "solver_zc.h"
 #ifndef slZcHadEvent
 #define slZcHadEvent(ev, zcsDir)       (((ev) & (zcsDir)) != 0x00 )
 #endif

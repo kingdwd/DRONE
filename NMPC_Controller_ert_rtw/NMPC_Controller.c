@@ -17,6 +17,7 @@
 
 #include "NMPC_Controller.h"
 #include "NMPC_Controller_private.h"
+//#include "rt_zcfcn.c"
 
 /* Named constants for MATLAB Function: '<Root>/Control System' */
 #define NMPC_Controller_nz             (12.0)
@@ -5241,9 +5242,9 @@ void NMPC_Controller_step(void)
   /* Delay: '<Root>/Delay 5 seconds' incorporates:
    *  Inport: '<Root>/FL_ann'
    */
-  zcEvent = rt_ZCFcn(FALLING_ZERO_CROSSING,
+  /*zcEvent = rt_ZCFcn(FALLING_ZERO_CROSSING,
                      &NMPC_Controller_PrevZCX.Delay5seconds_Reset_ZCE,
-                     (NMPC_Controller_U.FL_ann));
+                     (NMPC_Controller_U.FL_ann));*/
   if (zcEvent != NO_ZCEVENT) {
     memset(&NMPC_Controller_DW.Delay5seconds_DSTATE[0], 0, 100U * sizeof(real_T));
   }
