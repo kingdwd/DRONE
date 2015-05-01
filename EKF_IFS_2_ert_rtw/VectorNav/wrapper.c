@@ -174,15 +174,16 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 	WriteLine(tty_fd, "GETRC\n");
         
 	while(!ReadLine(tty_fd, buf));
-        sscanf(buf, "%d %d %f %f %f %f %d", 
+        sscanf(buf, "1 1 %f %f %f %f %d", 
 		&data->PICCIC, 
 		&data->HomeCmd,
-		&data->ServoCommands.throttle_cmd, /* float? */
-		&data->ServoCommands.elevator_cmd,  /*float? */
-		&data->ServoCommands.aileron_cmd,  /* float? */
-		&data->ServoCommands.rudder_cmd,   /* float? */
+		&data->RC.throttle_cmd, /* float? */
+		&data->RC.elevator_cmd,  /*float? */
+		&data->RC.aileron_cmd,  /* float? */
+		&data->RC.rudder_cmd,   /* float? */
 		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
+  printf("\n The input pwm signals are %d %d %f %f %f %f  :", &data->PICCIC, data->HomeCmd, data->ServoCommands.throttle_cmd, data->ServoCommands.elevator_cmd,  data->ServoCommands.aileron_cmd, data->ServoCommands.rudder_cmd);
 
 	/* 6 RC values:
 	   data->HomeCmd
