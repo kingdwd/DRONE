@@ -1,6 +1,6 @@
 #include <avr/wdt.h> // watch dog timer
 #include <Servo.h>   // servo PWM generation
-
+ #include <Wire.h>
 int a=0,b=0,c=0,d=0;
 /*Input */
 const int chA=22;  //pwm input PIC/CIC  - above threshold is autopilot
@@ -16,6 +16,9 @@ const int rudder = 20;
 
 //const int chG=34;
 //const int chH=36;
+const char AMS5812_0 = 0x78; // I2C address of pressure sensor
+volatile uint16_t pressure;
+volatile uint16_t temperature;
 
 //analog input pins
 const int chI=A0;  //analog input AIRSPEED SENSOR
@@ -226,7 +229,10 @@ void loop() {  if(Serial.available()>0){
     } else if (str == "VERIFY") {
       verify();
     }}
-  
+  // read airspeed sensor
+         // apply digital filter
+  airspeed = (airspeed + airspeed + airspeed+ analogRead(airspeedADC)) >> 2;
+  readAMS5812(); // read the digital version of the pressure and temperature
   // SAFETY CHECK for a kill signal even if autopilot is in control!!
   if(doKill() == 0)
   {  
@@ -549,6 +555,33 @@ void ISRrudderfalling()
    attachInterrupt(rudderINT, ISRrudderrising, RISING);
    new_rudderEST = true;
 }
+void readAMS5812(void)
+{
+   uint8_t p1, p2, t1, t2;
+
+   Wire.requestFrom(AMS5812_0, 4);
+   while(Wire.available() < 4)
+      ;
+   p1 = Wire.read();
+   p2 = Wire.read();
+   t1 = Wire.read();
+   t2 = Wire.read();
+
+   temperature = (uint16_t)t2 + ((uint16_t)t1 << 8);
+   pressure = (uint16_t)p2 + ((uint16_t)p1 << 8);
+
+   
+   if(temperature < 3277)
+      temperature = 0;
+   else
+      temperature -= 3277;
+
+   if(pressure < 3277)
+      pressure = 0;
+   else
+      pressure -= 3277;
+}
+
 
 
 
