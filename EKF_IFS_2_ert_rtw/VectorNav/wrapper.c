@@ -119,7 +119,7 @@ void InitSerial()
 	tio.c_lflag = ICANON; 
 	tio.c_cc[VMIN] = 1; 
 	tio.c_cc[VTIME] = 0; 
-  usleep(2000000);
+  usleep(3000000);
 	tcflush(tty_fd, TCIFLUSH);
 	tcsetattr(tty_fd, TCSANOW, &tio); 
 	tcsetattr(tty_fd,TCSAFLUSH,&tio);  

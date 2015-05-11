@@ -107,6 +107,12 @@ int main(int argc, char *argv[])
 		
 		/* Get Arduino Data */
 		GetSerialData(&EKF_IFS_2_U); 
+                /* Get moving points Data */
+                InitMovingWaypoints(&EKF_IFS_2_U);
+                /* Get waypoints Data */
+                InitStaticWaypoints(&EKF_IFS_2_U);
+                /* Get Servo deflection Data */
+                InitOther(&EKF_IFS_2_U);
 
 		/* Step the model */
 		EKF_IFS_2_step();

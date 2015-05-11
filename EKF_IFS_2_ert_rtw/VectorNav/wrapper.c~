@@ -107,28 +107,28 @@ void InitSerial()
 {
 	int i;
 	struct termios tio;
-
 	if((tty_fd = open(ARDUINO_COM , O_RDWR | O_NOCTTY)) < 0 ) { 
 		perror("Error while opening serial port\n"); 
 		exit(-11);
 	}
 
 	memset(&tio, 0, sizeof(tio));
-
 	tio.c_iflag = IGNPAR | ICRNL;
 	tio.c_cflag = AR_BAUDRATE | CS8 | CREAD | CLOCAL;
 	tio.c_oflag = 0; 
 	tio.c_lflag = ICANON; 
 	tio.c_cc[VMIN] = 1; 
 	tio.c_cc[VTIME] = 0; 
-        usleep(100000);
- 	tcflush(tty_fd, TCIFLUSH);
+  usleep(3000000);
+	tcflush(tty_fd, TCIFLUSH);
 	tcsetattr(tty_fd, TCSANOW, &tio); 
 	tcsetattr(tty_fd,TCSAFLUSH,&tio);  
-
 	/* handshake */
-	char buf[BUF_SIZE];
+	char buf[BUF_SIZE]; 
+ // usleep(200000);
+
 	WriteLine(tty_fd, "INIT\n");
+ // usleep(5000000);
 	while(!ReadLine(tty_fd, buf));
 	PDEBUG(0, "Recv %s", buf);
 }
@@ -174,15 +174,16 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 	WriteLine(tty_fd, "GETRC\n");
         
 	while(!ReadLine(tty_fd, buf));
-        sscanf(buf, "%d %d %f %f %f %f %d", 
+        sscanf(buf, "1 1 %f %f %f %f %d", 
 		&data->PICCIC, 
 		&data->HomeCmd,
-		&data->ServoCommands.throttle_cmd, /* float? */
-		&data->ServoCommands.elevator_cmd,  /*float? */
-		&data->ServoCommands.aileron_cmd,  /* float? */
-		&data->ServoCommands.rudder_cmd,   /* float? */
+		&data->RC.throttle_cmd, /* float? */
+		&data->RC.elevator_cmd,  /*float? */
+		&data->RC.aileron_cmd,  /* float? */
+		&data->RC.rudder_cmd,   /* float? */
 		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
+  printf("\n The input pwm signals are %d %d %f %f %f %f  :", &data->PICCIC, data->HomeCmd, data->ServoCommands.throttle_cmd, data->ServoCommands.elevator_cmd,  data->ServoCommands.aileron_cmd, data->ServoCommands.rudder_cmd);
 
 	/* 6 RC values:
 	   data->HomeCmd
