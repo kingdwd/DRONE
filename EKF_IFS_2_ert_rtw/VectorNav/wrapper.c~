@@ -68,31 +68,38 @@ void InitIMU(void)
 
 void GetIMUData(ExtU_EKF_IFS_2_T *data)
 {
-	double gpsTime;
-	unsigned short gpsWeek, status;
-	VnVector3 ypr, latitudeLognitudeAltitude, nedVelocity;
-	float attitudeUncertainty, positionUncertainty, velocityUncertainty;
+	
+	VnVector3 ypr, latitudeLognitudeAltitude, Velocity, accel, angularRate;
+	
     
-	vn200_getInsSolutionLla(
+	vn200_getInsStateLla(
 		&vn200,
-		&gpsTime,
-		&gpsWeek,
-		&status,
 		&ypr,
 		&latitudeLognitudeAltitude,
-		&nedVelocity,
-		&attitudeUncertainty,
-		&positionUncertainty,
-		&velocityUncertainty);
-        printf("ypr: %f %f %f\n", ypr.c0, ypr.c1, ypr.c2);
-
+		&Velocity,
+		&accel,
+		&angularRate);
+       
+        //printf("GPS POSITION: %lf %lf %lf\n", latitudeLognitudeAltitude.c0, latitudeLognitudeAltitude.c1,    latitudeLognitudeAltitude.c2);        
 	data->GPSPosition.Latitude = latitudeLognitudeAltitude.c0;
 	data->GPSPosition.Longitude = latitudeLognitudeAltitude.c1;
 	data->GPSPosition.Altitude = latitudeLognitudeAltitude.c2;
-
-	data->GPSVelocity.V_north= latitudeLognitudeAltitude.c0;
-	data->GPSVelocity.V_east = latitudeLognitudeAltitude.c1;
-	data->GPSVelocity.V_down = latitudeLognitudeAltitude.c2;
+       // printf("GPS VELOCITY: %f %f %f\n", Velocity.c0, Velocity.c1, Velocity.c2);
+	data->GPSVelocity.V_north= Velocity.c0;
+	data->GPSVelocity.V_east = Velocity.c1;
+	data->GPSVelocity.V_down = Velocity.c2;
+        printf("ypr (or) Euler angles: %f %f %f\n", ypr.c0, ypr.c1, ypr.c2);
+        data->EulerAngles.phi= ypr.c0;
+	data->EulerAngles.theta= ypr.c1;
+	data->EulerAngles.psi= ypr.c2;
+	//printf("Body rates: %f %f %f\n", angularRate.c0, angularRate.c1, angularRate.c2);
+	data->BodyRatesmeas.P= angularRate.c0;
+	data->BodyRatesmeas.Q= angularRate.c1;
+	data->BodyRatesmeas.R= angularRate.c2;
+	//printf("Accelerometer measurements: %f %f %f\n", accel.c0, accel.c1, accel.c2);
+	data->Accelerometermeas.Axb= accel.c0;
+	data->Accelerometermeas.Ayb= accel.c1;
+	data->Accelerometermeas.Azb= accel.c2;
 }
 
 void CloseIMU()
