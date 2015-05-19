@@ -232,7 +232,7 @@ void loop() {  if(Serial.available()>0){
   // read airspeed sensor
          // apply digital filter
   //airspeed = (airspeed + airspeed + airspeed+ analogRead(airspeedADC)) >> 2;
-  readAMS5812(); // read the digital version of the pressure and temperature
+  //readAMS5812(); // read the digital version of the pressure and temperature
   // SAFETY CHECK for a kill signal even if autopilot is in control!!
   if(doKill() == 0)
   {  
