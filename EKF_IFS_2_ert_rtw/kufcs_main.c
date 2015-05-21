@@ -90,35 +90,38 @@ int main(int argc, char *argv[])
 
 	/* Initialize model */
 	EKF_IFS_2_initialize();
+	/* Get moving points Data */
+        InitMovingWaypoints(&EKF_IFS_2_U);
+        /* Get waypoints Data */
+        InitStaticWaypoints(&EKF_IFS_2_U);
+        /* Get Servo deflection Data */
+        InitOther(&EKF_IFS_2_U);
 
 	/* Initialize hardware */
 	InitIMU(); /* vectornav */
 
-	InitSerial(); /* arduino */
+	InitSerial(); /* arduino & movingpoints & waypoints*/
 
 	clock_gettime(CLOCK_REALTIME, &start);
 	iter =  0;
 	while (1) {
 		double remain_us;
 		uint64_t tmpdiff;
-
+		PDEBUG("\n\niter %ld starts\n", iter+1);
 		/* Get sensor data */
 		GetIMUData(&EKF_IFS_2_U);
 		
 		/* Get Arduino Data */
 		GetSerialData(&EKF_IFS_2_U); 
-                /* Get moving points Data */
-                InitMovingWaypoints(&EKF_IFS_2_U);
-                /* Get waypoints Data */
-                InitStaticWaypoints(&EKF_IFS_2_U);
-                /* Get Servo deflection Data */
-                InitOther(&EKF_IFS_2_U);
+               
 
 		/* Step the model */
 		EKF_IFS_2_step();
 
 		/* Output to the motor controller */
 		SendSerialData(&EKF_IFS_2_Y); 
+                /* Send MicroHard */
+		InitMicroHard();
 
 		/* Time book keeping */
 		clock_gettime(CLOCK_REALTIME, &end);
@@ -149,5 +152,6 @@ int main(int argc, char *argv[])
 	/* Close hardware */
 	CloseIMU();
 	CloseSerial();
+	CloseMicroHard();
 	return 0;
 }

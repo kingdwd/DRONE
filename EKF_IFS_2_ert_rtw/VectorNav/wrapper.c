@@ -32,6 +32,8 @@ const int VN_BAUDRATE = 115200;
 
 #define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
+#define MICROHARD_COM "/dev/ttyS0"
+#define MH_BAUDRATE B115200  /*rate for usb serial*/
 
 #define PDEBUG(lvl, fmt, ...)						\
 	do { if (g_debug_level > lvl) fprintf(stderr, fmt, __VA_ARGS__); } while (0)
@@ -46,6 +48,7 @@ const int VN_BAUDRATE = 115200;
  **************************************************************************/
 static Vn200 vn200;
 int tty_fd;
+int tty_fd1;
 int g_debug_level = 1;
 
 /**************************************************************************
@@ -126,20 +129,50 @@ void InitSerial()
 	tio.c_lflag = ICANON; 
 	tio.c_cc[VMIN] = 1; 
 	tio.c_cc[VTIME] = 0; 
-  usleep(3000000);
+        usleep(4000000);
 	tcflush(tty_fd, TCIFLUSH);
 	tcsetattr(tty_fd, TCSANOW, &tio); 
 	tcsetattr(tty_fd,TCSAFLUSH,&tio);  
 	/* handshake */
-	char buf[BUF_SIZE]; 
- // usleep(200000);
-
+	char buf[BUF_SIZE];
 	WriteLine(tty_fd, "INIT\n");
- // usleep(5000000);
 	while(!ReadLine(tty_fd, buf));
 	PDEBUG(0, "Recv %s", buf);
+	
 }
+void InitMicroHard()
+{
+        int i;
+	struct termios tio1;
 
+	if((tty_fd1 = open(MICROHARD_COM , O_RDWR | O_NOCTTY)) < 0 ) { 
+		perror("Error while opening RS232 port\n"); 
+		exit(-11);
+	}
+
+	memset(&tio1, 0, sizeof(tio1));
+
+	tio1.c_iflag = IGNPAR | ICRNL;
+	tio1.c_cflag = MH_BAUDRATE | CS8 | CREAD | CLOCAL;
+	tio1.c_oflag = 0; 
+	tio1.c_lflag = ICANON; 
+	tio1.c_cc[VMIN] = 1; 
+	tio1.c_cc[VTIME] = 0; 
+
+	tcflush(tty_fd1, TCIFLUSH);
+	tcsetattr(tty_fd1, TCSANOW, &tio1); 
+	tcsetattr(tty_fd1,TCSAFLUSH,&tio1);  
+        char buf[BUF_SIZE]; 
+        strcpy(buf, "microhard is working\n");
+        int len  = strlen(buf);
+	write(tty_fd1, buf, len);
+	PDEBUG(0, "Ground Station's data :%s", buf);
+	 
+}
+void CloseMicroHard()
+{
+	close(tty_fd1); 
+}
 
 int ReadN(int fd, char *buf, int len)
 {
@@ -190,7 +223,7 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 		&data->RC.rudder_cmd,   /* float? */
 		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
-  printf("\n The input pwm signals are %d %d %f %f %f %f  :", &data->PICCIC, data->HomeCmd, data->ServoCommands.throttle_cmd, data->ServoCommands.elevator_cmd,  data->ServoCommands.aileron_cmd, data->ServoCommands.rudder_cmd);
+  //printf("\n The input pwm signals are %d %d %f %f %f %f  :", data->PICCIC, data->HomeCmd, data->ServoCommands.throttle_cmd, data->ServoCommands.elevator_cmd,  data->ServoCommands.aileron_cmd, data->ServoCommands.rudder_cmd);
 
 	/* 6 RC values:
 	   data->HomeCmd
@@ -225,10 +258,7 @@ void SendSerialData(ExtY_EKF_IFS_2_T *data)
 		data->ControlSurfaceCommands.rudder_cmd);
 	WriteLine(tty_fd, "OUTPUT\n");
 	WriteLine(tty_fd, buf);
-        WriteLine(tty_fd, "VERIFY\n");
-        while(!ReadLine(tty_fd, buf1));
-	PDEBUG(0, "%s", buf1);
-
+        
 }
 
 void CloseSerial()
