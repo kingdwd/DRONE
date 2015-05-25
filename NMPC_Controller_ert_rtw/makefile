@@ -129,7 +129,7 @@ RUN                 =
 
 ARFLAGS              = ruvs
 CFLAGS               = -c $(ANSI_OPTS) -fPIC \
-                       -O0 -g
+                       -O3 -g
 CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \
                        -O0 -g
 CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"

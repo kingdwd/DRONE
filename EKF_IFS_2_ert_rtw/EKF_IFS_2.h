@@ -27,7 +27,7 @@
 #include "rt_defines.h"
 #include "rt_nonfinite.h"
 #include "rtGetInf.h"
-
+#include <stdint.h>
 /* Macros for accessing real-time model data structure */
 #ifndef rtmGetErrorStatus
 # define rtmGetErrorStatus(rtm)        ((rtm)->errorStatus)
@@ -36,6 +36,63 @@
 #ifndef rtmSetErrorStatus
 # define rtmSetErrorStatus(rtm, val)   ((rtm)->errorStatus = (val))
 #endif
+typedef struct 
+{
+	char a,p,d,s;
+} header;
+typedef struct 
+{
+	uint32_t MPCClockCount ;
+	uint32_t CycleCount ;
+	float    DistancetoWaypoint;
+	uint8_t  WaypointIndex ;
+	int8_t   WaypointUploadStatus ;
+	uint8_t  PIC_CIC;
+	float    PilotThrottle;
+	float    PilotElevatorRad;
+	float    PilotAileronRad;
+	float    PilotRudderRad;
+	uint8_t  SPIStatus ;
+	uint8_t  UpPacketCnt ;
+	uint8_t  NAVstatus ;
+	uint8_t  RadarCommand ;
+	uint8_t  RadarStatus ;
+	double   EtaLat  ;
+	double   EtaLon ;
+	float    VTCommandState ;
+	float    ThetaCommandState ;
+	float    PhiCommandState;
+	float    HomeCommand ;
+	uint8_t  DebugSwEn  ;
+	uint8_t  DebugCalibration ;
+	float    IFSThrottleCmd;
+	float	 IFSElevatorCmd;
+	float	 IFSAileronCmd;
+	float	 IFSRudderCmd;
+	double	 SPLatitude;
+	double	 SPLongitude;
+	double 	 SPAltitude;
+	float	 SPVnorth;
+	float	 SPVeast;
+	float	 SPVdown;
+	float	 SPPhi;
+	float	 SPTheta;
+	float 	 SPPsi;
+	float	 SPVT ;
+	float	 SPAlpha;
+	float	 SPBeta ;
+	float	 SPP;
+	float	 SPQ;
+	float	 SPR;
+	uint8_t  SPNovaPosType ;
+	uint8_t	 SPNovaSolType ;
+	uint8_t  SPNovaNumSats ;
+	float	 SPVT2 ;
+} pdata;
+typedef struct 
+{
+	int16_t checksums;
+}checksum;
 
 /* Block signals for system '<S5>/Convert Lat//Lon//Alt to Flat Earth' */
 typedef struct {

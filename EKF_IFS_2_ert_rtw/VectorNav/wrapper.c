@@ -20,9 +20,10 @@
 #include <assert.h>
 #include "../EKF_IFS_2.h"
 #include "vectornav.h"
+//#include "packet.h"
 #include <errno.h>
 #include <termios.h>
-
+#include<stdint.h>
 /**************************************************************************
  * Public Definitions
  **************************************************************************/
@@ -83,11 +84,11 @@ void GetIMUData(ExtU_EKF_IFS_2_T *data)
 		&accel,
 		&angularRate);
        
-        //printf("GPS POSITION: %lf %lf %lf\n", latitudeLognitudeAltitude.c0, latitudeLognitudeAltitude.c1,    latitudeLognitudeAltitude.c2);        
+        printf("GPS POSITION: %lf %lf %lf\n", latitudeLognitudeAltitude.c0, latitudeLognitudeAltitude.c1,    latitudeLognitudeAltitude.c2);        
 	data->GPSPosition.Latitude = latitudeLognitudeAltitude.c0;
 	data->GPSPosition.Longitude = latitudeLognitudeAltitude.c1;
 	data->GPSPosition.Altitude = latitudeLognitudeAltitude.c2;
-       // printf("GPS VELOCITY: %f %f %f\n", Velocity.c0, Velocity.c1, Velocity.c2);
+        printf("GPS VELOCITY: %f %f %f\n", Velocity.c0, Velocity.c1, Velocity.c2);
 	data->GPSVelocity.V_north= Velocity.c0;
 	data->GPSVelocity.V_east = Velocity.c1;
 	data->GPSVelocity.V_down = Velocity.c2;
@@ -95,11 +96,11 @@ void GetIMUData(ExtU_EKF_IFS_2_T *data)
         data->EulerAngles.phi= ypr.c0;
 	data->EulerAngles.theta= ypr.c1;
 	data->EulerAngles.psi= ypr.c2;
-	//printf("Body rates: %f %f %f\n", angularRate.c0, angularRate.c1, angularRate.c2);
+	printf("Body rates: %f %f %f\n", angularRate.c0, angularRate.c1, angularRate.c2);
 	data->BodyRatesmeas.P= angularRate.c0;
 	data->BodyRatesmeas.Q= angularRate.c1;
 	data->BodyRatesmeas.R= angularRate.c2;
-	//printf("Accelerometer measurements: %f %f %f\n", accel.c0, accel.c1, accel.c2);
+	printf("Accelerometer measurements: %f %f %f\n", accel.c0, accel.c1, accel.c2);
 	data->Accelerometermeas.Axb= accel.c0;
 	data->Accelerometermeas.Ayb= accel.c1;
 	data->Accelerometermeas.Azb= accel.c2;
@@ -162,12 +163,7 @@ void InitMicroHard()
 	tcflush(tty_fd1, TCIFLUSH);
 	tcsetattr(tty_fd1, TCSANOW, &tio1); 
 	tcsetattr(tty_fd1,TCSAFLUSH,&tio1);  
-        char buf[BUF_SIZE]; 
-        strcpy(buf, "microhard is working\n");
-        int len  = strlen(buf);
-	write(tty_fd1, buf, len);
-	PDEBUG(0, "Ground Station's data :%s", buf);
-	 
+        Create_packets(&EKF_IFS_2_U);	 
 }
 void CloseMicroHard()
 {
@@ -213,7 +209,7 @@ void GetSerialData(ExtU_EKF_IFS_2_T *data)
 
 	WriteLine(tty_fd, "GETRC\n");
         
-	while(!ReadLine(tty_fd, buf));
+	while(!ReadLine(tty_fd, buf))WriteLine(tty_fd, "GETRC\n");
         sscanf(buf, "1 1 %f %f %f %f %d", 
 		&data->PICCIC, 
 		&data->HomeCmd,
@@ -319,6 +315,132 @@ void GetOther(ExtU_EKF_IFS_2_T *data)
 	data->Servodeflection[0] = 0;
 	data->Servodeflection[1] = 0;
 	data->Servodeflection[2] = 0;
+}
+void Create_packets(ExtU_EKF_IFS_2_T *data)
+{	header packet1;
+	pdata  packet2;
+	checksum packet3;
+	char sum[172];
+	
+	packet1.a = 'A';
+	packet1.p = 'P';
+	packet1.d = 'D';
+	packet1.s = 'S';
+	packet2.MPCClockCount = 0;
+	packet2.CycleCount = 0;
+	packet2.DistancetoWaypoint = 0;	
+	packet2.WaypointIndex = 0;
+	packet2.WaypointUploadStatus = 0;
+	packet2.SPIStatus = 0;
+	packet2.UpPacketCnt = 0;
+	packet2.NAVstatus = 0;
+	packet2.RadarCommand = 0;
+	packet2.RadarStatus = 0;
+	packet2.EtaLat = 0;
+	packet2.EtaLon = 0;
+	packet2.VTCommandState = 0;
+	packet2.ThetaCommandState = 0;
+	packet2.PhiCommandState = 0;
+	packet2.HomeCommand = 0;
+	packet2.DebugSwEn = 0 ;
+	packet2.DebugCalibration = 0;
+	packet2.SPVT = 0;
+	packet2.SPAlpha = 0;
+	packet2.SPBeta = 0;
+	packet2.SPNovaPosType = 0;
+	packet2.SPNovaSolType = 0;
+	packet2.SPNovaNumSats = 0;
+	packet2.SPVT2 = 0;
+
+	packet2.PIC_CIC           = (uint8_t)data->PICCIC;
+	packet2.PilotThrottle     = (float)data->RC.throttle_cmd;
+	packet2.PilotElevatorRad  = (float)data->RC.elevator_cmd;
+	packet2.PilotAileronRad   = (float)data->RC.aileron_cmd;
+	packet2.PilotRudderRad    = (float)data->RC.rudder_cmd;
+	packet2.IFSThrottleCmd    = (float)data->ServoCommands.throttle_cmd;
+	packet2.IFSElevatorCmd    = (float)data->ServoCommands.elevator_cmd;
+	packet2.IFSAileronCmd     = (float)data->ServoCommands.aileron_cmd;
+	packet2.IFSRudderCmd      = (float)data->ServoCommands.rudder_cmd;
+	packet2.SPLatitude        = data->GPSPosition.Latitude;
+	packet2.SPLongitude       = data->GPSPosition.Longitude;	
+	packet2.SPAltitude        = data->GPSPosition.Altitude;
+	packet2.SPVnorth	   = (float)data->GPSVelocity.V_north;	
+	packet2.SPVeast	   = (float)data->GPSVelocity.V_east;
+	packet2.SPVdown	   = (float)data->GPSVelocity.V_down;
+	packet2.SPPhi   	   = (float)data->EulerAngles.phi;
+	packet2.SPTheta   	   = (float)data->EulerAngles.theta;
+	packet2.SPPsi   	   = (float)data->EulerAngles.psi;
+	packet2.SPP		   = (float)data->BodyRatesmeas.P;
+	packet2.SPQ		   = (float)data->BodyRatesmeas.Q;
+	packet2.SPR		   = (float)data->BodyRatesmeas.R;
+	packet3.checksums	   = 0;
+	memcpy(sum+0,  &packet1.a, 1);
+	memcpy(sum+1,  &packet1.p, 1);	
+	memcpy(sum+2,  &packet1.d, 1);
+	memcpy(sum+3,  &packet1.s, 1);
+	memcpy(sum+4,  &packet2.MPCClockCount, 4);
+	memcpy(sum+8,  &packet2.CycleCount, 4);
+	memcpy(sum+12, &packet2.DistancetoWaypoint, 4);
+	memcpy(sum+16, &packet2.WaypointIndex, 1);	
+	memcpy(sum+17, &packet2.WaypointUploadStatus, 1);
+	memcpy(sum+18, &packet2.PIC_CIC, 1);
+	memcpy(sum+19, &packet2.PilotThrottle, 4);
+	memcpy(sum+23, &packet2.PilotElevatorRad, 4);
+	memcpy(sum+27, &packet2.PilotAileronRad, 4);
+	memcpy(sum+31, &packet2.PilotRudderRad, 4);
+	memcpy(sum+35, &packet2.SPIStatus, 1);
+	memcpy(sum+36, &packet2.UpPacketCnt, 1);
+	memcpy(sum+37, &packet2.NAVstatus, 1);
+	memcpy(sum+38, &packet2.RadarCommand, 1);
+	memcpy(sum+39, &packet2.RadarStatus, 1);
+	memcpy(sum+40, &packet2.EtaLat, 8);	
+	memcpy(sum+48, &packet2.EtaLon, 8);
+	memcpy(sum+56, &packet2.VTCommandState, 4);
+	memcpy(sum+60, &packet2.ThetaCommandState, 4);
+	memcpy(sum+64, &packet2.PhiCommandState, 4);
+	memcpy(sum+68, &packet2.HomeCommand, 4);
+	memcpy(sum+72, &packet2.DebugSwEn, 1);
+	memcpy(sum+73, &packet2.DebugCalibration, 1);
+	memcpy(sum+74, &packet2.IFSThrottleCmd, 4);
+	memcpy(sum+78, &packet2.IFSElevatorCmd, 4);
+	memcpy(sum+82, &packet2.IFSAileronCmd, 4);
+	memcpy(sum+86, &packet2.IFSRudderCmd, 4);
+	memcpy(sum+106,&packet2.SPAltitude, 8);
+	memcpy(sum+114,&packet2.SPVnorth, 4);
+	memcpy(sum+118,&packet2.SPVeast, 4);
+	memcpy(sum+122,&packet2.SPVdown, 4);
+	memcpy(sum+126,&packet2.SPPhi, 4);
+	memcpy(sum+130,&packet2.SPTheta, 4);
+	memcpy(sum+134,&packet2.SPPsi, 4);
+	memcpy(sum+138,&packet2.SPVT, 4);
+	memcpy(sum+142,&packet2.SPAlpha, 4);
+	memcpy(sum+146,&packet2.SPBeta, 4);
+	memcpy(sum+150,&packet2.SPP, 4);
+	memcpy(sum+154,&packet2.SPQ, 4);
+	memcpy(sum+158,&packet2.SPR, 4);
+	memcpy(sum+162,&packet2.SPNovaPosType, 1);
+	memcpy(sum+163,&packet2.SPNovaSolType, 1);
+	memcpy(sum+164,&packet2.SPNovaNumSats, 1);
+	memcpy(sum+165,&packet2.SPVT2, 4);	
+	int index=2;
+	for(index;index<169;index++)
+	packet3.checksums += (uint16_t)sum[index];
+	int e=0;
+	printf("\n\nPacket checking   ");
+	uint8_t b[2];
+	memcpy(sum+169, &packet3.checksums, 2);
+	//memcpy(b+0, &packet3.checksums, 2);
+	//memcpy(sum+169, &b[1], 1);
+	//memcpy(sum+170, &b[0], 1);
+	for(e;e<=170;e++)
+	printf("\t%d",sum[e]);
+//	b=packet3.checksums;
+	
+//	printf("\n\nthe checksum length is%d \n\n ",q);
+	write(tty_fd1, sum, 171);
+	printf("\nGround Station's data :%s\n\r", sum);
+	printf("\n\nChecksum : %d\n\n",packet3.checksums);
+//	printf("\n\nChecksum 1: %d\n\n",b);
 }
 
 
