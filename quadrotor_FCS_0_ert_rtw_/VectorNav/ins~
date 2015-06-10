@@ -1,0 +1,366 @@
+VN_ERROR_CODE vn200_getInsSolutionLla(
+	Vn200* vn200,
+	double* gpsTime,
+	unsigned short* gpsWeek,
+	unsigned short* status,
+	VnVector3* ypr,
+	VnVector3* lattitudeLongitudeAltitude,
+	VnVector3* nedVelocity,
+	float* attitudeUncertainty,
+	float* positionUncertainty,
+	float* velocityUncertainty)
+{
+	const char* cmdToSend = "$VNRRG,63";
+	char delims[] = ",*";
+	char* result;
+	int errorCode;
+	const char* responseMatch = "VNRRG,";
+
+	if (!vn200->isConnected)
+		return VNERR_NOT_CONNECTED;
+
+	errorCode = vndevice_transaction(&vn200->vndevice, cmdToSend, responseMatch);
+
+	if (errorCode != VNERR_NO_ERROR)
+		return errorCode;
+
+	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
+	result = strtok(0, delims);                            /* Returns register ID */
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*gpsTime = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*gpsWeek = (unsigned short) atoi(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*status = (unsigned short) strtol(result, NULL, 16);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lattitudeLongitudeAltitude->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lattitudeLongitudeAltitude->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lattitudeLongitudeAltitude->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	nedVelocity->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	nedVelocity->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	nedVelocity->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*attitudeUncertainty = (float) atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*positionUncertainty = (float) atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*velocityUncertainty = (float) atof(result);
+
+	return VNERR_NO_ERROR;
+}
+
+VN_ERROR_CODE vn200_getInsSolutionEcef(
+	Vn200* vn200,
+	double* gpsTime,
+	uint16_t* gpsWeek,
+	uint16_t* status,
+	VnVector3* ypr,
+	VnVector3* position,
+	VnVector3* velocity,
+	float* attitudeUncertainty,
+	float* positionUncertainty,
+	float* velocityUncertainty)
+{
+	const char* cmdToSend = "$VNRRG,64";
+	char delims[] = ",*";
+	char* result;
+	int errorCode;
+	const char* responseMatch = "VNRRG,";
+
+	if (!vn200->isConnected)
+		return VNERR_NOT_CONNECTED;
+
+	errorCode = vndevice_transaction(&vn200->vndevice, cmdToSend, responseMatch);
+
+	if (errorCode != VNERR_NO_ERROR)
+		return errorCode;
+
+	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
+	result = strtok(0, delims);                            /* Returns register ID */
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*gpsTime = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*gpsWeek = (unsigned short) atoi(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*status = (unsigned short) strtol(result, NULL, 16);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*attitudeUncertainty = (float) atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*positionUncertainty = (float) atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	*velocityUncertainty = (float) atof(result);
+
+	return VNERR_NO_ERROR;
+}
+
+VN_ERROR_CODE vn200_getInsStateLla(
+	Vn200* vn200,
+	VnVector3* ypr,
+	VnVector3* lla,
+	VnVector3* velocity,
+	VnVector3* accel,
+	VnVector3* angularRate)
+{
+	const char* cmdToSend = "$VNRRG,72";
+	char delims[] = ",*";
+	char* result;
+	int errorCode;
+	const char* responseMatch = "VNRRG,";
+
+	if (!vn200->isConnected)
+		return VNERR_NOT_CONNECTED;
+
+	errorCode = vndevice_transaction(&vn200->vndevice, cmdToSend, responseMatch);
+
+	if (errorCode != VNERR_NO_ERROR)
+		return errorCode;
+
+	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
+	result = strtok(0, delims);                            /* Returns register ID */
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lla->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lla->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	lla->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+
+	return VNERR_NO_ERROR;
+}
+
+VN_ERROR_CODE vn200_getInsStateEcef(
+	Vn200* vn200,
+	VnVector3* ypr,
+	VnVector3* position,
+	VnVector3* velocity,
+	VnVector3* accel,
+	VnVector3* angularRate)
+{
+	const char* cmdToSend = "$VNRRG,73";
+	char delims[] = ",*";
+	char* result;
+	int errorCode;
+	const char* responseMatch = "VNRRG,";
+
+	if (!vn200->isConnected)
+		return VNERR_NOT_CONNECTED;
+
+	errorCode = vndevice_transaction(&vn200->vndevice, cmdToSend, responseMatch);
+
+	if (errorCode != VNERR_NO_ERROR)
+		return errorCode;
+
+	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
+	result = strtok(0, delims);                            /* Returns register ID */
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	ypr->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	position->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	velocity->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	accel->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c0 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c1 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+	angularRate->c2 = atof(result);
+	result = strtok(0, delims);
+	if (result == NULL)
+		return VNERR_INVALID_VALUE;
+
+	return VNERR_NO_ERROR;
+}
+
