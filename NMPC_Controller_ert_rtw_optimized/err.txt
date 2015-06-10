@@ -1,0 +1,5003 @@
+
+Vectornav initialization took 3271  us
+0
+
+Vectornav function call took 23923  us
+ypr (or) Euler angles: -55.181000 -6.511000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20021  us
+ypr (or) Euler angles: -55.175000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25957  us
+ypr (or) Euler angles: -55.175000 -6.513000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20046  us
+ypr (or) Euler angles: -55.173000 -6.511000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25672  us
+ypr (or) Euler angles: -55.169000 -6.511000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19631  us
+ypr (or) Euler angles: -55.168000 -6.509000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20866  us
+ypr (or) Euler angles: -55.166000 -6.510000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22339  us
+ypr (or) Euler angles: -55.166000 -6.511000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19797  us
+ypr (or) Euler angles: -55.167000 -6.513000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21975  us
+ypr (or) Euler angles: -55.166000 -6.511000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20421  us
+ypr (or) Euler angles: -55.169000 -6.511000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20871  us
+ypr (or) Euler angles: -55.168000 -6.512000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21515  us
+ypr (or) Euler angles: -55.172000 -6.512000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17429  us
+ypr (or) Euler angles: -55.173000 -6.513000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18381  us
+ypr (or) Euler angles: -55.170000 -6.513000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25739  us
+ypr (or) Euler angles: -55.170000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16959  us
+ypr (or) Euler angles: -55.174000 -6.512000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17622  us
+ypr (or) Euler angles: -55.172000 -6.511000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21355  us
+ypr (or) Euler angles: -55.170000 -6.513000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27039  us
+ypr (or) Euler angles: -55.171000 -6.512000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20769  us
+ypr (or) Euler angles: -55.167000 -6.509000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21367  us
+ypr (or) Euler angles: -55.166000 -6.510000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16975  us
+ypr (or) Euler angles: -55.164000 -6.511000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22539  us
+ypr (or) Euler angles: -55.163000 -6.510000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18431  us
+ypr (or) Euler angles: -55.161000 -6.508000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24155  us
+ypr (or) Euler angles: -55.159000 -6.511000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19784  us
+ypr (or) Euler angles: -55.161000 -6.510000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25426  us
+ypr (or) Euler angles: -55.161000 -6.509000 15.968000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20195  us
+ypr (or) Euler angles: -55.158000 -6.507000 15.968000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24422  us
+ypr (or) Euler angles: -55.158000 -6.506000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17925  us
+ypr (or) Euler angles: -55.155000 -6.504000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23608  us
+ypr (or) Euler angles: -55.153000 -6.506000 15.967000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19130  us
+ypr (or) Euler angles: -55.152000 -6.505000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24875  us
+ypr (or) Euler angles: -55.155000 -6.505000 15.967000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21275  us
+ypr (or) Euler angles: -55.155000 -6.506000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20759  us
+ypr (or) Euler angles: -55.156000 -6.506000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21311  us
+ypr (or) Euler angles: -55.160000 -6.506000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21962  us
+ypr (or) Euler angles: -55.160000 -6.507000 15.970000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17490  us
+ypr (or) Euler angles: -55.158000 -6.505000 15.969000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18233  us
+ypr (or) Euler angles: -55.161000 -6.504000 15.968000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18928  us
+ypr (or) Euler angles: -55.163000 -6.504000 15.967000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22113  us
+ypr (or) Euler angles: -55.159000 -6.503000 15.966000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27798  us
+ypr (or) Euler angles: -55.161000 -6.505000 15.967000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21243  us
+ypr (or) Euler angles: -55.162000 -6.505000 15.967000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21879  us
+ypr (or) Euler angles: -55.161000 -6.507000 15.966000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17478  us
+ypr (or) Euler angles: -55.161000 -6.507000 15.966000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23067  us
+ypr (or) Euler angles: -55.159000 -6.506000 15.966000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18686  us
+ypr (or) Euler angles: -55.159000 -6.507000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24405  us
+ypr (or) Euler angles: -55.156000 -6.507000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19971  us
+ypr (or) Euler angles: -55.157000 -6.507000 15.965000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25717  us
+ypr (or) Euler angles: -55.156000 -6.508000 15.966000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21384  us
+ypr (or) Euler angles: -55.159000 -6.509000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22098  us
+ypr (or) Euler angles: -55.157000 -6.511000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20077  us
+ypr (or) Euler angles: -55.158000 -6.510000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25010  us
+ypr (or) Euler angles: -55.162000 -6.512000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20656  us
+ypr (or) Euler angles: -55.161000 -6.514000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26269  us
+ypr (or) Euler angles: -55.164000 -6.513000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20451  us
+ypr (or) Euler angles: -55.165000 -6.513000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21564  us
+ypr (or) Euler angles: -55.163000 -6.514000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17162  us
+ypr (or) Euler angles: -55.163000 -6.514000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22900  us
+ypr (or) Euler angles: -55.166000 -6.513000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18177  us
+ypr (or) Euler angles: -55.163000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23693  us
+ypr (or) Euler angles: -55.166000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19294  us
+ypr (or) Euler angles: -55.165000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23846  us
+ypr (or) Euler angles: -55.162000 -6.514000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20400  us
+ypr (or) Euler angles: -55.161000 -6.515000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21063  us
+ypr (or) Euler angles: -55.162000 -6.514000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21792  us
+ypr (or) Euler angles: -55.165000 -6.515000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17532  us
+ypr (or) Euler angles: -55.162000 -6.518000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18385  us
+ypr (or) Euler angles: -55.160000 -6.518000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18952  us
+ypr (or) Euler angles: -55.165000 -6.515000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19641  us
+ypr (or) Euler angles: -55.166000 -6.515000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20408  us
+ypr (or) Euler angles: -55.163000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19653  us
+ypr (or) Euler angles: -55.162000 -6.513000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20045  us
+ypr (or) Euler angles: -55.165000 -6.514000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20731  us
+ypr (or) Euler angles: -55.164000 -6.515000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17909  us
+ypr (or) Euler angles: -55.167000 -6.516000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24095  us
+ypr (or) Euler angles: -55.169000 -6.516000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19137  us
+ypr (or) Euler angles: -55.170000 -6.513000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24936  us
+ypr (or) Euler angles: -55.169000 -6.514000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26044  us
+ypr (or) Euler angles: -55.173000 -6.514000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18764  us
+ypr (or) Euler angles: -55.170000 -6.513000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17450  us
+ypr (or) Euler angles: -55.167000 -6.515000 15.964000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23274  us
+ypr (or) Euler angles: -55.168000 -6.514000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18918  us
+ypr (or) Euler angles: -55.169000 -6.514000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25097  us
+ypr (or) Euler angles: -55.170000 -6.515000 15.963000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21560  us
+ypr (or) Euler angles: -55.171000 -6.516000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22078  us
+ypr (or) Euler angles: -55.169000 -6.516000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19187  us
+ypr (or) Euler angles: -55.168000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22922  us
+ypr (or) Euler angles: -55.168000 -6.514000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17646  us
+ypr (or) Euler angles: -55.174000 -6.515000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19413  us
+ypr (or) Euler angles: -55.173000 -6.517000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16532  us
+ypr (or) Euler angles: -55.175000 -6.518000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22623  us
+ypr (or) Euler angles: -55.179000 -6.517000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18053  us
+ypr (or) Euler angles: -55.183000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16928  us
+ypr (or) Euler angles: -55.194000 -6.515000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21507  us
+ypr (or) Euler angles: -55.197000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17879  us
+ypr (or) Euler angles: -55.204000 -6.519000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19349  us
+ypr (or) Euler angles: -55.211000 -6.518000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19989  us
+ypr (or) Euler angles: -55.210000 -6.519000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21670  us
+ypr (or) Euler angles: -55.219000 -6.519000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17465  us
+ypr (or) Euler angles: -55.225000 -6.518000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23378  us
+ypr (or) Euler angles: -55.228000 -6.518000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18847  us
+ypr (or) Euler angles: -55.233000 -6.519000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19540  us
+ypr (or) Euler angles: -55.239000 -6.520000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20635  us
+ypr (or) Euler angles: -55.243000 -6.518000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22329  us
+ypr (or) Euler angles: -55.247000 -6.517000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18221  us
+ypr (or) Euler angles: -55.255000 -6.517000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19110  us
+ypr (or) Euler angles: -55.259000 -6.517000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20042  us
+ypr (or) Euler angles: -55.265000 -6.516000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22144  us
+ypr (or) Euler angles: -55.261000 -6.516000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19313  us
+ypr (or) Euler angles: -55.264000 -6.516000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25046  us
+ypr (or) Euler angles: -55.265000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24125  us
+ypr (or) Euler angles: -55.264000 -6.515000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20987  us
+ypr (or) Euler angles: -55.261000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22786  us
+ypr (or) Euler angles: -55.264000 -6.517000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18400  us
+ypr (or) Euler angles: -55.260000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24128  us
+ypr (or) Euler angles: -55.257000 -6.517000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19539  us
+ypr (or) Euler angles: -55.257000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25073  us
+ypr (or) Euler angles: -55.260000 -6.516000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20663  us
+ypr (or) Euler angles: -55.257000 -6.516000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22176  us
+ypr (or) Euler angles: -55.257000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17301  us
+ypr (or) Euler angles: -55.262000 -6.518000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22958  us
+ypr (or) Euler angles: -55.261000 -6.518000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18497  us
+ypr (or) Euler angles: -55.258000 -6.519000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24282  us
+ypr (or) Euler angles: -55.260000 -6.517000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19589  us
+ypr (or) Euler angles: -55.261000 -6.517000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20251  us
+ypr (or) Euler angles: -55.256000 -6.518000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20760  us
+ypr (or) Euler angles: -55.257000 -6.518000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20943  us
+ypr (or) Euler angles: -55.257000 -6.520000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20722  us
+ypr (or) Euler angles: -55.255000 -6.520000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18178  us
+ypr (or) Euler angles: -55.249000 -6.519000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18866  us
+ypr (or) Euler angles: -55.251000 -6.519000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20540  us
+ypr (or) Euler angles: -55.248000 -6.519000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21167  us
+ypr (or) Euler angles: -55.246000 -6.521000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21809  us
+ypr (or) Euler angles: -55.245000 -6.523000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18369  us
+ypr (or) Euler angles: -55.242000 -6.521000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 28603  us
+ypr (or) Euler angles: -55.237000 -6.520000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17063  us
+ypr (or) Euler angles: -55.235000 -6.520000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24321  us
+ypr (or) Euler angles: -55.235000 -6.521000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18001  us
+ypr (or) Euler angles: -55.235000 -6.521000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18774  us
+ypr (or) Euler angles: -55.237000 -6.521000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20468  us
+ypr (or) Euler angles: -55.240000 -6.522000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21197  us
+ypr (or) Euler angles: -55.241000 -6.520000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21729  us
+ypr (or) Euler angles: -55.237000 -6.519000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18809  us
+ypr (or) Euler angles: -55.234000 -6.521000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19804  us
+ypr (or) Euler angles: -55.240000 -6.520000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20470  us
+ypr (or) Euler angles: -55.235000 -6.519000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21289  us
+ypr (or) Euler angles: -55.231000 -6.518000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21895  us
+ypr (or) Euler angles: -55.234000 -6.517000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21488  us
+ypr (or) Euler angles: -55.232000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16975  us
+ypr (or) Euler angles: -55.231000 -6.518000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22806  us
+ypr (or) Euler angles: -55.231000 -6.518000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18457  us
+ypr (or) Euler angles: -55.232000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19171  us
+ypr (or) Euler angles: -55.227000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19714  us
+ypr (or) Euler angles: -55.227000 -6.516000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23631  us
+ypr (or) Euler angles: -55.225000 -6.514000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23734  us
+ypr (or) Euler angles: -55.221000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19552  us
+ypr (or) Euler angles: -55.222000 -6.518000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25223  us
+ypr (or) Euler angles: -55.224000 -6.517000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19868  us
+ypr (or) Euler angles: -55.223000 -6.516000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25547  us
+ypr (or) Euler angles: -55.219000 -6.517000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21142  us
+ypr (or) Euler angles: -55.224000 -6.515000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21911  us
+ypr (or) Euler angles: -55.226000 -6.516000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22504  us
+ypr (or) Euler angles: -55.223000 -6.515000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23350  us
+ypr (or) Euler angles: -55.226000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18898  us
+ypr (or) Euler angles: -55.230000 -6.517000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24741  us
+ypr (or) Euler angles: -55.229000 -6.517000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19800  us
+ypr (or) Euler angles: -55.227000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18906  us
+ypr (or) Euler angles: -55.227000 -6.517000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19425  us
+ypr (or) Euler angles: -55.223000 -6.518000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20113  us
+ypr (or) Euler angles: -55.219000 -6.519000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20764  us
+ypr (or) Euler angles: -55.219000 -6.517000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21333  us
+ypr (or) Euler angles: -55.216000 -6.518000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22115  us
+ypr (or) Euler angles: -55.218000 -6.516000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22145  us
+ypr (or) Euler angles: -55.216000 -6.518000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17798  us
+ypr (or) Euler angles: -55.221000 -6.518000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18537  us
+ypr (or) Euler angles: -55.220000 -6.520000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18922  us
+ypr (or) Euler angles: -55.217000 -6.521000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19481  us
+ypr (or) Euler angles: -55.218000 -6.522000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20346  us
+ypr (or) Euler angles: -55.220000 -6.522000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21097  us
+ypr (or) Euler angles: -55.216000 -6.522000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16767  us
+ypr (or) Euler angles: -55.216000 -6.521000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17585  us
+ypr (or) Euler angles: -55.219000 -6.520000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18273  us
+ypr (or) Euler angles: -55.218000 -6.520000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18964  us
+ypr (or) Euler angles: -55.218000 -6.516000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19989  us
+ypr (or) Euler angles: -55.217000 -6.515000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20831  us
+ypr (or) Euler angles: -55.217000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23690  us
+ypr (or) Euler angles: -55.213000 -6.516000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20247  us
+ypr (or) Euler angles: -55.208000 -6.517000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21141  us
+ypr (or) Euler angles: -55.207000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21853  us
+ypr (or) Euler angles: -55.204000 -6.513000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17619  us
+ypr (or) Euler angles: -55.204000 -6.513000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23410  us
+ypr (or) Euler angles: -55.205000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19320  us
+ypr (or) Euler angles: -55.205000 -6.518000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20872  us
+ypr (or) Euler angles: -55.202000 -6.518000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16502  us
+ypr (or) Euler angles: -55.205000 -6.516000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23075  us
+ypr (or) Euler angles: -55.206000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18812  us
+ypr (or) Euler angles: -55.203000 -6.513000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24600  us
+ypr (or) Euler angles: -55.209000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18290  us
+ypr (or) Euler angles: -55.212000 -6.516000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18903  us
+ypr (or) Euler angles: -55.209000 -6.517000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19594  us
+ypr (or) Euler angles: -55.209000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20812  us
+ypr (or) Euler angles: -55.211000 -6.514000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16521  us
+ypr (or) Euler angles: -55.211000 -6.513000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17251  us
+ypr (or) Euler angles: -55.210000 -6.513000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17971  us
+ypr (or) Euler angles: -55.210000 -6.514000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18597  us
+ypr (or) Euler angles: -55.208000 -6.513000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20873  us
+ypr (or) Euler angles: -55.208000 -6.512000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26501  us
+ypr (or) Euler angles: -55.207000 -6.511000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19866  us
+ypr (or) Euler angles: -55.206000 -6.510000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25770  us
+ypr (or) Euler angles: -55.209000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19129  us
+ypr (or) Euler angles: -55.207000 -6.512000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20010  us
+ypr (or) Euler angles: -55.209000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21608  us
+ypr (or) Euler angles: -55.213000 -6.515000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22316  us
+ypr (or) Euler angles: -55.212000 -6.514000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17875  us
+ypr (or) Euler angles: -55.212000 -6.513000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18446  us
+ypr (or) Euler angles: -55.214000 -6.513000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19171  us
+ypr (or) Euler angles: -55.216000 -6.516000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20115  us
+ypr (or) Euler angles: -55.214000 -6.518000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20784  us
+ypr (or) Euler angles: -55.218000 -6.519000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21383  us
+ypr (or) Euler angles: -55.217000 -6.517000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17019  us
+ypr (or) Euler angles: -55.215000 -6.515000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22746  us
+ypr (or) Euler angles: -55.219000 -6.513000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18366  us
+ypr (or) Euler angles: -55.217000 -6.513000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18940  us
+ypr (or) Euler angles: -55.211000 -6.515000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19601  us
+ypr (or) Euler angles: -55.211000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21622  us
+ypr (or) Euler angles: -55.208000 -6.512000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20779  us
+ypr (or) Euler angles: -55.209000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26366  us
+ypr (or) Euler angles: -55.208000 -6.513000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19761  us
+ypr (or) Euler angles: -55.211000 -6.514000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25371  us
+ypr (or) Euler angles: -55.218000 -6.516000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21139  us
+ypr (or) Euler angles: -55.216000 -6.514000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21787  us
+ypr (or) Euler angles: -55.214000 -6.517000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17341  us
+ypr (or) Euler angles: -55.213000 -6.516000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23028  us
+ypr (or) Euler angles: -55.211000 -6.515000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18673  us
+ypr (or) Euler angles: -55.209000 -6.517000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24585  us
+ypr (or) Euler angles: -55.213000 -6.515000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20183  us
+ypr (or) Euler angles: -55.214000 -6.513000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25871  us
+ypr (or) Euler angles: -55.212000 -6.512000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21663  us
+ypr (or) Euler angles: -55.212000 -6.511000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22465  us
+ypr (or) Euler angles: -55.212000 -6.511000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18130  us
+ypr (or) Euler angles: -55.214000 -6.512000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24083  us
+ypr (or) Euler angles: -55.216000 -6.513000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19695  us
+ypr (or) Euler angles: -55.217000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20448  us
+ypr (or) Euler angles: -55.214000 -6.511000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21263  us
+ypr (or) Euler angles: -55.212000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19713  us
+ypr (or) Euler angles: -55.207000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18568  us
+ypr (or) Euler angles: -55.209000 -6.513000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24325  us
+ypr (or) Euler angles: -55.209000 -6.513000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18692  us
+ypr (or) Euler angles: -55.207000 -6.513000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19024  us
+ypr (or) Euler angles: -55.211000 -6.513000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19755  us
+ypr (or) Euler angles: -55.209000 -6.515000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20372  us
+ypr (or) Euler angles: -55.211000 -6.511000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20928  us
+ypr (or) Euler angles: -55.210000 -6.513000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21618  us
+ypr (or) Euler angles: -55.213000 -6.514000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17046  us
+ypr (or) Euler angles: -55.211000 -6.515000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17817  us
+ypr (or) Euler angles: -55.211000 -6.515000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18325  us
+ypr (or) Euler angles: -55.216000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18962  us
+ypr (or) Euler angles: -55.219000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19837  us
+ypr (or) Euler angles: -55.219000 -6.515000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20471  us
+ypr (or) Euler angles: -55.220000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21137  us
+ypr (or) Euler angles: -55.215000 -6.513000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21738  us
+ypr (or) Euler angles: -55.217000 -6.513000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22279  us
+ypr (or) Euler angles: -55.216000 -6.512000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22914  us
+ypr (or) Euler angles: -55.217000 -6.513000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18467  us
+ypr (or) Euler angles: -55.217000 -6.513000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21258  us
+ypr (or) Euler angles: -55.217000 -6.514000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23668  us
+ypr (or) Euler angles: -55.219000 -6.516000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19037  us
+ypr (or) Euler angles: -55.222000 -6.514000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25086  us
+ypr (or) Euler angles: -55.223000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20060  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25522  us
+ypr (or) Euler angles: -55.224000 -6.512000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19048  us
+ypr (or) Euler angles: -55.226000 -6.510000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19722  us
+ypr (or) Euler angles: -55.219000 -6.511000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20542  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21223  us
+ypr (or) Euler angles: -55.222000 -6.511000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21765  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22552  us
+ypr (or) Euler angles: -55.225000 -6.511000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18067  us
+ypr (or) Euler angles: -55.226000 -6.513000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18791  us
+ypr (or) Euler angles: -55.224000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19371  us
+ypr (or) Euler angles: -55.221000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20005  us
+ypr (or) Euler angles: -55.221000 -6.516000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20790  us
+ypr (or) Euler angles: -55.220000 -6.514000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21431  us
+ypr (or) Euler angles: -55.217000 -6.513000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21998  us
+ypr (or) Euler angles: -55.216000 -6.512000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22587  us
+ypr (or) Euler angles: -55.216000 -6.513000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21455  us
+ypr (or) Euler angles: -55.217000 -6.511000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17316  us
+ypr (or) Euler angles: -55.220000 -6.511000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18105  us
+ypr (or) Euler angles: -55.223000 -6.511000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18754  us
+ypr (or) Euler angles: -55.222000 -6.512000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19367  us
+ypr (or) Euler angles: -55.223000 -6.512000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19974  us
+ypr (or) Euler angles: -55.227000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21589  us
+ypr (or) Euler angles: -55.228000 -6.511000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17302  us
+ypr (or) Euler angles: -55.227000 -6.511000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17750  us
+ypr (or) Euler angles: -55.227000 -6.510000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18403  us
+ypr (or) Euler angles: -55.230000 -6.512000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19312  us
+ypr (or) Euler angles: -55.228000 -6.515000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19889  us
+ypr (or) Euler angles: -55.229000 -6.515000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20805  us
+ypr (or) Euler angles: -55.228000 -6.516000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21701  us
+ypr (or) Euler angles: -55.230000 -6.515000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22388  us
+ypr (or) Euler angles: -55.228000 -6.514000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17999  us
+ypr (or) Euler angles: -55.227000 -6.512000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18660  us
+ypr (or) Euler angles: -55.226000 -6.513000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19151  us
+ypr (or) Euler angles: -55.224000 -6.514000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19745  us
+ypr (or) Euler angles: -55.224000 -6.514000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27826  us
+ypr (or) Euler angles: -55.224000 -6.512000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25978  us
+ypr (or) Euler angles: -55.227000 -6.514000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18470  us
+ypr (or) Euler angles: -55.224000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23632  us
+ypr (or) Euler angles: -55.225000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19575  us
+ypr (or) Euler angles: -55.227000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20195  us
+ypr (or) Euler angles: -55.229000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20885  us
+ypr (or) Euler angles: -55.229000 -6.517000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21971  us
+ypr (or) Euler angles: -55.232000 -6.516000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22569  us
+ypr (or) Euler angles: -55.231000 -6.515000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23539  us
+ypr (or) Euler angles: -55.228000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18725  us
+ypr (or) Euler angles: -55.232000 -6.512000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19273  us
+ypr (or) Euler angles: -55.231000 -6.513000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20414  us
+ypr (or) Euler angles: -55.230000 -6.515000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20973  us
+ypr (or) Euler angles: -55.232000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21717  us
+ypr (or) Euler angles: -55.231000 -6.517000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22367  us
+ypr (or) Euler angles: -55.229000 -6.516000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18174  us
+ypr (or) Euler angles: -55.229000 -6.516000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18861  us
+ypr (or) Euler angles: -55.233000 -6.516000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19403  us
+ypr (or) Euler angles: -55.230000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20083  us
+ypr (or) Euler angles: -55.226000 -6.517000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19020  us
+ypr (or) Euler angles: -55.224000 -6.518000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19656  us
+ypr (or) Euler angles: -55.225000 -6.518000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20445  us
+ypr (or) Euler angles: -55.223000 -6.515000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21081  us
+ypr (or) Euler angles: -55.222000 -6.514000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16695  us
+ypr (or) Euler angles: -55.226000 -6.516000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22424  us
+ypr (or) Euler angles: -55.225000 -6.516000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17975  us
+ypr (or) Euler angles: -55.224000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18652  us
+ypr (or) Euler angles: -55.227000 -6.513000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19310  us
+ypr (or) Euler angles: -55.225000 -6.513000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19921  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20688  us
+ypr (or) Euler angles: -55.224000 -6.513000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21320  us
+ypr (or) Euler angles: -55.227000 -6.515000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22045  us
+ypr (or) Euler angles: -55.225000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17619  us
+ypr (or) Euler angles: -55.225000 -6.515000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18188  us
+ypr (or) Euler angles: -55.224000 -6.511000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18718  us
+ypr (or) Euler angles: -55.225000 -6.511000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19365  us
+ypr (or) Euler angles: -55.223000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19980  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20528  us
+ypr (or) Euler angles: -55.221000 -6.512000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19700  us
+ypr (or) Euler angles: -55.217000 -6.511000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20213  us
+ypr (or) Euler angles: -55.221000 -6.510000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25978  us
+ypr (or) Euler angles: -55.221000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20620  us
+ypr (or) Euler angles: -55.220000 -6.509000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21264  us
+ypr (or) Euler angles: -55.220000 -6.511000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21856  us
+ypr (or) Euler angles: -55.222000 -6.509000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22414  us
+ypr (or) Euler angles: -55.224000 -6.509000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18082  us
+ypr (or) Euler angles: -55.225000 -6.508000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23846  us
+ypr (or) Euler angles: -55.225000 -6.507000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19384  us
+ypr (or) Euler angles: -55.227000 -6.508000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20074  us
+ypr (or) Euler angles: -55.225000 -6.512000 15.959000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20758  us
+ypr (or) Euler angles: -55.231000 -6.514000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21473  us
+ypr (or) Euler angles: -55.235000 -6.512000 15.962000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17013  us
+ypr (or) Euler angles: -55.244000 -6.512000 15.961000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22777  us
+ypr (or) Euler angles: -55.249000 -6.509000 15.958000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18360  us
+ypr (or) Euler angles: -55.253000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19043  us
+ypr (or) Euler angles: -55.257000 -6.509000 15.960000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19624  us
+ypr (or) Euler angles: -55.263000 -6.510000 15.957000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20293  us
+ypr (or) Euler angles: -55.271000 -6.509000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20945  us
+ypr (or) Euler angles: -55.275000 -6.507000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21361  us
+ypr (or) Euler angles: -55.280000 -6.507000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20010  us
+ypr (or) Euler angles: -55.282000 -6.507000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20658  us
+ypr (or) Euler angles: -55.283000 -6.507000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21218  us
+ypr (or) Euler angles: -55.286000 -6.508000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21923  us
+ypr (or) Euler angles: -55.290000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17627  us
+ypr (or) Euler angles: -55.292000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18268  us
+ypr (or) Euler angles: -55.297000 -6.508000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18952  us
+ypr (or) Euler angles: -55.300000 -6.508000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21093  us
+ypr (or) Euler angles: -55.308000 -6.511000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25951  us
+ypr (or) Euler angles: -55.311000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18639  us
+ypr (or) Euler angles: -55.316000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24479  us
+ypr (or) Euler angles: -55.322000 -6.511000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19799  us
+ypr (or) Euler angles: -55.326000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20633  us
+ypr (or) Euler angles: -55.325000 -6.508000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21259  us
+ypr (or) Euler angles: -55.330000 -6.508000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21960  us
+ypr (or) Euler angles: -55.332000 -6.507000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17476  us
+ypr (or) Euler angles: -55.337000 -6.508000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23216  us
+ypr (or) Euler angles: -55.338000 -6.508000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18787  us
+ypr (or) Euler angles: -55.340000 -6.507000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19463  us
+ypr (or) Euler angles: -55.344000 -6.506000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18216  us
+ypr (or) Euler angles: -55.352000 -6.507000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18819  us
+ypr (or) Euler angles: -55.356000 -6.508000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19824  us
+ypr (or) Euler angles: -55.360000 -6.507000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20539  us
+ypr (or) Euler angles: -55.368000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16398  us
+ypr (or) Euler angles: -55.370000 -6.509000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17042  us
+ypr (or) Euler angles: -55.372000 -6.511000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22794  us
+ypr (or) Euler angles: -55.373000 -6.510000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 28441  us
+ypr (or) Euler angles: -55.380000 -6.511000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18700  us
+ypr (or) Euler angles: -55.383000 -6.512000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19296  us
+ypr (or) Euler angles: -55.386000 -6.511000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19964  us
+ypr (or) Euler angles: -55.388000 -6.513000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20701  us
+ypr (or) Euler angles: -55.394000 -6.514000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21218  us
+ypr (or) Euler angles: -55.398000 -6.514000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21902  us
+ypr (or) Euler angles: -55.401000 -6.514000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17475  us
+ypr (or) Euler angles: -55.402000 -6.512000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23346  us
+ypr (or) Euler angles: -55.404000 -6.512000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18194  us
+ypr (or) Euler angles: -55.407000 -6.511000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18832  us
+ypr (or) Euler angles: -55.410000 -6.513000 15.940000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19456  us
+ypr (or) Euler angles: -55.414000 -6.514000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21298  us
+ypr (or) Euler angles: -55.415000 -6.513000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21535  us
+ypr (or) Euler angles: -55.415000 -6.510000 15.937000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27141  us
+ypr (or) Euler angles: -55.415000 -6.510000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20912  us
+ypr (or) Euler angles: -55.418000 -6.513000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21553  us
+ypr (or) Euler angles: -55.419000 -6.513000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17432  us
+ypr (or) Euler angles: -55.419000 -6.512000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23073  us
+ypr (or) Euler angles: -55.425000 -6.509000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18794  us
+ypr (or) Euler angles: -55.431000 -6.508000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24360  us
+ypr (or) Euler angles: -55.433000 -6.509000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20036  us
+ypr (or) Euler angles: -55.436000 -6.511000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20799  us
+ypr (or) Euler angles: -55.440000 -6.511000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21514  us
+ypr (or) Euler angles: -55.439000 -6.512000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22201  us
+ypr (or) Euler angles: -55.445000 -6.512000 15.934000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17809  us
+ypr (or) Euler angles: -55.447000 -6.512000 15.934000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23490  us
+ypr (or) Euler angles: -55.449000 -6.512000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19024  us
+ypr (or) Euler angles: -55.453000 -6.512000 15.937000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24737  us
+ypr (or) Euler angles: -55.458000 -6.514000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20189  us
+ypr (or) Euler angles: -55.462000 -6.514000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20847  us
+ypr (or) Euler angles: -55.469000 -6.514000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21431  us
+ypr (or) Euler angles: -55.473000 -6.514000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23881  us
+ypr (or) Euler angles: -55.478000 -6.512000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26745  us
+ypr (or) Euler angles: -55.480000 -6.513000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19275  us
+ypr (or) Euler angles: -55.482000 -6.515000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19765  us
+ypr (or) Euler angles: -55.480000 -6.515000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20507  us
+ypr (or) Euler angles: -55.474000 -6.515000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21257  us
+ypr (or) Euler angles: -55.471000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22139  us
+ypr (or) Euler angles: -55.470000 -6.517000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22779  us
+ypr (or) Euler angles: -55.469000 -6.517000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18472  us
+ypr (or) Euler angles: -55.465000 -6.517000 15.937000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19732  us
+ypr (or) Euler angles: -55.468000 -6.516000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20417  us
+ypr (or) Euler angles: -55.466000 -6.516000 15.940000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21027  us
+ypr (or) Euler angles: -55.459000 -6.515000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21616  us
+ypr (or) Euler angles: -55.458000 -6.515000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22322  us
+ypr (or) Euler angles: -55.454000 -6.515000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17992  us
+ypr (or) Euler angles: -55.450000 -6.517000 15.940000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23674  us
+ypr (or) Euler angles: -55.448000 -6.517000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19221  us
+ypr (or) Euler angles: -55.446000 -6.517000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20055  us
+ypr (or) Euler angles: -55.447000 -6.518000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20671  us
+ypr (or) Euler angles: -55.443000 -6.518000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21290  us
+ypr (or) Euler angles: -55.439000 -6.519000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21095  us
+ypr (or) Euler angles: -55.432000 -6.517000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21812  us
+ypr (or) Euler angles: -55.427000 -6.517000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22527  us
+ypr (or) Euler angles: -55.425000 -6.517000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18057  us
+ypr (or) Euler angles: -55.425000 -6.519000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18741  us
+ypr (or) Euler angles: -55.422000 -6.518000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19808  us
+ypr (or) Euler angles: -55.418000 -6.518000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20478  us
+ypr (or) Euler angles: -55.418000 -6.517000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21138  us
+ypr (or) Euler angles: -55.413000 -6.514000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21774  us
+ypr (or) Euler angles: -55.411000 -6.515000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21367  us
+ypr (or) Euler angles: -55.413000 -6.515000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17978  us
+ypr (or) Euler angles: -55.409000 -6.514000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18696  us
+ypr (or) Euler angles: -55.405000 -6.513000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19414  us
+ypr (or) Euler angles: -55.409000 -6.513000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20005  us
+ypr (or) Euler angles: -55.407000 -6.513000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20623  us
+ypr (or) Euler angles: -55.402000 -6.513000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21330  us
+ypr (or) Euler angles: -55.406000 -6.512000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21889  us
+ypr (or) Euler angles: -55.404000 -6.513000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17594  us
+ypr (or) Euler angles: -55.404000 -6.513000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18176  us
+ypr (or) Euler angles: -55.402000 -6.510000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27814  us
+ypr (or) Euler angles: -55.401000 -6.510000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24000  us
+ypr (or) Euler angles: -55.399000 -6.512000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19514  us
+ypr (or) Euler angles: -55.398000 -6.512000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25180  us
+ypr (or) Euler angles: -55.396000 -6.512000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19430  us
+ypr (or) Euler angles: -55.396000 -6.512000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25264  us
+ypr (or) Euler angles: -55.395000 -6.513000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18821  us
+ypr (or) Euler angles: -55.391000 -6.513000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24384  us
+ypr (or) Euler angles: -55.391000 -6.514000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19879  us
+ypr (or) Euler angles: -55.395000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20579  us
+ypr (or) Euler angles: -55.393000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21301  us
+ypr (or) Euler angles: -55.393000 -6.516000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22026  us
+ypr (or) Euler angles: -55.392000 -6.516000 15.940000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22621  us
+ypr (or) Euler angles: -55.391000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23323  us
+ypr (or) Euler angles: -55.391000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18953  us
+ypr (or) Euler angles: -55.392000 -6.516000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19563  us
+ypr (or) Euler angles: -55.386000 -6.515000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20170  us
+ypr (or) Euler angles: -55.387000 -6.515000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20815  us
+ypr (or) Euler angles: -55.387000 -6.513000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21231  us
+ypr (or) Euler angles: -55.385000 -6.514000 15.937000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22215  us
+ypr (or) Euler angles: -55.385000 -6.513000 15.937000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23806  us
+ypr (or) Euler angles: -55.385000 -6.512000 15.935000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19405  us
+ypr (or) Euler angles: -55.384000 -6.513000 15.934000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25099  us
+ypr (or) Euler angles: -55.382000 -6.513000 15.936000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20513  us
+ypr (or) Euler angles: -55.380000 -6.514000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26165  us
+ypr (or) Euler angles: -55.379000 -6.513000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19644  us
+ypr (or) Euler angles: -55.383000 -6.514000 15.940000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25410  us
+ypr (or) Euler angles: -55.380000 -6.512000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18955  us
+ypr (or) Euler angles: -55.383000 -6.512000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19495  us
+ypr (or) Euler angles: -55.386000 -6.512000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20211  us
+ypr (or) Euler angles: -55.379000 -6.512000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20834  us
+ypr (or) Euler angles: -55.383000 -6.511000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21426  us
+ypr (or) Euler angles: -55.384000 -6.508000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22217  us
+ypr (or) Euler angles: -55.383000 -6.509000 15.938000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17825  us
+ypr (or) Euler angles: -55.381000 -6.509000 15.939000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18522  us
+ypr (or) Euler angles: -55.390000 -6.508000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19146  us
+ypr (or) Euler angles: -55.391000 -6.508000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19627  us
+ypr (or) Euler angles: -55.387000 -6.509000 15.942000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20363  us
+ypr (or) Euler angles: -55.390000 -6.510000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21112  us
+ypr (or) Euler angles: -55.385000 -6.510000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27875  us
+ypr (or) Euler angles: -55.383000 -6.508000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19136  us
+ypr (or) Euler angles: -55.380000 -6.508000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19457  us
+ypr (or) Euler angles: -55.380000 -6.508000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25323  us
+ypr (or) Euler angles: -55.379000 -6.508000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20126  us
+ypr (or) Euler angles: -55.379000 -6.507000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25648  us
+ypr (or) Euler angles: -55.376000 -6.508000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21424  us
+ypr (or) Euler angles: -55.375000 -6.507000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27288  us
+ypr (or) Euler angles: -55.374000 -6.508000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17494  us
+ypr (or) Euler angles: -55.373000 -6.506000 15.941000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23135  us
+ypr (or) Euler angles: -55.372000 -6.504000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18638  us
+ypr (or) Euler angles: -55.372000 -6.504000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24416  us
+ypr (or) Euler angles: -55.370000 -6.506000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19638  us
+ypr (or) Euler angles: -55.374000 -6.506000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25429  us
+ypr (or) Euler angles: -55.374000 -6.507000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21149  us
+ypr (or) Euler angles: -55.370000 -6.507000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21702  us
+ypr (or) Euler angles: -55.370000 -6.505000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17354  us
+ypr (or) Euler angles: -55.370000 -6.505000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23086  us
+ypr (or) Euler angles: -55.368000 -6.504000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18638  us
+ypr (or) Euler angles: -55.369000 -6.508000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24337  us
+ypr (or) Euler angles: -55.372000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22676  us
+ypr (or) Euler angles: -55.369000 -6.509000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23248  us
+ypr (or) Euler angles: -55.365000 -6.509000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19103  us
+ypr (or) Euler angles: -55.366000 -6.509000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19755  us
+ypr (or) Euler angles: -55.367000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20414  us
+ypr (or) Euler angles: -55.364000 -6.512000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21083  us
+ypr (or) Euler angles: -55.364000 -6.511000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21755  us
+ypr (or) Euler angles: -55.365000 -6.508000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22461  us
+ypr (or) Euler angles: -55.367000 -6.506000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25015  us
+ypr (or) Euler angles: -55.366000 -6.509000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20715  us
+ypr (or) Euler angles: -55.364000 -6.509000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21349  us
+ypr (or) Euler angles: -55.363000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17235  us
+ypr (or) Euler angles: -55.364000 -6.507000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22953  us
+ypr (or) Euler angles: -55.369000 -6.508000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18557  us
+ypr (or) Euler angles: -55.370000 -6.509000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24184  us
+ypr (or) Euler angles: -55.368000 -6.508000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19815  us
+ypr (or) Euler angles: -55.369000 -6.505000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20449  us
+ypr (or) Euler angles: -55.369000 -6.504000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21037  us
+ypr (or) Euler angles: -55.367000 -6.506000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21714  us
+ypr (or) Euler angles: -55.366000 -6.505000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19855  us
+ypr (or) Euler angles: -55.361000 -6.503000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25548  us
+ypr (or) Euler angles: -55.357000 -6.503000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19394  us
+ypr (or) Euler angles: -55.352000 -6.502000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24896  us
+ypr (or) Euler angles: -55.354000 -6.501000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19531  us
+ypr (or) Euler angles: -55.354000 -6.503000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20040  us
+ypr (or) Euler angles: -55.351000 -6.502000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20742  us
+ypr (or) Euler angles: -55.352000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21447  us
+ypr (or) Euler angles: -55.352000 -6.501000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17262  us
+ypr (or) Euler angles: -55.350000 -6.501000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17926  us
+ypr (or) Euler angles: -55.349000 -6.502000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18815  us
+ypr (or) Euler angles: -55.349000 -6.501000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19498  us
+ypr (or) Euler angles: -55.348000 -6.502000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20412  us
+ypr (or) Euler angles: -55.347000 -6.501000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21077  us
+ypr (or) Euler angles: -55.350000 -6.503000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16639  us
+ypr (or) Euler angles: -55.346000 -6.503000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22270  us
+ypr (or) Euler angles: -55.347000 -6.503000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 28021  us
+ypr (or) Euler angles: -55.349000 -6.503000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18987  us
+ypr (or) Euler angles: -55.347000 -6.502000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19615  us
+ypr (or) Euler angles: -55.347000 -6.501000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25464  us
+ypr (or) Euler angles: -55.347000 -6.500000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21059  us
+ypr (or) Euler angles: -55.348000 -6.501000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21781  us
+ypr (or) Euler angles: -55.347000 -6.500000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22468  us
+ypr (or) Euler angles: -55.346000 -6.499000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18004  us
+ypr (or) Euler angles: -55.344000 -6.500000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18670  us
+ypr (or) Euler angles: -55.347000 -6.500000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19520  us
+ypr (or) Euler angles: -55.345000 -6.501000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20144  us
+ypr (or) Euler angles: -55.345000 -6.503000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20932  us
+ypr (or) Euler angles: -55.347000 -6.504000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21488  us
+ypr (or) Euler angles: -55.347000 -6.503000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17213  us
+ypr (or) Euler angles: -55.345000 -6.499000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17891  us
+ypr (or) Euler angles: -55.347000 -6.500000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18666  us
+ypr (or) Euler angles: -55.346000 -6.500000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19364  us
+ypr (or) Euler angles: -55.345000 -6.501000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19812  us
+ypr (or) Euler angles: -55.350000 -6.502000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25679  us
+ypr (or) Euler angles: -55.352000 -6.500000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21374  us
+ypr (or) Euler angles: -55.347000 -6.500000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27041  us
+ypr (or) Euler angles: -55.346000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22245  us
+ypr (or) Euler angles: -55.347000 -6.501000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25761  us
+ypr (or) Euler angles: -55.343000 -6.502000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26382  us
+ypr (or) Euler angles: -55.341000 -6.505000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18669  us
+ypr (or) Euler angles: -55.337000 -6.504000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19391  us
+ypr (or) Euler angles: -55.335000 -6.501000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19970  us
+ypr (or) Euler angles: -55.337000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20699  us
+ypr (or) Euler angles: -55.331000 -6.498000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21264  us
+ypr (or) Euler angles: -55.330000 -6.498000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21955  us
+ypr (or) Euler angles: -55.327000 -6.498000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17569  us
+ypr (or) Euler angles: -55.330000 -6.497000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18241  us
+ypr (or) Euler angles: -55.332000 -6.496000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18851  us
+ypr (or) Euler angles: -55.329000 -6.496000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19370  us
+ypr (or) Euler angles: -55.328000 -6.496000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20211  us
+ypr (or) Euler angles: -55.331000 -6.496000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20890  us
+ypr (or) Euler angles: -55.326000 -6.495000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16791  us
+ypr (or) Euler angles: -55.325000 -6.493000 15.943000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22659  us
+ypr (or) Euler angles: -55.328000 -6.494000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18191  us
+ypr (or) Euler angles: -55.332000 -6.494000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19122  us
+ypr (or) Euler angles: -55.327000 -6.495000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19968  us
+ypr (or) Euler angles: -55.328000 -6.495000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20638  us
+ypr (or) Euler angles: -55.329000 -6.494000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16918  us
+ypr (or) Euler angles: -55.327000 -6.496000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17638  us
+ypr (or) Euler angles: -55.334000 -6.497000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18340  us
+ypr (or) Euler angles: -55.335000 -6.501000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18925  us
+ypr (or) Euler angles: -55.335000 -6.500000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19549  us
+ypr (or) Euler angles: -55.336000 -6.501000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20301  us
+ypr (or) Euler angles: -55.336000 -6.500000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20937  us
+ypr (or) Euler angles: -55.333000 -6.500000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21731  us
+ypr (or) Euler angles: -55.333000 -6.501000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17247  us
+ypr (or) Euler angles: -55.331000 -6.502000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18125  us
+ypr (or) Euler angles: -55.333000 -6.503000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18930  us
+ypr (or) Euler angles: -55.333000 -6.505000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20365  us
+ypr (or) Euler angles: -55.332000 -6.503000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20850  us
+ypr (or) Euler angles: -55.334000 -6.502000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21525  us
+ypr (or) Euler angles: -55.335000 -6.501000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17162  us
+ypr (or) Euler angles: -55.332000 -6.502000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17881  us
+ypr (or) Euler angles: -55.331000 -6.503000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18456  us
+ypr (or) Euler angles: -55.333000 -6.504000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19133  us
+ypr (or) Euler angles: -55.332000 -6.506000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19767  us
+ypr (or) Euler angles: -55.331000 -6.505000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17347  us
+ypr (or) Euler angles: -55.338000 -6.505000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18166  us
+ypr (or) Euler angles: -55.337000 -6.504000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23862  us
+ypr (or) Euler angles: -55.334000 -6.501000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19393  us
+ypr (or) Euler angles: -55.334000 -6.501000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25164  us
+ypr (or) Euler angles: -55.335000 -6.500000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20736  us
+ypr (or) Euler angles: -55.332000 -6.502000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26475  us
+ypr (or) Euler angles: -55.332000 -6.503000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22083  us
+ypr (or) Euler angles: -55.334000 -6.504000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22674  us
+ypr (or) Euler angles: -55.334000 -6.502000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18213  us
+ypr (or) Euler angles: -55.333000 -6.500000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23935  us
+ypr (or) Euler angles: -55.333000 -6.502000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22767  us
+ypr (or) Euler angles: -55.335000 -6.503000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22911  us
+ypr (or) Euler angles: -55.332000 -6.502000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18497  us
+ypr (or) Euler angles: -55.332000 -6.500000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18997  us
+ypr (or) Euler angles: -55.335000 -6.498000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19779  us
+ypr (or) Euler angles: -55.329000 -6.496000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20343  us
+ypr (or) Euler angles: -55.327000 -6.499000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21040  us
+ypr (or) Euler angles: -55.332000 -6.500000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21620  us
+ypr (or) Euler angles: -55.331000 -6.502000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17200  us
+ypr (or) Euler angles: -55.328000 -6.501000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20793  us
+ypr (or) Euler angles: -55.328000 -6.499000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24429  us
+ypr (or) Euler angles: -55.327000 -6.498000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20191  us
+ypr (or) Euler angles: -55.325000 -6.497000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25595  us
+ypr (or) Euler angles: -55.324000 -6.499000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19970  us
+ypr (or) Euler angles: -55.322000 -6.500000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25969  us
+ypr (or) Euler angles: -55.321000 -6.496000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21536  us
+ypr (or) Euler angles: -55.321000 -6.495000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27225  us
+ypr (or) Euler angles: -55.319000 -6.493000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17415  us
+ypr (or) Euler angles: -55.317000 -6.492000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22915  us
+ypr (or) Euler angles: -55.317000 -6.494000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18475  us
+ypr (or) Euler angles: -55.316000 -6.498000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24225  us
+ypr (or) Euler angles: -55.315000 -6.497000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19620  us
+ypr (or) Euler angles: -55.317000 -6.498000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25365  us
+ypr (or) Euler angles: -55.313000 -6.497000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18885  us
+ypr (or) Euler angles: -55.317000 -6.498000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19450  us
+ypr (or) Euler angles: -55.317000 -6.499000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20197  us
+ypr (or) Euler angles: -55.315000 -6.500000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20954  us
+ypr (or) Euler angles: -55.317000 -6.501000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21625  us
+ypr (or) Euler angles: -55.322000 -6.500000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22236  us
+ypr (or) Euler angles: -55.320000 -6.499000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24224  us
+ypr (or) Euler angles: -55.323000 -6.497000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21287  us
+ypr (or) Euler angles: -55.322000 -6.497000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21868  us
+ypr (or) Euler angles: -55.321000 -6.497000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17528  us
+ypr (or) Euler angles: -55.321000 -6.498000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23206  us
+ypr (or) Euler angles: -55.323000 -6.499000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18763  us
+ypr (or) Euler angles: -55.325000 -6.498000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24325  us
+ypr (or) Euler angles: -55.325000 -6.498000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20060  us
+ypr (or) Euler angles: -55.320000 -6.499000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25746  us
+ypr (or) Euler angles: -55.323000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21459  us
+ypr (or) Euler angles: -55.325000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22207  us
+ypr (or) Euler angles: -55.325000 -6.500000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22079  us
+ypr (or) Euler angles: -55.328000 -6.500000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22918  us
+ypr (or) Euler angles: -55.329000 -6.501000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18553  us
+ypr (or) Euler angles: -55.326000 -6.502000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24311  us
+ypr (or) Euler angles: -55.328000 -6.502000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19885  us
+ypr (or) Euler angles: -55.335000 -6.504000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20807  us
+ypr (or) Euler angles: -55.334000 -6.504000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21447  us
+ypr (or) Euler angles: -55.338000 -6.505000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22095  us
+ypr (or) Euler angles: -55.343000 -6.504000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24794  us
+ypr (or) Euler angles: -55.349000 -6.504000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18697  us
+ypr (or) Euler angles: -55.354000 -6.505000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19331  us
+ypr (or) Euler angles: -55.357000 -6.507000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20150  us
+ypr (or) Euler angles: -55.364000 -6.506000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20821  us
+ypr (or) Euler angles: -55.369000 -6.506000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21852  us
+ypr (or) Euler angles: -55.373000 -6.506000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17430  us
+ypr (or) Euler angles: -55.378000 -6.505000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18020  us
+ypr (or) Euler angles: -55.385000 -6.504000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18639  us
+ypr (or) Euler angles: -55.393000 -6.508000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19460  us
+ypr (or) Euler angles: -55.395000 -6.508000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20166  us
+ypr (or) Euler angles: -55.401000 -6.511000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20822  us
+ypr (or) Euler angles: -55.403000 -6.510000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21320  us
+ypr (or) Euler angles: -55.402000 -6.510000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27400  us
+ypr (or) Euler angles: -55.402000 -6.510000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18487  us
+ypr (or) Euler angles: -55.403000 -6.510000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24068  us
+ypr (or) Euler angles: -55.403000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19680  us
+ypr (or) Euler angles: -55.406000 -6.510000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20372  us
+ypr (or) Euler angles: -55.409000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20929  us
+ypr (or) Euler angles: -55.407000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21591  us
+ypr (or) Euler angles: -55.409000 -6.510000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21788  us
+ypr (or) Euler angles: -55.406000 -6.509000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22282  us
+ypr (or) Euler angles: -55.403000 -6.508000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17951  us
+ypr (or) Euler angles: -55.403000 -6.511000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23807  us
+ypr (or) Euler angles: -55.404000 -6.511000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19365  us
+ypr (or) Euler angles: -55.399000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24959  us
+ypr (or) Euler angles: -55.401000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20651  us
+ypr (or) Euler angles: -55.402000 -6.511000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26311  us
+ypr (or) Euler angles: -55.401000 -6.511000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21899  us
+ypr (or) Euler angles: -55.395000 -6.510000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22765  us
+ypr (or) Euler angles: -55.395000 -6.508000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18307  us
+ypr (or) Euler angles: -55.395000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24047  us
+ypr (or) Euler angles: -55.393000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19818  us
+ypr (or) Euler angles: -55.390000 -6.510000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25531  us
+ypr (or) Euler angles: -55.388000 -6.511000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19973  us
+ypr (or) Euler angles: -55.385000 -6.511000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20783  us
+ypr (or) Euler angles: -55.384000 -6.510000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21371  us
+ypr (or) Euler angles: -55.382000 -6.509000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22139  us
+ypr (or) Euler angles: -55.381000 -6.509000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17788  us
+ypr (or) Euler angles: -55.377000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20795  us
+ypr (or) Euler angles: -55.376000 -6.509000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21145  us
+ypr (or) Euler angles: -55.378000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18817  us
+ypr (or) Euler angles: -55.377000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25909  us
+ypr (or) Euler angles: -55.377000 -6.510000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21514  us
+ypr (or) Euler angles: -55.381000 -6.510000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27032  us
+ypr (or) Euler angles: -55.377000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21420  us
+ypr (or) Euler angles: -55.375000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27214  us
+ypr (or) Euler angles: -55.379000 -6.510000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17787  us
+ypr (or) Euler angles: -55.379000 -6.511000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23423  us
+ypr (or) Euler angles: -55.374000 -6.509000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19115  us
+ypr (or) Euler angles: -55.374000 -6.508000 15.944000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22265  us
+ypr (or) Euler angles: -55.375000 -6.509000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21450  us
+ypr (or) Euler angles: -55.375000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22121  us
+ypr (or) Euler angles: -55.376000 -6.509000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17835  us
+ypr (or) Euler angles: -55.373000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23708  us
+ypr (or) Euler angles: -55.370000 -6.509000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19161  us
+ypr (or) Euler angles: -55.369000 -6.510000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25023  us
+ypr (or) Euler angles: -55.369000 -6.509000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20657  us
+ypr (or) Euler angles: -55.369000 -6.511000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21235  us
+ypr (or) Euler angles: -55.364000 -6.512000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17552  us
+ypr (or) Euler angles: -55.363000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18216  us
+ypr (or) Euler angles: -55.365000 -6.513000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18932  us
+ypr (or) Euler angles: -55.364000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19582  us
+ypr (or) Euler angles: -55.361000 -6.511000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20308  us
+ypr (or) Euler angles: -55.364000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20943  us
+ypr (or) Euler angles: -55.363000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21694  us
+ypr (or) Euler angles: -55.359000 -6.508000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17410  us
+ypr (or) Euler angles: -55.362000 -6.507000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17958  us
+ypr (or) Euler angles: -55.365000 -6.507000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18804  us
+ypr (or) Euler angles: -55.363000 -6.507000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19493  us
+ypr (or) Euler angles: -55.361000 -6.506000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20339  us
+ypr (or) Euler angles: -55.360000 -6.504000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21771  us
+ypr (or) Euler angles: -55.363000 -6.504000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17376  us
+ypr (or) Euler angles: -55.363000 -6.504000 15.954000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18102  us
+ypr (or) Euler angles: -55.357000 -6.506000 15.955000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18738  us
+ypr (or) Euler angles: -55.359000 -6.506000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19436  us
+ypr (or) Euler angles: -55.357000 -6.508000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20038  us
+ypr (or) Euler angles: -55.353000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20678  us
+ypr (or) Euler angles: -55.353000 -6.511000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21576  us
+ypr (or) Euler angles: -55.358000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20224  us
+ypr (or) Euler angles: -55.351000 -6.510000 15.956000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20950  us
+ypr (or) Euler angles: -55.356000 -6.510000 15.953000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16544  us
+ypr (or) Euler angles: -55.354000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17089  us
+ypr (or) Euler angles: -55.353000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17736  us
+ypr (or) Euler angles: -55.357000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18423  us
+ypr (or) Euler angles: -55.358000 -6.508000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19065  us
+ypr (or) Euler angles: -55.355000 -6.509000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19696  us
+ypr (or) Euler angles: -55.358000 -6.510000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20619  us
+ypr (or) Euler angles: -55.362000 -6.510000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26320  us
+ypr (or) Euler angles: -55.357000 -6.509000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22099  us
+ypr (or) Euler angles: -55.355000 -6.508000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27859  us
+ypr (or) Euler angles: -55.356000 -6.512000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18628  us
+ypr (or) Euler angles: -55.350000 -6.512000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24244  us
+ypr (or) Euler angles: -55.348000 -6.511000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19773  us
+ypr (or) Euler angles: -55.347000 -6.511000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20477  us
+ypr (or) Euler angles: -55.346000 -6.513000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21164  us
+ypr (or) Euler angles: -55.342000 -6.510000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21883  us
+ypr (or) Euler angles: -55.342000 -6.509000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22419  us
+ypr (or) Euler angles: -55.338000 -6.507000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20825  us
+ypr (or) Euler angles: -55.342000 -6.505000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21346  us
+ypr (or) Euler angles: -55.339000 -6.505000 15.945000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16883  us
+ypr (or) Euler angles: -55.339000 -6.505000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22687  us
+ypr (or) Euler angles: -55.340000 -6.506000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18290  us
+ypr (or) Euler angles: -55.341000 -6.505000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24103  us
+ypr (or) Euler angles: -55.340000 -6.507000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19765  us
+ypr (or) Euler angles: -55.341000 -6.508000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20372  us
+ypr (or) Euler angles: -55.343000 -6.508000 15.946000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21129  us
+ypr (or) Euler angles: -55.345000 -6.509000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22701  us
+ypr (or) Euler angles: -55.347000 -6.511000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18326  us
+ypr (or) Euler angles: -55.348000 -6.508000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24254  us
+ypr (or) Euler angles: -55.350000 -6.509000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19942  us
+ypr (or) Euler angles: -55.353000 -6.510000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25724  us
+ypr (or) Euler angles: -55.351000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21333  us
+ypr (or) Euler angles: -55.351000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22053  us
+ypr (or) Euler angles: -55.351000 -6.512000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17662  us
+ypr (or) Euler angles: -55.351000 -6.511000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23366  us
+ypr (or) Euler angles: -55.351000 -6.511000 15.950000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18869  us
+ypr (or) Euler angles: -55.347000 -6.512000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24523  us
+ypr (or) Euler angles: -55.343000 -6.512000 15.949000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25865  us
+ypr (or) Euler angles: -55.344000 -6.515000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20588  us
+ypr (or) Euler angles: -55.341000 -6.515000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21111  us
+ypr (or) Euler angles: -55.340000 -6.516000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21721  us
+ypr (or) Euler angles: -55.339000 -6.516000 15.948000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17354  us
+ypr (or) Euler angles: -55.338000 -6.515000 15.947000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23032  us
+ypr (or) Euler angles: -55.341000 -6.513000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18541  us
+ypr (or) Euler angles: -55.338000 -6.512000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24442  us
+ypr (or) Euler angles: -55.336000 -6.513000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20139  us
+ypr (or) Euler angles: -55.333000 -6.513000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20735  us
+ypr (or) Euler angles: -55.333000 -6.511000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21478  us
+ypr (or) Euler angles: -55.334000 -6.511000 15.952000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22189  us
+ypr (or) Euler angles: -55.328000 -6.512000 15.951000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17740  us
+ypr (or) Euler angles: -55.366000 -6.619000 15.868000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23591  us
+ypr (or) Euler angles: -55.327000 -6.451000 15.770000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19208  us
+ypr (or) Euler angles: -55.267000 -6.496000 15.771000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19781  us
+ypr (or) Euler angles: -55.256000 -6.494000 15.760000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20358  us
+ypr (or) Euler angles: -55.267000 -6.484000 15.750000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21060  us
+ypr (or) Euler angles: -55.244000 -6.468000 15.734000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18691  us
+ypr (or) Euler angles: -55.281000 -6.547000 15.557000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19666  us
+ypr (or) Euler angles: -55.118000 -6.521000 15.633000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17772  us
+ypr (or) Euler angles: -55.311000 -6.294000 15.271000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18768  us
+ypr (or) Euler angles: -55.306000 -6.272000 15.312000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19347  us
+ypr (or) Euler angles: -55.318000 -6.294000 15.314000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20027  us
+ypr (or) Euler angles: -55.326000 -6.278000 15.316000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20724  us
+ypr (or) Euler angles: -55.332000 -6.273000 15.315000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21314  us
+ypr (or) Euler angles: -55.338000 -6.273000 15.316000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21966  us
+ypr (or) Euler angles: -55.343000 -6.268000 15.315000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17606  us
+ypr (or) Euler angles: -55.345000 -6.266000 15.314000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18314  us
+ypr (or) Euler angles: -55.345000 -6.266000 15.313000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18997  us
+ypr (or) Euler angles: -55.344000 -6.263000 15.312000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19948  us
+ypr (or) Euler angles: -55.346000 -6.262000 15.311000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20629  us
+ypr (or) Euler angles: -55.346000 -6.261000 15.310000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21360  us
+ypr (or) Euler angles: -55.347000 -6.260000 15.308000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17266  us
+ypr (or) Euler angles: -55.347000 -6.259000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17941  us
+ypr (or) Euler angles: -55.347000 -6.258000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18528  us
+ypr (or) Euler angles: -55.348000 -6.258000 15.305000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19172  us
+ypr (or) Euler angles: -55.348000 -6.257000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19799  us
+ypr (or) Euler angles: -55.349000 -6.254000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20489  us
+ypr (or) Euler angles: -55.348000 -6.253000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19867  us
+ypr (or) Euler angles: -55.348000 -6.254000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20712  us
+ypr (or) Euler angles: -55.349000 -6.253000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21421  us
+ypr (or) Euler angles: -55.349000 -6.253000 15.298000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22025  us
+ypr (or) Euler angles: -55.350000 -6.252000 15.297000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17663  us
+ypr (or) Euler angles: -55.350000 -6.250000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18312  us
+ypr (or) Euler angles: -55.350000 -6.249000 15.294000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18998  us
+ypr (or) Euler angles: -55.349000 -6.249000 15.293000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19535  us
+ypr (or) Euler angles: -55.350000 -6.249000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20196  us
+ypr (or) Euler angles: -55.351000 -6.247000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20947  us
+ypr (or) Euler angles: -55.352000 -6.247000 15.290000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21673  us
+ypr (or) Euler angles: -55.352000 -6.247000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17419  us
+ypr (or) Euler angles: -55.353000 -6.246000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18496  us
+ypr (or) Euler angles: -55.353000 -6.246000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19170  us
+ypr (or) Euler angles: -55.353000 -6.244000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19849  us
+ypr (or) Euler angles: -55.353000 -6.244000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20575  us
+ypr (or) Euler angles: -55.354000 -6.242000 15.290000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21167  us
+ypr (or) Euler angles: -55.354000 -6.244000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16737  us
+ypr (or) Euler angles: -55.355000 -6.244000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17370  us
+ypr (or) Euler angles: -55.356000 -6.241000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25224  us
+ypr (or) Euler angles: -55.355000 -6.240000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20471  us
+ypr (or) Euler angles: -55.357000 -6.241000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21504  us
+ypr (or) Euler angles: -55.357000 -6.241000 15.296000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17013  us
+ypr (or) Euler angles: -55.358000 -6.242000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17561  us
+ypr (or) Euler angles: -55.359000 -6.241000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18426  us
+ypr (or) Euler angles: -55.359000 -6.240000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19006  us
+ypr (or) Euler angles: -55.361000 -6.240000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19559  us
+ypr (or) Euler angles: -55.361000 -6.240000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20428  us
+ypr (or) Euler angles: -55.362000 -6.240000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21063  us
+ypr (or) Euler angles: -55.363000 -6.240000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21814  us
+ypr (or) Euler angles: -55.364000 -6.240000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22571  us
+ypr (or) Euler angles: -55.364000 -6.237000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18136  us
+ypr (or) Euler angles: -55.365000 -6.235000 15.309000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 28161  us
+ypr (or) Euler angles: -55.367000 -6.235000 15.309000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20144  us
+ypr (or) Euler angles: -55.368000 -6.234000 15.310000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20724  us
+ypr (or) Euler angles: -55.368000 -6.234000 15.311000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21412  us
+ypr (or) Euler angles: -55.368000 -6.240000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22004  us
+ypr (or) Euler angles: -55.369000 -6.245000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17526  us
+ypr (or) Euler angles: -55.370000 -6.249000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23139  us
+ypr (or) Euler angles: -55.369000 -6.246000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25385  us
+ypr (or) Euler angles: -55.369000 -6.241000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26028  us
+ypr (or) Euler angles: -55.370000 -6.244000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18313  us
+ypr (or) Euler angles: -55.371000 -6.246000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18916  us
+ypr (or) Euler angles: -55.372000 -6.244000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19505  us
+ypr (or) Euler angles: -55.372000 -6.244000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20195  us
+ypr (or) Euler angles: -55.371000 -6.243000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20855  us
+ypr (or) Euler angles: -55.373000 -6.243000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21559  us
+ypr (or) Euler angles: -55.374000 -6.243000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17119  us
+ypr (or) Euler angles: -55.373000 -6.242000 15.308000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23305  us
+ypr (or) Euler angles: -55.373000 -6.242000 15.307000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18867  us
+ypr (or) Euler angles: -55.374000 -6.242000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19494  us
+ypr (or) Euler angles: -55.377000 -6.244000 15.305000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20252  us
+ypr (or) Euler angles: -55.377000 -6.243000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22645  us
+ypr (or) Euler angles: -55.379000 -6.243000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18196  us
+ypr (or) Euler angles: -55.376000 -6.240000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18862  us
+ypr (or) Euler angles: -55.376000 -6.243000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19465  us
+ypr (or) Euler angles: -55.370000 -6.245000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20191  us
+ypr (or) Euler angles: -55.369000 -6.242000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20768  us
+ypr (or) Euler angles: -55.374000 -6.241000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18808  us
+ypr (or) Euler angles: -55.378000 -6.242000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18668  us
+ypr (or) Euler angles: -55.382000 -6.243000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24320  us
+ypr (or) Euler angles: -55.385000 -6.243000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20052  us
+ypr (or) Euler angles: -55.378000 -6.243000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20757  us
+ypr (or) Euler angles: -55.380000 -6.244000 15.305000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21350  us
+ypr (or) Euler angles: -55.386000 -6.257000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22010  us
+ypr (or) Euler angles: -55.390000 -6.238000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17412  us
+ypr (or) Euler angles: -55.377000 -6.246000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23462  us
+ypr (or) Euler angles: -55.381000 -6.241000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19146  us
+ypr (or) Euler angles: -55.384000 -6.238000 15.294000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19803  us
+ypr (or) Euler angles: -55.381000 -6.241000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20512  us
+ypr (or) Euler angles: -55.375000 -6.247000 15.294000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21084  us
+ypr (or) Euler angles: -55.376000 -6.246000 15.294000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21867  us
+ypr (or) Euler angles: -55.374000 -6.245000 15.293000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22510  us
+ypr (or) Euler angles: -55.371000 -6.240000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18198  us
+ypr (or) Euler angles: -55.368000 -6.237000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23963  us
+ypr (or) Euler angles: -55.372000 -6.234000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19527  us
+ypr (or) Euler angles: -55.366000 -6.237000 15.290000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20187  us
+ypr (or) Euler angles: -55.366000 -6.240000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20784  us
+ypr (or) Euler angles: -55.377000 -6.241000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21859  us
+ypr (or) Euler angles: -55.374000 -6.241000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22214  us
+ypr (or) Euler angles: -55.366000 -6.243000 15.287000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21557  us
+ypr (or) Euler angles: -55.373000 -6.239000 15.284000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21997  us
+ypr (or) Euler angles: -55.369000 -6.239000 15.285000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17811  us
+ypr (or) Euler angles: -55.368000 -6.240000 15.285000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18429  us
+ypr (or) Euler angles: -55.367000 -6.239000 15.283000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19088  us
+ypr (or) Euler angles: -55.368000 -6.240000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19840  us
+ypr (or) Euler angles: -55.367000 -6.240000 15.289000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20375  us
+ypr (or) Euler angles: -55.368000 -6.237000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21131  us
+ypr (or) Euler angles: -55.368000 -6.235000 15.283000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16756  us
+ypr (or) Euler angles: -55.364000 -6.234000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19456  us
+ypr (or) Euler angles: -55.360000 -6.234000 15.290000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18015  us
+ypr (or) Euler angles: -55.356000 -6.237000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18673  us
+ypr (or) Euler angles: -55.356000 -6.242000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19620  us
+ypr (or) Euler angles: -55.355000 -6.240000 15.286000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20205  us
+ypr (or) Euler angles: -55.349000 -6.236000 15.287000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20832  us
+ypr (or) Euler angles: -55.349000 -6.238000 15.288000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21421  us
+ypr (or) Euler angles: -55.350000 -6.238000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 27438  us
+ypr (or) Euler angles: -55.349000 -6.237000 15.290000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 26083  us
+ypr (or) Euler angles: -55.344000 -6.241000 15.291000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21404  us
+ypr (or) Euler angles: -55.344000 -6.238000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22006  us
+ypr (or) Euler angles: -55.344000 -6.236000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17727  us
+ypr (or) Euler angles: -55.340000 -6.235000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23484  us
+ypr (or) Euler angles: -55.344000 -6.231000 15.292000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19169  us
+ypr (or) Euler angles: -55.347000 -6.234000 15.293000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24900  us
+ypr (or) Euler angles: -55.344000 -6.234000 15.294000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20397  us
+ypr (or) Euler angles: -55.344000 -6.230000 15.295000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20956  us
+ypr (or) Euler angles: -55.340000 -6.229000 15.296000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21640  us
+ypr (or) Euler angles: -55.339000 -6.228000 15.297000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22133  us
+ypr (or) Euler angles: -55.333000 -6.227000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17887  us
+ypr (or) Euler angles: -55.332000 -6.227000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23835  us
+ypr (or) Euler angles: -55.331000 -6.229000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19502  us
+ypr (or) Euler angles: -55.331000 -6.227000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25041  us
+ypr (or) Euler angles: -55.329000 -6.226000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20647  us
+ypr (or) Euler angles: -55.331000 -6.226000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21278  us
+ypr (or) Euler angles: -55.334000 -6.227000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17019  us
+ypr (or) Euler angles: -55.329000 -6.226000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22727  us
+ypr (or) Euler angles: -55.331000 -6.228000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18251  us
+ypr (or) Euler angles: -55.332000 -6.228000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22277  us
+ypr (or) Euler angles: -55.332000 -6.226000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17621  us
+ypr (or) Euler angles: -55.332000 -6.228000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23397  us
+ypr (or) Euler angles: -55.339000 -6.228000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19134  us
+ypr (or) Euler angles: -55.338000 -6.227000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19716  us
+ypr (or) Euler angles: -55.337000 -6.227000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20347  us
+ypr (or) Euler angles: -55.337000 -6.225000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20983  us
+ypr (or) Euler angles: -55.334000 -6.223000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21568  us
+ypr (or) Euler angles: -55.335000 -6.222000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22212  us
+ypr (or) Euler angles: -55.338000 -6.221000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17872  us
+ypr (or) Euler angles: -55.340000 -6.219000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18509  us
+ypr (or) Euler angles: -55.343000 -6.218000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19096  us
+ypr (or) Euler angles: -55.340000 -6.217000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19951  us
+ypr (or) Euler angles: -55.339000 -6.216000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20541  us
+ypr (or) Euler angles: -55.343000 -6.215000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21171  us
+ypr (or) Euler angles: -55.341000 -6.214000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16787  us
+ypr (or) Euler angles: -55.341000 -6.216000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17365  us
+ypr (or) Euler angles: -55.344000 -6.215000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18050  us
+ypr (or) Euler angles: -55.346000 -6.214000 15.298000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18746  us
+ypr (or) Euler angles: -55.346000 -6.214000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19415  us
+ypr (or) Euler angles: -55.354000 -6.215000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18676  us
+ypr (or) Euler angles: -55.355000 -6.213000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24446  us
+ypr (or) Euler angles: -55.355000 -6.213000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18562  us
+ypr (or) Euler angles: -55.353000 -6.213000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24166  us
+ypr (or) Euler angles: -55.356000 -6.214000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19809  us
+ypr (or) Euler angles: -55.357000 -6.218000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 25510  us
+ypr (or) Euler angles: -55.353000 -6.220000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21187  us
+ypr (or) Euler angles: -55.350000 -6.219000 15.298000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21642  us
+ypr (or) Euler angles: -55.351000 -6.216000 15.297000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17406  us
+ypr (or) Euler angles: -55.352000 -6.214000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23150  us
+ypr (or) Euler angles: -55.351000 -6.216000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18790  us
+ypr (or) Euler angles: -55.351000 -6.220000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24473  us
+ypr (or) Euler angles: -55.352000 -6.222000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20124  us
+ypr (or) Euler angles: -55.351000 -6.221000 15.299000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20738  us
+ypr (or) Euler angles: -55.348000 -6.217000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 16350  us
+ypr (or) Euler angles: -55.350000 -6.214000 15.301000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22561  us
+ypr (or) Euler angles: -55.350000 -6.212000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18132  us
+ypr (or) Euler angles: -55.352000 -6.215000 15.300000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24571  us
+ypr (or) Euler angles: -55.354000 -6.219000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 18587  us
+ypr (or) Euler angles: -55.355000 -6.224000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19273  us
+ypr (or) Euler angles: -55.352000 -6.225000 15.305000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 28029  us
+ypr (or) Euler angles: -55.360000 -6.221000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 22476  us
+ypr (or) Euler angles: -55.362000 -6.218000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 17977  us
+ypr (or) Euler angles: -55.359000 -6.215000 15.304000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 23676  us
+ypr (or) Euler angles: -55.362000 -6.216000 15.306000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 19194  us
+ypr (or) Euler angles: -55.363000 -6.218000 15.305000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 24941  us
+ypr (or) Euler angles: -55.364000 -6.219000 15.303000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 20570  us
+ypr (or) Euler angles: -55.360000 -6.219000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21293  us
+ypr (or) Euler angles: -55.358000 -6.217000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:
+
+Vectornav function call took 21810  us
+ypr (or) Euler angles: -55.359000 -6.215000 15.302000
+
+ The input pwm signals are 190688 0 0.000000 0.000000 0.000000 0.000000  :BOUND:

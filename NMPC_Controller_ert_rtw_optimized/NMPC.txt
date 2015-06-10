@@ -1,0 +1,14 @@
+./NMPC_Controller: No such file or directory
+
+ Performance counter stats for './NMPC_Controller -i 1000':
+
+     <not counted> cache-references        
+     <not counted> cache-misses            
+     <not counted> cycles                  
+     <not counted> instructions            
+     <not counted> context-switches        
+     <not counted> faults                  
+     <not counted> migrations              
+
+       0.001475399 seconds time elapsed
+
