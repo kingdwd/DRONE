@@ -1,0 +1,18 @@
+VN_ERROR_CODE vn200_getYawPitchRollMagneticAccelerationAngularRate(
+	Vn200* vn200, 
+	VnYpr* attitude, 
+	VnVector3* magnetic, 
+	VnVector3* acceleration, 
+	VnVector3* angularRate)
+{
+	if (!vn200->isConnected)
+		return VNERR_NOT_CONNECTED;
+
+	return vndevice_getYawPitchRollMagneticAccelerationAngularRate(
+		&vn200->vndevice,
+		attitude,
+		magnetic,
+		acceleration,
+		angularRate);
+}
+
