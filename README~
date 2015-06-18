@@ -1,0 +1,7 @@
+Intelligent and Secure Autopilot Project
+
+Directory Structure
+===================
++- EKF_IFS_2_ert_rtw	Simulink generated controller + glue code
++- VectorNav		VectorNav IMU driver
++- Model		Simulink model

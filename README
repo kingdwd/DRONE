@@ -2,6 +2,10 @@ Intelligent and Secure Autopilot Project
 
 Directory Structure
 ===================
-+- EKF_IFS_2_ert_rtw	Simulink generated controller + glue code
-+- VectorNav		VectorNav IMU driver
-+- Model		Simulink model
++- EKF_IFS_2_ert_rtw			Simulink generated H-infinity controller with required blocks            + glue code 
++- ANN_EKF_NMPC_2_ert_rtw	 	Simulink generated NMPC controller with ANN and other required blocks    + glue code
++- NMPC_Controller_ert_rtw_optimized	Simulink generated NMPC controller without ANN and other required blocks + glue code
++- quadrotor_FCS_0_ert_rtw_		Simulink generated quadcopter controller 			         + glue code
++- Arduino				Arduino code for H-infinity, NMPC and ANN_EKF_NMPC
++- pwm_generator_dutycycle		Arduino code for generating pwm signals
+
