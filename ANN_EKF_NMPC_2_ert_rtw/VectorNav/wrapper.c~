@@ -263,7 +263,7 @@ int InitMicroHard()
 {
 	int sock=socket(PF_INET, SOCK_DGRAM, IPPROTO_UDP);
         char target_ip[100];
-        strcpy(target_ip, "192.168.0.5");
+        strcpy(target_ip, "10.0.0.66");
 	memset(&locAddr, 0, sizeof(locAddr));
 	locAddr.sin_family = AF_INET;
 	locAddr.sin_addr.s_addr = INADDR_ANY;
@@ -280,7 +280,7 @@ int InitMicroHard()
     } 
 	
 	/* Attempt to make it non blocking */
-	if (fcntl(sock, F_SETFL) < 0)
+	if (fcntl(sock, F_SETFL,O_NONBLOCK | ASYNC ) < 0)
     {
 		fprintf(stderr, "error setting nonblocking: %s\n", strerror(errno));
 		//DEBUG
@@ -387,9 +387,9 @@ void SendSerialData(ExtY_ANN_EKF_NMPC_2_T *data)
 		data->ControlSurfaceCommands.rudder_cmd);
 	WriteLine(tty_fd, "OUTPUT\n");
 	WriteLine(tty_fd, buf);
-        WriteLine(tty_fd, "VERIFY\n");
-        while(!ReadLine(tty_fd, buf1));
-	PDEBUG(0, "%s", buf1);
+        //WriteLine(tty_fd, "VERIFY\n");
+        //while(!ReadLine(tty_fd, buf1));
+	//PDEBUG(0, "%s", buf1);
 
 }
 

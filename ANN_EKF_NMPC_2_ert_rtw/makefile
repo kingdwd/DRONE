@@ -129,9 +129,9 @@ RUN                 =
 
 ARFLAGS              = ruvs
 CFLAGS               = -c $(ANSI_OPTS) -fPIC \
-                       -O -g 
+                       -O -g -mtune=cortex-a15
 CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \
-                       -O -g  
+                       -O -g  -mtune=cortex-a15
 CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"
 CPP_SHAREDLIB_LDFLAGS  = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined
 DOWNLOAD_FLAGS       =

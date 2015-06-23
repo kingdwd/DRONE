@@ -131,7 +131,7 @@ int main(int argc, char *argv[])
 		
 		/* Get Arduino Data */
 		GetSerialData(&ANN_EKF_NMPC_2_U); 
-
+			
 		/* Step the model */
 		ANN_EKF_NMPC_2_step();
 		/* Output to the motor controller */

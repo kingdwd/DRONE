@@ -168,7 +168,7 @@ void setup() {
     * execution of the bootloader as the bootloader did not disable
     * the watchdog timer itself.
     */
-   wdt_enable(WDTO_500MS); // 1/2 second watchdog timer timout
+   //wdt_enable(WDTO_500MS); // 1/2 second watchdog timer timout
     /*
     * The default values should be carefully chosen.
     * If the WDT causes a reset, the UAV could be thrown into
@@ -256,7 +256,7 @@ void loop() {  if(Serial.available()>0){
    unsigned long nowtime = millis();
    if(nowtime >= (lasttime + looptime))
       {
-         wdt_reset(); // kick the dog          
+       //  wdt_reset(); // kick the dog          
          UpdateServos(); // update  
          lasttime = nowtime;  
       }
