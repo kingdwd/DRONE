@@ -1,0 +1,5750 @@
+repeat=1000
+Send INIT
+Recv DONE
+Send GETRC
+0 0 0 0 0 0 452
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 452
+iter 1 took 12355us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 443
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 443
+iter 2 took 11328us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 441
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 441
+iter 3 took 14438us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 434
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 434
+iter 4 took 13428us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 428
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 428
+iter 5 took 12515us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 425
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 425
+iter 6 took 11518us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 417
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 417
+iter 7 took 14652us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 414
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 414
+iter 8 took 13657us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 407
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 407
+iter 9 took 12635us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 405
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 405
+iter 10 took 11775us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 399
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 399
+iter 11 took 14731us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 394
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 394
+iter 12 took 13652us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 389
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 389
+iter 13 took 12838us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 382
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 382
+iter 14 took 11796us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 377
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 377
+iter 15 took 14939us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 372
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 372
+iter 16 took 13812us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 367
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 367
+iter 17 took 12751us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 364
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 364
+iter 18 took 11739us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 358
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 358
+iter 19 took 14888us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 355
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 355
+iter 20 took 13971us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 349
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 349
+iter 21 took 12977us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 347
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 347
+iter 22 took 11977us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 341
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 341
+iter 23 took 15081us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 339
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 339
+iter 24 took 14050us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 333
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 333
+iter 25 took 13056us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 332
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 332
+iter 26 took 12163us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 326
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 326
+iter 27 took 15305us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 322
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 322
+iter 28 took 14293us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 319
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 319
+iter 29 took 13235us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 316
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 316
+iter 30 took 12232us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 313
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 313
+iter 31 took 11210us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 310
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 310
+iter 32 took 14335us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 306
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 306
+iter 33 took 13305us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 304
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 304
+iter 34 took 12399us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 35 took 11425us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 36 took 14514us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 37 took 13529us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 38 took 12497us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 39 took 11503us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 40 took 14592us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 286
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 286
+iter 41 took 13718us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 42 took 12660us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 283
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 283
+iter 43 took 11686us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 44 took 14885us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 45 took 13794us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 46 took 12766us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 47 took 11870us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 48 took 14798us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 49 took 13973us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 50 took 12908us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 51 took 12016us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 52 took 15094us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 53 took 14066us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 54 took 13043us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 55 took 12196us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 56 took 15286us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 57 took 14332us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 58 took 13310us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 59 took 12237us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 60 took 11245us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 61 took 14362us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 62 took 13352us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 63 took 12473us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 64 took 11467us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 65 took 14567us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 66 took 13506us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 67 took 12583us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 68 took 11566us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 69 took 14699us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 70 took 13739us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 71 took 12782us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 72 took 11781us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 73 took 14881us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 74 took 13985us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 75 took 12783us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 76 took 12022us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 77 took 14956us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 78 took 14081us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 79 took 13074us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 80 took 12064us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 81 took 15158us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 82 took 14182us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 83 took 13144us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 84 took 12263us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 85 took 11262us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 86 took 14353us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 87 took 13371us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 88 took 12360us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 89 took 11355us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 90 took 14472us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 91 took 13607us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 269
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 269
+iter 92 took 12601us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 269
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 269
+iter 93 took 11612us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 94 took 14726us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 95 took 13790us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 96 took 12736us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 97 took 11756us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 98 took 14874us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 99 took 13937us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 100 took 13024us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 101 took 12006us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 102 took 15139us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 103 took 14257us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 104 took 13117us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 105 took 12252us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 106 took 11231us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 107 took 14382us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 283
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 283
+iter 108 took 13384us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 109 took 12418us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 110 took 11397us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 111 took 14508us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 112 took 13501us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 113 took 12646us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 292
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 292
+iter 114 took 11588us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 115 took 14753us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 116 took 13706us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 117 took 12708us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 118 took 11601us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 119 took 14819us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 120 took 13955us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 121 took 12941us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 122 took 11833us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 123 took 15049us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 124 took 14013us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 125 took 13022us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 126 took 11946us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 127 took 15138us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 128 took 14258us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 129 took 13239us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 130 took 12160us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 131 took 11170us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 302
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 302
+iter 132 took 14414us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 133 took 13254us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 134 took 12411us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 135 took 11447us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 136 took 14510us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 137 took 13575us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 138 took 12698us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 139 took 11572us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 140 took 14686us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 141 took 13844us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 142 took 12832us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 143 took 11858us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 144 took 14980us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 145 took 13950us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 146 took 12966us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 147 took 11980us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 148 took 15115us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 149 took 14222us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 150 took 13263us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 151 took 12246us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 152 took 11268us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 153 took 14369us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 154 took 13399us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 155 took 12522us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 156 took 11501us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 157 took 14628us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 158 took 13669us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 159 took 12681us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 160 took 11668us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 161 took 14934us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 162 took 13815us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 163 took 12929us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 269
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 269
+iter 164 took 11928us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 165 took 15077us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 166 took 14073us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 167 took 13248us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 168 took 12065us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 169 took 15225us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 170 took 14328us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 171 took 13354us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 172 took 12332us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 173 took 11459us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 174 took 14490us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 175 took 13502us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 176 took 12469us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 177 took 11610us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 178 took 14764us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 179 took 13769us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 180 took 12756us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 181 took 11777us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 182 took 14878us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 183 took 13878us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 184 took 13092us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 185 took 12033us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 186 took 15149us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 187 took 14188us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 188 took 13181us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 189 took 12157us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 190 took 11220us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 191 took 14314us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 192 took 13429us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 193 took 12430us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 194 took 11392us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 195 took 14564us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 196 took 13707us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 197 took 12585us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 198 took 11593us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 199 took 14848us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 200 took 13889us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 201 took 12866us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 202 took 11995us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 203 took 14981us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 204 took 13967us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 205 took 13116us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 206 took 12130us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 207 took 15273us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 208 took 14277us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 209 took 13273us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 210 took 12272us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 211 took 11285us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 212 took 14384us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 213 took 13553us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 214 took 12545us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 215 took 11551us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 216 took 14648us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 217 took 13661us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 218 took 12622us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 219 took 11812us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 220 took 14943us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 221 took 13951us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 222 took 12937us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 223 took 11967us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 224 took 15090us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 225 took 14212us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 226 took 13226us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 227 took 12231us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 228 took 11233us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 229 took 14356us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 230 took 13340us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 231 took 12496us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 232 took 11404us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 233 took 14513us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 234 took 13610us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 235 took 12642us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 236 took 11638us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 237 took 14751us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 238 took 13783us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 239 took 12776us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 240 took 11906us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 241 took 15038us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 242 took 14076us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 243 took 13050us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 244 took 12039us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 245 took 15174us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 246 took 14180us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 247 took 13174us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 248 took 12312us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 249 took 11298us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 250 took 14443us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 251 took 13448us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 252 took 12443us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 253 took 11424us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 254 took 14716us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 255 took 13689us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 256 took 12709us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 257 took 11701us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 258 took 14857us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 259 took 13831us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 260 took 12966us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 261 took 12045us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 262 took 15024us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 263 took 14183us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 264 took 13165us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 265 took 12149us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 266 took 15348us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 267 took 14497us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 268 took 13327us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 269 took 12451us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 270 took 11442us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 271 took 14588us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 272 took 13601us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 273 took 12594us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 302
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 302
+iter 274 took 11606us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 275 took 14733us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 276 took 13715us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 277 took 12866us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 278 took 11872us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 279 took 15008us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 280 took 13982us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 281 took 12959us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 282 took 12005us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 292
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 292
+iter 283 took 15317us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 284 took 14279us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 285 took 13259us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 289
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 289
+iter 286 took 12288us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 287 took 11307us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 288 took 14418us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 286
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 286
+iter 289 took 13530us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 290 took 12569us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 283
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 283
+iter 291 took 11557us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 292 took 14696us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 293 took 13671us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 294 took 12647us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 295 took 11805us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 296 took 14826us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 297 took 13824us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 298 took 12976us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 299 took 11981us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 300 took 15272us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 301 took 14089us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 302 took 13046us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 303 took 12021us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 304 took 15160us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 305 took 14273us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 306 took 13233us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 307 took 12311us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 308 took 11250us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 309 took 14373us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 310 took 13323us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 311 took 12275us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 312 took 11398us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 313 took 14576us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 314 took 13489us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 315 took 12545us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 316 took 11547us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 317 took 14634us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 318 took 13771us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 319 took 12736us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 320 took 11711us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 321 took 14848us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 322 took 13830us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 323 took 12821us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 324 took 11944us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 325 took 14903us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 326 took 13874us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 327 took 13017us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 328 took 11987us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 329 took 15108us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 330 took 14115us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 331 took 13126us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 332 took 12078us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 333 took 15211us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 334 took 14306us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 335 took 13321us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 336 took 12299us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 337 took 11297us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 338 took 14290us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 339 took 13399us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 340 took 12480us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 341 took 11515us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 342 took 14567us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 343 took 13563us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 344 took 12548us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 345 took 11557us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 346 took 14681us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 347 took 13816us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 348 took 12810us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 349 took 11768us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 350 took 14865us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 351 took 13867us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 352 took 12893us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 353 took 12053us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 354 took 15047us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 355 took 14174us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 356 took 13176us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 357 took 12146us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 358 took 15331us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 359 took 14307us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 360 took 164822us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 361 took 12292us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 362 took 11484us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 363 took 14525us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 364 took 13510us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 365 took 12498us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 366 took 11675us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 367 took 14783us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 368 took 13751us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 369 took 12783us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 370 took 11784us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 371 took 14894us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 372 took 14011us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 373 took 12976us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 374 took 11993us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 375 took 15057us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 376 took 14088us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 377 took 13091us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 378 took 12200us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 379 took 15216us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 380 took 14199us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 381 took 13319us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 382 took 12333us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 383 took 11335us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 384 took 14453us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 385 took 13453us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 386 took 12428us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 387 took 11553us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 388 took 14636us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 389 took 13632us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 390 took 12716us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 391 took 11630us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 392 took 14743us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 393 took 13750us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 394 took 12867us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 395 took 11733us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 396 took 14946us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 286
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 286
+iter 397 took 13941us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 398 took 12928us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 399 took 11948us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 289
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 289
+iter 400 took 15061us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 401 took 14143us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 402 took 13163us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 403 took 12161us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 404 took 15248us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 405 took 14284us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 406 took 13225us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 407 took 12411us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 408 took 11351us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 409 took 14486us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 410 took 13435us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 411 took 12394us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 412 took 11423us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 413 took 14534us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 414 took 13544us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 415 took 12515us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 416 took 11643us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 417 took 14742us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 418 took 13744us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 419 took 12742us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 420 took 11644us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 421 took 14842us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 422 took 13843us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 423 took 13084us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 424 took 12119us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 425 took 15104us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 426 took 14093us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 292
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 292
+iter 427 took 13083us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 428 took 12019us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 289
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 289
+iter 429 took 15157us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 430 took 14289us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 286
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 286
+iter 431 took 13386us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 432 took 12251us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 433 took 11264us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 434 took 14373us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 435 took 13361us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 436 took 12458us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 437 took 11322us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 438 took 14579us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 439 took 13536us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 276
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 276
+iter 440 took 12550us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 441 took 11538us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 442 took 14648us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 443 took 13638us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 444 took 12773us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 445 took 11736us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 446 took 14882us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 269
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 269
+iter 447 took 13856us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 448 took 12889us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 449 took 11846us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 450 took 15053us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 451 took 13956us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 452 took 13018us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 453 took 12033us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 454 took 15176us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 455 took 14171us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 456 took 13117us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 457 took 12204us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 458 took 11317us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 459 took 14434us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 460 took 13387us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 461 took 12409us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 462 took 11402us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 463 took 14506us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 464 took 13520us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 465 took 12537us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 466 took 11614us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 467 took 14727us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 468 took 13720us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 469 took 12616us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 470 took 11652us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 471 took 14693us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 472 took 13763us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 473 took 12855us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 474 took 11845us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 475 took 14987us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 476 took 13962us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 477 took 12943us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 478 took 11924us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 479 took 15043us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 480 took 14042us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 481 took 13174us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 482 took 12154us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 483 took 15301us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 484 took 14307us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 485 took 13286us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 486 took 12310us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 487 took 11453us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 488 took 14565us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 489 took 13571us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 490 took 12583us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 491 took 11585us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 492 took 14732us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 493 took 13728us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 494 took 12831us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 495 took 11856us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 496 took 14984us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 497 took 13972us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 498 took 12969us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 499 took 11996us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 500 took 15127us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 501 took 14133us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 502 took 13268us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 503 took 12239us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 504 took 11265us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 505 took 14373us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 506 took 13453us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 267
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 267
+iter 507 took 12419us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 508 took 11513us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 509 took 14667us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 510 took 13676us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 511 took 12686us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 512 took 11685us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 513 took 14819us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 514 took 13833us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 274
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 274
+iter 515 took 12829us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 516 took 11929us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 517 took 15091us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 518 took 14149us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 519 took 13083us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 520 took 12067us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 521 took 15224us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 522 took 14244us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 523 took 13424us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 284
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 284
+iter 524 took 12360us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 525 took 11362us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 526 took 14496us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 288
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 288
+iter 527 took 13477us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 528 took 12515us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 529 took 11636us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 290
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 290
+iter 530 took 14765us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 531 took 13763us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 292
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 292
+iter 532 took 12751us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 533 took 11776us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 534 took 14914us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 535 took 13917us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 536 took 12915us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 537 took 12028us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 538 took 15143us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 539 took 14150us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 540 took 13110us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 541 took 12120us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 542 took 15238us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 543 took 14187us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 544 took 13360us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 300
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 300
+iter 545 took 12339us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 546 took 11330us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 301
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 301
+iter 547 took 14448us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 548 took 13425us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 299
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 299
+iter 549 took 12426us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 298
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 298
+iter 550 took 11420us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 296
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 296
+iter 551 took 14557us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 297
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 297
+iter 552 took 13673us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 295
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 295
+iter 553 took 12661us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 294
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 294
+iter 554 took 11646us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 293
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 293
+iter 555 took 14820us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 292
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 292
+iter 556 took 13820us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 291
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 291
+iter 557 took 13139us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 289
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 289
+iter 558 took 11985us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 289
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 289
+iter 559 took 15124us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 287
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 287
+iter 560 took 14130us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 561 took 13139us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 285
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 285
+iter 562 took 12151us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 286
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 286
+iter 563 took 15368us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 282
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 282
+iter 564 took 14432us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 283
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 283
+iter 565 took 13308us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 566 took 12450us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 281
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 281
+iter 567 took 11392us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 279
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 279
+iter 568 took 14518us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 280
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 280
+iter 569 took 13558us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 277
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 277
+iter 570 took 12580us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 278
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 278
+iter 571 took 11613us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 572 took 14662us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 275
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 275
+iter 573 took 13857us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 273
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 273
+iter 574 took 12841us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 272
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 272
+iter 575 took 11844us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 271
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 271
+iter 576 took 14991us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 270
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 270
+iter 577 took 13985us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 269
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 269
+iter 578 took 12960us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 268
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 268
+iter 579 took 12071us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 266
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 266
+iter 580 took 15118us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 581 took 14332us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 582 took 13278us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 583 took 12259us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 584 took 11429us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 585 took 14397us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 586 took 13296us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 587 took 12516us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 588 took 11534us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 589 took 14615us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 590 took 13544us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 591 took 12721us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 592 took 11671us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 593 took 14792us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 594 took 13889us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 260
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 260
+iter 595 took 12935us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 596 took 11919us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 597 took 15056us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 598 took 14072us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 599 took 13079us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 600 took 12092us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 601 took 11250us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 602 took 14401us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 259
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 259
+iter 603 took 13384us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 258
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 258
+iter 604 took 12418us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 605 took 11502us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 606 took 14555us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 607 took 13586us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 608 took 12735us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 609 took 11743us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 610 took 14881us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 611 took 13864us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 612 took 12797us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 613 took 11880us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 614 took 15060us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 615 took 13997us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 616 took 13082us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 617 took 12134us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 618 took 15262us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 619 took 14288us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 620 took 13286us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 621 took 12265us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 622 took 11470us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 623 took 14530us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 624 took 13571us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 625 took 12569us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 626 took 11578us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 627 took 14825us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 628 took 13701us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 256
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 256
+iter 629 took 12803us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 257
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 257
+iter 630 took 11851us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 631 took 14943us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 632 took 13955us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 261
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 261
+iter 633 took 12972us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 262
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 262
+iter 634 took 11912us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 263
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 263
+iter 635 took 15090us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 636 took 14103us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 265
+iter 637 took 13247us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 264
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY
+0 0 0 0
+0 0 264
+iter 638 took 12207us
+Out: throttle=0.000000 elevator=0.000000 aileron=0.000000 rudder=0.000000
+Send GETRC
+0 0 0 0 0 0 265
+Send OUTPUT
+Send 0.000000 0.000000 0.000000 0.000000
+Send VERIFY

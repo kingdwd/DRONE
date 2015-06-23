@@ -247,6 +247,7 @@ typedef struct {
   real_T ve_op[22];                    /* '<Root>/ve_op' */
   real_T vh_op[22];                    /* '<Root>/vh_op' */
   real_T FL_ann;                       /* '<Root>/FL_ann' */
+  real_T wcn;
 } ExtU_ANN_EKF_NMPC_2_T;
 
 /* External outputs (root outports fed by signals with auto storage) */

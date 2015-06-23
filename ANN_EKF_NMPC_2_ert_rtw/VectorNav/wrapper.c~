@@ -60,7 +60,7 @@ int tty_fd1;
 int g_debug_level = 1;
 struct sockaddr_in gcAddr; 
 struct sockaddr_in locAddr;
-ssize_t recsize;
+ssize_t recsize,recsize1;
 socklen_t fromlen;
 //#define sock socket(PF_INET, SOCK_DGRAM, IPPROTO_UDP)
 /**************************************************************************
@@ -263,7 +263,7 @@ int InitMicroHard()
 {
 	int sock=socket(PF_INET, SOCK_DGRAM, IPPROTO_UDP);
         char target_ip[100];
-        strcpy(target_ip, "10.0.0.38");
+        strcpy(target_ip, "192.168.0.5");
 	memset(&locAddr, 0, sizeof(locAddr));
 	locAddr.sin_family = AF_INET;
 	locAddr.sin_addr.s_addr = INADDR_ANY;
@@ -280,7 +280,7 @@ int InitMicroHard()
     } 
 	
 	/* Attempt to make it non blocking */
-	if (fcntl(sock, F_SETFL, O_NONBLOCK | FASYNC) < 0)
+	if (fcntl(sock, F_SETFL) < 0)
     {
 		fprintf(stderr, "error setting nonblocking: %s\n", strerror(errno));
 		//DEBUG
@@ -350,7 +350,7 @@ void GetSerialData(ExtU_ANN_EKF_NMPC_2_T *data)
 		&data->RC.elevator_cmd,  /*float? */
 		&data->RC.aileron_cmd,  /* float? */
 		&data->RC.rudder_cmd,   /* float? */
-		&data->VTalphabeta.VT); 
+		&data->VTalphabetameas.VT); 
 	PDEBUG(0, "%s", buf);
   printf("\n The input pwm signals are %d %d %f %f %f %f  :", &data->PICCIC, data->HomeCmd, data->RC.throttle_cmd, data->RC.elevator_cmd,  data->RC.aileron_cmd, data->RC.rudder_cmd);
 
@@ -498,10 +498,12 @@ uint64_t microsSinceEpoch()
 }
 #endif
 void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
-{
+{   int i=0;
     int bytes_sent;
     uint8_t buf[BUFFER_LENGTH];
-    mavlink_message_t msg;
+    uint8_t buf1[BUFFER_LENGTH];
+    uint8_t buf2[BUFFER_LENGTH];
+    mavlink_message_t msg,msg1,msg2;
     uint16_t len;
     mavlink_msg_heartbeat_pack(2, 200, &msg, 2, 12, 65, 0, 3);
     len = mavlink_msg_to_send_buffer(buf, &msg);
@@ -518,7 +520,111 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
     mavlink_msg_gps_raw_int_pack(2, 200, &msg, microsSinceEpoch(),2,data->GPSPositionmeas.Latitude,data->GPSPositionmeas.Longitude,data->GPSPositionmeas.Altitude,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,255);
     len = mavlink_msg_to_send_buffer(buf, &msg);
     bytes_sent = sendto(sock, buf, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
-}
+    
+		memset(buf, 0, BUFFER_LENGTH);
+		//mavlink_message_t msg;
+		mavlink_status_t status,status1;
+		mavlink_mission_count_t mission_count;
+		int cn;
+		recsize = recvfrom(sock, (void *)buf, BUFFER_LENGTH, 0, (struct sockaddr *)&gcAddr, &fromlen);
+		if (recsize > 0)
+      	        {
+			// Something received - print out all bytes and parse packet
+			
+			
+			printf("Bytes Received: %d\nDatagram: ", (int)recsize);
+			for (i = 0; i < recsize; ++i)
+			{
+				//temp = buf[i];
+			//	printf("%02x ", (unsigned char)temp);
+				if (mavlink_parse_char(MAVLINK_COMM_0, buf[i], &msg, &status))
+				{
+					// Packet received
+					printf("\nReceived packet: SYS: %d, COMP: %d, LEN: %d, MSG ID: %d\n", msg.sysid, msg.compid, msg.len, msg.msgid);		
+					printf("\n\n Incomming packet\n\n");
+		if(msg.msgid ==  44)
+		{				
+			mavlink_msg_mission_count_decode( &msg, &mission_count);
+			printf("\n\n the # of wypts received is %d########\n\n",mission_count.count);
+			data->wcn=mission_count.count;
+			for(cn=0;cn<data->wcn;cn++)
+			{
+				//sendrequest(sock,cn);
+				memset(buf1, 0, BUFFER_LENGTH);
+				mavlink_msg_mission_request_pack(2, 200, &msg1,255,0,cn);
+				len = mavlink_msg_to_send_buffer(buf1, &msg1);
+				bytes_sent = sendto(sock, buf1, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
+				printf("\n\n @@@@@ sent successfull\n\n");
+				memset(buf2, 0, BUFFER_LENGTH);
+				//receive_waypoints(sock,cn);
+				while( (recsize1 = recvfrom(sock, (void *)buf2, BUFFER_LENGTH, 0, (struct sockaddr *)&gcAddr, &fromlen)) <= 0);
+	 if (recsize1 > 0)
+	
+      	{	
+		int ii;
+		mavlink_mission_item_t mission_item;		
+	  	for (ii = 0; ii < recsize1; ++ii)
+		{
+			if (mavlink_parse_char(MAVLINK_COMM_0, buf2[ii], &msg2, &status1))
+			{
+				printf("\n\n reading waypoint # %d",cn);
+			}
+		}//if (msg2.msgid==0)
+			//goto loop;
+		if(msg2.msgid ==  39)
+		{
+			mavlink_msg_mission_item_decode(&msg2, &mission_item);
+			printf("\n\nthe waypoint # %d is lat:%f lon:%f alt:%f",cn,mission_item.x,mission_item.y,mission_item.z);
+			data->WaypointsIN.n[cn]=mission_item.x;
+			data->WaypointsIN.h[cn] =mission_item.z;
+			data->WaypointsIN.v[cn] = mission_item.y;
+		}
+	}else printf("!!!!!!!!\n\n receiving failed \n\n "); 
+			}
+			if(cn == mission_count.count)
+			{
+				//sendack(sock,cn);
+				mavlink_msg_mission_ack_pack(2, 200, &msg2,255,0,0);
+				memset(buf2, 0, BUFFER_LENGTH);
+				len = mavlink_msg_to_send_buffer(buf2, &msg2);
+				bytes_sent = sendto(sock, buf2, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
+				printf("\n\n ***** sent acknowledgement *****\n\n");
+			} 		
+		}        // for msg id 44
+		if(msg.msgid ==  43)
+		{       
+			int j=0; 
+			
+			//sendcn(sock,cn);
+			mavlink_msg_mission_count_pack(2, 200, &msg2,255,0,data->wcn);
+			memset(buf2, 0, BUFFER_LENGTH);
+			len = mavlink_msg_to_send_buffer(buf2, &msg2);
+			bytes_sent = sendto(sock, buf2, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
+			memset(buf2, 0, BUFFER_LENGTH);
+			for(j=0; j<data->wcn;j++)
+			{
+				//receive_request(sock);
+				//sendwyp(sock,-95,95);
+				mavlink_msg_mission_item_pack(2, 200, &msg2,255,0,j,0,16,0,1,.149999999999999994,0,0,0,data->WaypointsIN.n[j],data->WaypointsIN.v[j],data->WaypointsIN.h[j]);
+				len = mavlink_msg_to_send_buffer(buf2, &msg2);
+				bytes_sent = sendto(sock, buf2, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
+				printf("\n\n @@@@@ sent count successfull\n\n");
+			}
+			//rec_ack(sock);
+		}// for msg id 43
+		}	//parse - if
+				}//for
+			}else printf("\n\n 12121212not good");//recsize - if
+		//	printf("\n");
+		
+		//memset(buf, 0, BUFFER_LENGTH);
+		
+		printf("\n\n !!!@@##$$ end of a loop\n\n");
+
+
+
+
+}//for Createpacket
     
 
 

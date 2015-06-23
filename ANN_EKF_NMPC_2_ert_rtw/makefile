@@ -108,13 +108,13 @@ MAKE = $(MAKE_PATH)/gmake
 #-------------------------
 
 CDEBUG              = -g
-C_OUTPUT_FLAG       = -o3
+C_OUTPUT_FLAG       = -o
 LDDEBUG             = -g
-OUTPUT_FLAG         = -o3
+OUTPUT_FLAG         = -o
 CPPDEBUG            = -g
-CPP_OUTPUT_FLAG     = -o3
+CPP_OUTPUT_FLAG     = -o
 CPPLDDEBUG          = -g
-OUTPUT_FLAG         = -o3
+OUTPUT_FLAG         = -o
 ARDEBUG             =
 STATICLIB_OUTPUT_FLAG =
 MEX_DEBUG           = -g
@@ -129,9 +129,9 @@ RUN                 =
 
 ARFLAGS              = ruvs
 CFLAGS               = -c $(ANSI_OPTS) -fPIC \
-                       -O3 -g -mtune=cortex-a15
+                       -O -g 
 CPPFLAGS             = -c $(CPP_ANSI_OPTS) -fPIC \
-                       -O3 -g  -mtune=cortex-a15
+                       -O -g  
 CPP_LDFLAGS          = -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)"
 CPP_SHAREDLIB_LDFLAGS  = -shared -Wl,-rpath,"$(MATLAB_ARCH_BIN)",-L"$(MATLAB_ARCH_BIN)" -Wl,--no-undefined
 DOWNLOAD_FLAGS       =

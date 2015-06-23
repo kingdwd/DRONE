@@ -1,0 +1,6507 @@
+
+Vectornav initialization took 215  us
+5 Error encountered when trying to connect to the sensor.
+5
+BOUND:
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 2  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 74  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 44
+
+
+ Incomming packet
+
+
+
+ the # of wypts received is 6########
+
+
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 0
+
+the waypoint # 0 is lat:-3.513421 lon:-53.789062 alt:500.000000
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 1
+
+the waypoint # 1 is lat:-11.867351 lon:31.992188 alt:500.000000
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 2
+
+the waypoint # 2 is lat:16.299051 lon:53.085938 alt:500.000000
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 3
+
+the waypoint # 3 is lat:36.597889 lon:34.453125 alt:500.000000
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 4
+
+the waypoint # 4 is lat:22.593725 lon:-22.148438 alt:500.000000
+
+ @@@@@ sent successfull
+
+
+
+ reading waypoint # 5
+
+the waypoint # 5 is lat:3.513421 lon:-46.054688 alt:500.000000
+
+ ***** sent acknowledgement *****
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 10
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 2, MSG ID: 43
+
+
+ Incomming packet
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ @@@@@ sent count successfull
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 12
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 4, MSG ID: 40
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 11
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 3, MSG ID: 47
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 1  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :Bytes Received: 17
+Datagram: 
+Received packet: SYS: 255, COMP: 0, LEN: 9, MSG ID: 0
+
+
+ Incomming packet
+
+
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took 0  us
+ypr (or) Euler angles: 0.000000 0.000000 0.000000
+
+ The input pwm signals are 14995624 0 0.000000 0.000000 0.000000 0.000000  :
+
+ 12121212not good
+
+ !!!@@##$$ end of a loop
+
+
+Vectornav function call took
