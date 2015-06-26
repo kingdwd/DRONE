@@ -43,6 +43,8 @@ const int VN_BAUDRATE = 115200;
 
 #define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
+#define ARDUINO2_COM "/dev/ttyACM1"
+#define AR_BAUDRATE B115200  /*rate for usb serial*/
 #define MICROHARD_COM "/dev/ttyS0"
 #define MH_BAUDRATE B115200  /*rate for usb serial*/
 
@@ -59,7 +61,7 @@ const int VN_BAUDRATE = 115200;
  **************************************************************************/
 static Vn200 vn200;
 int tty_fd;
-int tty_fd1;
+int tty_fd2;
 int g_debug_level = 1;
 //#define sock  socket(PF_INET, SOCK_DGRAM, IPPROTO_UDP)
 struct sockaddr_in gcAddr; 
@@ -112,6 +114,9 @@ void GetIMUData(ExtU_quadrotor_FCS_0_T *data)
 	data->Internalstates[6]= angularRate.c0;
 	data->Internalstates[7]= angularRate.c1;
 	data->Internalstates[8]= angularRate.c2;
+	data->Acc[0]= accel.c0;
+	data->Acc[1]= accel.c1;
+	data->Acc[2]= accel.c2;
 }
 
 void CloseIMU()
@@ -146,6 +151,33 @@ void InitSerial()
 	char buf[BUF_SIZE];
 	WriteLine(tty_fd, "INIT\n");
 	while(!ReadLine(tty_fd, buf));
+	PDEBUG(0, "Recv %s", buf);
+	
+}
+void InitSerial2()
+{
+	int i;
+	struct termios tio;
+	if((tty_fd2 = open(ARDUINO2_COM , O_RDWR | O_NOCTTY)) < 0 ) { 
+		perror("Error while opening serial port\n"); 
+		exit(-11);
+	}
+
+	memset(&tio, 0, sizeof(tio));
+	tio.c_iflag = IGNPAR | ICRNL;
+	tio.c_cflag =  AR_BAUDRATE | CS8 | CREAD | CLOCAL;
+	tio.c_oflag = 0; 
+	tio.c_lflag = ICANON; 
+	tio.c_cc[VMIN] = 1; 
+	tio.c_cc[VTIME] = 0; 
+        usleep(5000000);
+	tcflush(tty_fd2, TCIFLUSH);
+	tcsetattr(tty_fd2, TCSANOW, &tio); 
+	tcsetattr(tty_fd2,TCSAFLUSH,&tio);  
+	/* handshake */
+	char buf[BUF_SIZE];
+	WriteLine(tty_fd2, "INIT\n");
+	while(!ReadLine(tty_fd2, buf));
 	PDEBUG(0, "Recv %s", buf);
 	
 }
@@ -230,23 +262,35 @@ void GetSerialData(ExtU_quadrotor_FCS_0_T *data)
 {
 	int len;
 	char buf[BUF_SIZE];
-
+        char *delim = " ";
+	char *token = NULL;
+	int i = 1;
 	WriteLine(tty_fd, "GETRC\n");
         
 	while(!ReadLine(tty_fd, buf));
-        sscanf(buf, "%f %f %f %f %f", 
-		&data->RC[0], 
+	for(token = strtok(buf, delim); token != NULL; token = strtok(NULL, delim))
+	{
+	 char *unconverted;
+	 data->RC[i] = strtod(token, &unconverted);
+	 i++;
+	}
+
+/*        if(sscanf(buf, " %d %d %d %d", 
+		
 		&data->RC[1],
 		&data->RC[2],
 		&data->RC[3],
 		&data->RC[4]
-		); 
+		)>0)
+	printf("\n the buf%s",buf);
+*/
+
 	data->RC[1] = (data->RC[1]-950)/1200;
 	data->RC[2] = (data->RC[2]-950)/1200;
 	data->RC[3] = (data->RC[3]-950)/1200;
 	data->RC[4] = (data->RC[4]-950)/1200;
 	PDEBUG(0, "%s", buf);
-	printf("\n pwm are %f %f %f \n",data->RC[1],data->RC[2],data->RC[3]);
+	printf("\n pwm are %f %f %f %f\n",data->RC[1],data->RC[2],data->RC[3], data->RC[4]);
   //printf("\n The input pwm signals are %d %d %f %f %f %f  :", data->PICCIC, data->HomeCmd, data->ServoCommands.throttle_cmd, data->ServoCommands.elevator_cmd,  data->ServoCommands.aileron_cmd, data->ServoCommands.rudder_cmd);
 
 	/* 6 RC values:
@@ -258,11 +302,50 @@ void GetSerialData(ExtU_quadrotor_FCS_0_T *data)
 	   data->VTalphabetameas.VT
 	*/
 }
-void verify()
+void getrpm(ExtU_quadrotor_FCS_0_T *data)
+{
+  char buf3[128];
+ int rpmcount[5];
+ int len;
+	//char buf[BUF_SIZE];
+        char *delim = " ";
+	char *token = NULL;
+	int i = 0;
+ WriteLine(tty_fd1, "GETRPM\n");
+ while(!ReadLine(tty_fd1, buf3));
+ for(token = strtok(buf3, delim); token != NULL; token = strtok(NULL, delim))
+	{
+	 char *unconverted;
+	 rpmcount[i] = strtod(token, &unconverted);
+	 i++;
+	}
+ int j=1;
+ for(j;j<5;j++)
+ {
+   data->rpm[j-1] = 5*(rpmcount[j]/rpmcount[0]);}
+ printf("\n the RPM are %f %f %f %f",data->rpm[0],data->rpm[1],data->rpm[2], data->rpm[3]);
+ PDEBUG(0, "%s", buf3);
+
+
+} 
+void verify(ExtU_quadrotor_FCS_0_T *data)
 {char buf3[128];
+ int len;
+	//char buf[BUF_SIZE];
+        char *delim = " ";
+	char *token = NULL;
+	int i = 0;
  WriteLine(tty_fd, "GETOP\n");
  while(!ReadLine(tty_fd, buf3));
+ for(token = strtok(buf3, delim); token != NULL; token = strtok(NULL, delim))
+	{
+	 char *unconverted;
+	 data->ORC[i] = strtod(token, &unconverted);
+	 i++;
+	}
+ printf("\n the op rc are %f %f %f %f",data->ORC[0],data->ORC[1],data->ORC[2], data->ORC[3]);
  PDEBUG(0, "%s", buf3);
+ getrpm(&quadrotor_FCS_0_U);
 }
 void SendSerialData (ExtY_quadrotor_FCS_0_T *data)
 {
@@ -276,7 +359,7 @@ void SendSerialData (ExtY_quadrotor_FCS_0_T *data)
 		data-> Auto[3]);
 	WriteLine(tty_fd, "\rOUTPUT\n");
 	WriteLine(tty_fd, buf);
-       // verify();
+        verify(&quadrotor_FCS_0_U);
 }
 
 void CloseSerial()
@@ -332,7 +415,7 @@ void Create_packets(ExtU_quadrotor_FCS_0_T *data,int sock)
     len = mavlink_msg_to_send_buffer(buf, &msg);
     bytes_sent = sendto(sock, buf, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
    
-    mavlink_msg_rc_channels_pack(3, 200, &msg, microsSinceEpoch(),4,data->RC[1],data->RC[2],data->RC[3],data->RC[4],UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,255);
+    mavlink_msg_rc_channels_pack(3, 200, &msg, microsSinceEpoch(),4,data->RC[1]*100,data->RC[2]*100,data->RC[3]*100,data->RC[4]*100,data->ORC[0],data->ORC[1],data->ORC[2],data->ORC[3],data->rpm[0],data->rpm[1],data->rpm[2],data->rpm[3],UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,UINT16_MAX,255);
     len = mavlink_msg_to_send_buffer(buf, &msg);
     bytes_sent = sendto(sock, buf, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
     memset(buf, 0, BUFFER_LENGTH);

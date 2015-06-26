@@ -71,7 +71,7 @@ int main(int argc, char *argv[])
   	//scanf("%s",fname);
 	sprintf(fname,"%s.txt",ctime(&ftime));
 	FILE *fp=fopen(fname,"w");
-	fprintf(fp,"ITER,TIME DIFF(us),LAT,LONG,ALT,P,Q,R,Vx,Vy,Vz,Phi,Theta,Psi,Ax,Ay,Az,motor1,motor2,motor3,motor4,OPmotor1,OPmotor2,OPmotor3,OPmotor4\n");
+	fprintf(fp,"ITER,TIME DIFF(us),LAT,LONG,ALT,P,Q,R,Vx,Vy,Vz,Phi,Theta,Psi,Ax,Ay,Az,motor1,motor2,motor3,motor4,OPmotor1,OPmotor2,OPmotor3,OPmotor4,RPM1,RPM2,RPM3,RPM4\n");
 	long iter, repeat = 0;
 	double interval_sec = (double)1/20;
 	struct timespec start, end;
@@ -97,7 +97,7 @@ int main(int argc, char *argv[])
 	InitIMU(); /* vectornav */
 
 	InitSerial(); /* arduino & movingpoints & waypoints*/
-	
+	InitSerial2();/*for rpm*/
 	clock_gettime(CLOCK_REALTIME, &start);
 	iter =  0;
 	while (1) {
@@ -128,7 +128,7 @@ int main(int argc, char *argv[])
 		clock_gettime(CLOCK_REALTIME, &start);
 		
 /* Writing to a file */
-		fprintf(fp,"%ld,%llu,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f\n",iter,tmpdiff/1000,quadrotor_FCS_0_U.lla[0],quadrotor_FCS_0_U.lla[1],quadrotor_FCS_0_U.lla[2],quadrotor_FCS_0_U.Internalstates[6],quadrotor_FCS_0_U.Internalstates[7],quadrotor_FCS_0_U.Internalstates[8],quadrotor_FCS_0_U.Internalstates[0],quadrotor_FCS_0_U.Internalstates[1],quadrotor_FCS_0_U.Internalstates[2],quadrotor_FCS_0_U.Internalstates[3],quadrotor_FCS_0_U.Internalstates[4],quadrotor_FCS_0_U.Internalstates[5],quadrotor_FCS_0_U.Acc[0],quadrotor_FCS_0_U.Acc[1],quadrotor_FCS_0_U.Acc[2],quadrotor_FCS_0_U.RC[1],quadrotor_FCS_0_U.RC[2],quadrotor_FCS_0_U.RC[3],quadrotor_FCS_0_U.RC[4],quadrotor_FCS_0_U.RC[0],quadrotor_FCS_0_U.ORC[0],quadrotor_FCS_0_U.ORC[1],quadrotor_FCS_0_U.ORC[2],quadrotor_FCS_0_U.ORC[3]);
+		fprintf(fp,"%ld,%llu,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f,%f\n",iter,tmpdiff/1000,quadrotor_FCS_0_U.lla[0],quadrotor_FCS_0_U.lla[1],quadrotor_FCS_0_U.lla[2],quadrotor_FCS_0_U.Internalstates[6],quadrotor_FCS_0_U.Internalstates[7],quadrotor_FCS_0_U.Internalstates[8],quadrotor_FCS_0_U.Internalstates[0],quadrotor_FCS_0_U.Internalstates[1],quadrotor_FCS_0_U.Internalstates[2],quadrotor_FCS_0_U.Internalstates[3],quadrotor_FCS_0_U.Internalstates[4],quadrotor_FCS_0_U.Internalstates[5],quadrotor_FCS_0_U.Acc[0],quadrotor_FCS_0_U.Acc[1],quadrotor_FCS_0_U.Acc[2],quadrotor_FCS_0_U.RC[1],quadrotor_FCS_0_U.RC[2],quadrotor_FCS_0_U.RC[3],quadrotor_FCS_0_U.RC[4],quadrotor_FCS_0_U.RC[0],quadrotor_FCS_0_U.ORC[0],quadrotor_FCS_0_U.ORC[1],quadrotor_FCS_0_U.ORC[2],quadrotor_FCS_0_U.ORC[3],quadrotor_FCS_0_U.rpm[0],quadrotor_FCS_0_U.rpm[1],quadrotor_FCS_0_U.rpm[2],quadrotor_FCS_0_U.rpm[3]);
 		printf("\n pwm in main are %f %f %f \n",quadrotor_FCS_0_U.RC[1],quadrotor_FCS_0_U.RC[2],quadrotor_FCS_0_U.RC[3]);
 
 		iter++;
@@ -152,6 +152,6 @@ int main(int argc, char *argv[])
 	/* Close hardware */
 	CloseIMU();
 	CloseSerial();
-	CloseMicroHard();
+	CloseSerial2();
 	return 0;
 }

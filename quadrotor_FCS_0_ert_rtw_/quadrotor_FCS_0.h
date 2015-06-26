@@ -51,7 +51,8 @@ typedef struct {
   real_T RC[5];
   real_T ORC[4];
   real_T lla[3];
-  real_T Acc[3];	
+  real_T Acc[3];
+  real_T rpm[4];	
 } ExtU_quadrotor_FCS_0_T;
 
 /* External outputs (root outports fed by signals with auto storage) */
