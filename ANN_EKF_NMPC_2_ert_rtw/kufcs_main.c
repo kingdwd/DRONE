@@ -95,6 +95,9 @@ int main(int argc, char *argv[])
   double interval_sec = (double)1/20;
   struct timespec start, end;
   int opt,sock;
+  char fname[128]="waypoints_conversion.txt";
+  FILE *fp=fopen(fname,"w");
+  fprintf(fp,"#,lat(in deg),lon(in deg),alt(from gs),north(feet),east(feet),height(feet),velocity\n");
   while ((opt = getopt(argc, argv, "i:h")) != -1) {
 		switch (opt) {
 		case 'i': /* iterations */
@@ -164,7 +167,11 @@ int main(int argc, char *argv[])
 	rt_StopDataLogging(MATFILE, ANN_EKF_NMPC_2_M->rtwLogInfo);
 
   /* Disable rt_OneStep() here */
-  
+  int cn=1;
+  for(cn;cn<=ANN_EKF_NMPC_2_U.wcn;cn++)
+  {
+	fprintf(fp,"%d,%f,%f,%f,%f,%f,%f,%f\n",cn,ANN_EKF_NMPC_2_U.lat[cn],ANN_EKF_NMPC_2_U.lon[cn],ANN_EKF_NMPC_2_U.alt[cn],ANN_EKF_NMPC_2_U.WaypointsIN.n[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.e[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.h[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.v[cn]);
+  }
   /* Terminate model */
   ANN_EKF_NMPC_2_terminate();
   /* Close hardware */

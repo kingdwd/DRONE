@@ -39,7 +39,6 @@
 const char* const COM_PORT = "//dev//ttyUSB0";
 const int VN_BAUDRATE = 115200;
 
-
 #define ARDUINO_COM "/dev/ttyACM0"
 #define AR_BAUDRATE B115200  /*rate for usb serial*/
 
@@ -88,107 +87,10 @@ void InitIMU(void)
 	}
         printf("%d\n",errorCode);
 }
-VN_ERROR_CODE vn200_getInsStateLla(
-	Vn200* vn200,
-	VnVector3* ypr,
-	VnVector3* lla,
-	VnVector3* velocity,
-	VnVector3* accel,
-	VnVector3* angularRate)
-{
-	struct timespec start, end;double interval_sec = (double)1/20;
-	const char* cmdToSend = "$VNRRG,72";
-	char delims[] = ",*";
-	char* result;
-	int errorCode;
-	const char* responseMatch = "VNRRG,";
 
-	if (!vn200->isConnected)
-		return VNERR_NOT_CONNECTED;
-	clock_gettime(CLOCK_REALTIME, &start);
-	errorCode = vndevice_transaction(&vn200->vndevice, cmdToSend, responseMatch);
-	clock_gettime(CLOCK_REALTIME, &end);
-	uint64_t tmpdiff;
-	double remain_us;
-	tmpdiff = get_elapsed(&start, &end);
-	remain_us = (interval_sec * 1000000 - tmpdiff / 1000);
-	printf("\nVectornav vndevice_transaction took %llu  us\n", tmpdiff/1000);
-	if (errorCode != VNERR_NO_ERROR)
-		return errorCode;
-
-	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
-	result = strtok(0, delims);                            /* Returns register ID */
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	ypr->c0 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	ypr->c1 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	ypr->c2 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	lla->c0 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	lla->c1 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	lla->c2 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	velocity->c0 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	velocity->c1 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	velocity->c2 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	accel->c0 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	accel->c1 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	accel->c2 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	angularRate->c0 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	angularRate->c1 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-	angularRate->c2 = atof(result);
-	result = strtok(0, delims);
-	if (result == NULL)
-		return VNERR_INVALID_VALUE;
-
-	return VNERR_NO_ERROR;
-}
 void GetIMUData(ExtU_ANN_EKF_NMPC_2_T *data)
 {
 	VnVector3 ypr, latitudeLognitudeAltitude, Velocity, accel, angularRate;
-	struct timespec start, end;double interval_sec = (double)1/20;
-        clock_gettime(CLOCK_REALTIME, &start);
 	vn200_getInsStateLla(
 		&vn200,
 		&ypr,
@@ -196,12 +98,6 @@ void GetIMUData(ExtU_ANN_EKF_NMPC_2_T *data)
 		&Velocity,
 		&accel,
 		&angularRate);
-        clock_gettime(CLOCK_REALTIME, &end);
-	uint64_t tmpdiff;
-	double remain_us;
-	tmpdiff = get_elapsed(&start, &end);
-	remain_us = (interval_sec * 1000000 - tmpdiff / 1000);
-	printf("\nVectornav function call took %llu  us\n", tmpdiff/1000);
         //printf("GPS POSITION: %lf %lf %lf\n", latitudeLognitudeAltitude.c0, latitudeLognitudeAltitude.c1,    latitudeLognitudeAltitude.c2);        
 	data->GPSPositionmeas.Latitude = latitudeLognitudeAltitude.c0;
 	data->GPSPositionmeas.Longitude = latitudeLognitudeAltitude.c1;
@@ -211,9 +107,9 @@ void GetIMUData(ExtU_ANN_EKF_NMPC_2_T *data)
 	data->GPSVelocitymeas.V_east = Velocity.c1;
 	data->GPSVelocitymeas.V_down = Velocity.c2;
         printf("ypr (or) Euler angles: %f %f %f\n", ypr.c0, ypr.c1, ypr.c2);
-        data->EulerAnglesmeas.phi= ypr.c0;
-	data->EulerAnglesmeas.theta= ypr.c1;
-	data->EulerAnglesmeas.psi= ypr.c2;
+        data->EulerAnglesmeas.phi= ypr.c2*0.0174532925;   // degree to rad[for our matlab model]
+	data->EulerAnglesmeas.theta= ypr.c1*0.0174532925;
+	data->EulerAnglesmeas.psi= ypr.c0*0.0174532925;
 	//printf("Body rates: %f %f %f\n", angularRate.c0, angularRate.c1, angularRate.c2);
 	data->BodyRatesmeas.P= angularRate.c0;
 	data->BodyRatesmeas.Q= angularRate.c1;
@@ -248,10 +144,9 @@ void InitSerial()
 	tio.c_lflag = ICANON; 
 	tio.c_cc[VMIN] = 1; 
 	tio.c_cc[VTIME] = 0; 
-  	usleep(2000000);
 	tcflush(tty_fd, TCIFLUSH);
 	tcsetattr(tty_fd, TCSANOW, &tio); 
-	tcsetattr(tty_fd,TCSAFLUSH,&tio);  
+	usleep(2000000);
 	/* handshake */
 	char buf[BUF_SIZE]; 
  	WriteLine(tty_fd, "INIT\n");
@@ -263,7 +158,7 @@ int InitMicroHard()
 {
 	int sock=socket(PF_INET, SOCK_DGRAM, IPPROTO_UDP);
         char target_ip[100];
-        strcpy(target_ip, "10.0.0.66");
+        strcpy(target_ip, "10.0.0.50");
 	memset(&locAddr, 0, sizeof(locAddr));
 	locAddr.sin_family = AF_INET;
 	locAddr.sin_addr.s_addr = INADDR_ANY;
@@ -280,7 +175,7 @@ int InitMicroHard()
     } 
 	
 	/* Attempt to make it non blocking */
-	if (fcntl(sock, F_SETFL,O_NONBLOCK | ASYNC ) < 0)
+	if (fcntl(sock, F_SETFL,O_NONBLOCK | FASYNC ) < 0)
     {
 		fprintf(stderr, "error setting nonblocking: %s\n", strerror(errno));
 		//DEBUG
@@ -339,20 +234,39 @@ void GetSerialData(ExtU_ANN_EKF_NMPC_2_T *data)
 {
 	int len;
 	char buf[BUF_SIZE];
-
+	char *delim = " ";
+	char *token = NULL;
 	WriteLine(tty_fd, "GETRC\n");
-        
+        int i = 0;
 	while(!ReadLine(tty_fd, buf));
-        sscanf(buf, "%d %d %f %f %f %f %d", 
-		&data->PICCIC, 
-		&data->HomeCmd,
-		&data->RC.throttle_cmd, /* float? */
-		&data->RC.elevator_cmd,  /*float? */
-		&data->RC.aileron_cmd,  /* float? */
-		&data->RC.rudder_cmd,   /* float? */
-		&data->VTalphabetameas.VT); 
-	PDEBUG(0, "%s", buf);
-  printf("\n The input pwm signals are %d %d %f %f %f %f  :", &data->PICCIC, data->HomeCmd, data->RC.throttle_cmd, data->RC.elevator_cmd,  data->RC.aileron_cmd, data->RC.rudder_cmd);
+        for(token = strtok(buf, delim); token != NULL; token = strtok(NULL, delim))
+	{
+	 char *unconverted;
+	 switch(i)
+	 {
+	 case 0:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 case 1:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 case 2:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 case 3:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 case 4:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 case 5:
+	 	data->PICCIC = strtod(token, &unconverted);
+		break;
+	 i++;
+	 }
+	}
+	//PDEBUG(0, "%s", buf);
+  	PDEBUG("\n The input pwm signals are %d %d %f %f %f %f  :", data->PICCIC, data->HomeCmd, data->RC.throttle_cmd, data->RC.elevator_cmd,  data->RC.aileron_cmd, data->RC.rudder_cmd);
 
 	/* 6 RC values:
 	   data->HomeCmd
@@ -449,7 +363,9 @@ void InitStaticWaypoints(ExtU_ANN_EKF_NMPC_2_T *data)
 	data->WaypointsIN.n[0] = 0;
 	data->WaypointsIN.v[0] = 0;
 	data->WaypointsIN.e[0] = 0;
-		
+	data->lat[0]	       = 38.915422;   //reference waypoints in clinton lake
+	data->lon[0]	       = -95.317747;
+	data->alt[0]	       = 0.3048 * 838;	
 }
 
 void InitOther(ExtU_ANN_EKF_NMPC_2_T *data)
@@ -497,6 +413,21 @@ uint64_t microsSinceEpoch()
     return micros;
 }
 #endif
+
+
+
+/*******		waypoint conversion from degress to feet	***********/
+void latlon(ExtU_ANN_EKF_NMPC_2_T *data, int i)
+{
+	float fact_lat = 364574.1647;  //factor for converting from deg to feet, pointing to clinton lake
+	float fact_lon = 283665.7711;
+	data->WaypointsIN.n[i-1] = (data->lat[i] - data->lat[0])*(fact_lat);
+	data->WaypointsIN.e[i-1] = (data->lon[i] - data->lon[0])*(fact_lon);
+	data->WaypointsIN.h[i-1] = (data->alt[i] - data->alt[0])*(1/.3048);	
+}
+
+/*******		end of waypoint conversion			***********/
+
 void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 {   int i=0;
     int bytes_sent;
@@ -547,14 +478,14 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 			mavlink_msg_mission_count_decode( &msg, &mission_count);
 			printf("\n\n the # of wypts received is %d########\n\n",mission_count.count);
 			data->wcn=mission_count.count;
-			for(cn=0;cn<data->wcn;cn++)
+			for(cn=1;cn<=data->wcn;cn++)
 			{
 				//sendrequest(sock,cn);
 				memset(buf1, 0, BUFFER_LENGTH);
-				mavlink_msg_mission_request_pack(2, 200, &msg1,255,0,cn);
+				mavlink_msg_mission_request_pack(2, 200, &msg1,255,0,(cn-1));
 				len = mavlink_msg_to_send_buffer(buf1, &msg1);
 				bytes_sent = sendto(sock, buf1, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
-				printf("\n\n @@@@@ sent successfull\n\n");
+				//printf("\n\n @@@@@ sent successfull\n\n");
 				memset(buf2, 0, BUFFER_LENGTH);
 				//receive_waypoints(sock,cn);
 				while( (recsize1 = recvfrom(sock, (void *)buf2, BUFFER_LENGTH, 0, (struct sockaddr *)&gcAddr, &fromlen)) <= 0);
@@ -567,7 +498,7 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 		{
 			if (mavlink_parse_char(MAVLINK_COMM_0, buf2[ii], &msg2, &status1))
 			{
-				printf("\n\n reading waypoint # %d",cn);
+				printf("\n\n reading waypoint # %d",(cn-1));
 			}
 		}//if (msg2.msgid==0)
 			//goto loop;
@@ -575,13 +506,15 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 		{
 			mavlink_msg_mission_item_decode(&msg2, &mission_item);
 			printf("\n\nthe waypoint # %d is lat:%f lon:%f alt:%f",cn,mission_item.x,mission_item.y,mission_item.z);
-			data->WaypointsIN.n[cn]=mission_item.x;
-			data->WaypointsIN.h[cn] =mission_item.z;
-			data->WaypointsIN.v[cn] = mission_item.y;
+			data->lat[cn+1]=mission_item.x;
+			data->alt[cn+1] =mission_item.z;
+			data->lon[cn+1] = mission_item.y;
+			data->WaypointsIN.v[cn] = mission_item.param1;	
+			latlon(&ANN_EKF_NMPC_2_U,cn);	
 		}
 	}else printf("!!!!!!!!\n\n receiving failed \n\n "); 
-			}
-			if(cn == mission_count.count)
+			} 
+			if((cn-1) == mission_count.count)
 			{
 				//sendack(sock,cn);
 				mavlink_msg_mission_ack_pack(2, 200, &msg2,255,0,0);
@@ -593,7 +526,7 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 		}        // for msg id 44
 		if(msg.msgid ==  43)
 		{       
-			int j=0; 
+			int j; 
 			
 			//sendcn(sock,cn);
 			mavlink_msg_mission_count_pack(2, 200, &msg2,255,0,data->wcn);
@@ -601,11 +534,11 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 			len = mavlink_msg_to_send_buffer(buf2, &msg2);
 			bytes_sent = sendto(sock, buf2, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
 			memset(buf2, 0, BUFFER_LENGTH);
-			for(j=0; j<data->wcn;j++)
+			for(j=1; j<=data->wcn;j++)
 			{
 				//receive_request(sock);
 				//sendwyp(sock,-95,95);
-				mavlink_msg_mission_item_pack(2, 200, &msg2,255,0,j,0,16,0,1,.149999999999999994,0,0,0,data->WaypointsIN.n[j],data->WaypointsIN.v[j],data->WaypointsIN.h[j]);
+				mavlink_msg_mission_item_pack(2, 200, &msg2,255,0,(j-1),0,16,0,1,data->WaypointsIN.v[j],0,0,0,data->lat[j],data->lon[j],data->alt[j]);
 				len = mavlink_msg_to_send_buffer(buf2, &msg2);
 				bytes_sent = sendto(sock, buf2, len, 0, (struct sockaddr*)&gcAddr, sizeof(struct sockaddr_in));
 				printf("\n\n @@@@@ sent count successfull\n\n");
@@ -614,12 +547,12 @@ void Create_packets(ExtU_ANN_EKF_NMPC_2_T *data,int sock)
 		}// for msg id 43
 		}	//parse - if
 				}//for
-			}else printf("\n\n 12121212not good");//recsize - if
+			}//else printf("\n\n 12121212not good");//recsize - if
 		//	printf("\n");
 		
 		//memset(buf, 0, BUFFER_LENGTH);
 		
-		printf("\n\n !!!@@##$$ end of a loop\n\n");
+		//printf("\n\n !!!@@##$$ end of a loop\n\n");
 
 
 

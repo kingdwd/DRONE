@@ -956,7 +956,7 @@ VN_ERROR_CODE vn200_getInsSolutionEcef(
 	return VNERR_NO_ERROR;
 }
 
-/*VN_ERROR_CODE vn200_getInsStateLla(
+VN_ERROR_CODE vn200_getInsStateLla(
 	Vn200* vn200,
 	VnVector3* ypr,
 	VnVector3* lla,
@@ -979,8 +979,8 @@ VN_ERROR_CODE vn200_getInsSolutionEcef(
 		return errorCode;
 
 	result = strtok(vndevice_getResponseBuffer(&vn200->vndevice), delims);  /* Returns VNRRG */
-	/*result = strtok(0, delims);                            /* Returns register ID */
-	/*result = strtok(0, delims);
+	result = strtok(0, delims);                            /* Returns register ID */
+	result = strtok(0, delims);
 	if (result == NULL)
 		return VNERR_INVALID_VALUE;
 	ypr->c0 = atof(result);
@@ -1045,7 +1045,7 @@ VN_ERROR_CODE vn200_getInsSolutionEcef(
 		return VNERR_INVALID_VALUE;
 
 	return VNERR_NO_ERROR;
-}*/
+}
 
 VN_ERROR_CODE vn200_getInsStateEcef(
 	Vn200* vn200,

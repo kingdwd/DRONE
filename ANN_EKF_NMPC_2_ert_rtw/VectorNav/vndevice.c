@@ -1578,31 +1578,22 @@ VN_ERROR_CODE vndevice_transaction(
 	const char* cmdToSend,
 	const char* responseMatch)
 {
-	struct timespec start, end;double interval_sec = (double)1/20;
 	char packetTail[] = "*FF\r\n";
 	VN_ERROR_CODE errorCode;
 
 	vndevice->sensorError = 0;
-	//clock_gettime(CLOCK_REALTIME, &start);
+
 	/* We add one to the cmdToSend pointer to skip over the '$' at the beginning. */
 	/* We add one to the packetTail pointer so the "FF" string is overwritten with the checksum. */
 	vndevice_checksum_computeAndReturnAsHex(cmdToSend + 1, packetTail + 1);
 	
-	
 	vndevice_enableResponseChecking_threadSafe(vndevice, responseMatch);
-	
-	
+
 	vndevice_writeData_threadSafe(vndevice, cmdToSend, strlen(cmdToSend));
 	vndevice_writeData_threadSafe(vndevice, packetTail, strlen(packetTail));
-	
-	clock_gettime(CLOCK_REALTIME, &start);
-	//errorCode = vncp_event_waitFor(vndevice->waitForCommandResponseEvent, vndevice->timeout);
-	clock_gettime(CLOCK_REALTIME, &end);
-	uint64_t tmpdiff;
-	double remain_us;
-	tmpdiff = get_elapsed(&start, &end);
-	remain_us = (interval_sec * 1000000 - tmpdiff / 1000);
-	printf("\nVectornav checksum took %llu  us\n", tmpdiff/1000);
+
+	errorCode = vncp_event_waitFor(vndevice->waitForCommandResponseEvent, vndevice->timeout);
+
 	if (errorCode != VNERR_NO_ERROR)
 		return errorCode;
 
