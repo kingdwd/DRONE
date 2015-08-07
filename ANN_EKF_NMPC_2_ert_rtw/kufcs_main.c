@@ -119,10 +119,10 @@ int main(int argc, char *argv[])
   /* Get Servo deflection Data */
   InitOther(&ANN_EKF_NMPC_2_U);
   /* Initialize hardware */
-  //InitIMU(); /* vectornav */
+  InitIMU(); /* vectornav */
 
-  //InitSerial(); /* arduino */
-  //sock=InitMicroHard();
+  InitSerial(); /* arduino */
+  sock=InitMicroHard();
   clock_gettime(CLOCK_REALTIME, &start);
   iter =  0;
   while (1) {
@@ -130,18 +130,18 @@ int main(int argc, char *argv[])
 		uint64_t tmpdiff;
 
 		/* Get sensor data */
-	//	GetIMUData(&ANN_EKF_NMPC_2_U);
+		GetIMUData(&ANN_EKF_NMPC_2_U);
 		
 		/* Get Arduino Data */
-	//	GetSerialData(&ANN_EKF_NMPC_2_U); 
+		GetSerialData(&ANN_EKF_NMPC_2_U); 
 			
-		/* Step the model */
+	/* Step the model */
 		ANN_EKF_NMPC_2_step();
 		/* Output to the motor controller */
-	//	SendSerialData(&ANN_EKF_NMPC_2_Y); 
+		SendSerialData(&ANN_EKF_NMPC_2_Y); 
 		 /* Send MicroHard */
 		
-	//	Create_packets(&ANN_EKF_NMPC_2_U,sock);	
+		Create_packets(&ANN_EKF_NMPC_2_U,sock);	
 		/* Time book keeping */
 		clock_gettime(CLOCK_REALTIME, &end);
 		tmpdiff = get_elapsed(&start, &end);
@@ -167,7 +167,7 @@ int main(int argc, char *argv[])
 	rt_StopDataLogging(MATFILE, ANN_EKF_NMPC_2_M->rtwLogInfo);
 
   /* Disable rt_OneStep() here */
-/*  int cn=1;
+  int cn=1;
   for(cn;cn<=ANN_EKF_NMPC_2_U.wcn;cn++)
  {
 	fprintf(fp,"%d,%f,%f,%f,%f,%f,%f,%f\n",cn,ANN_EKF_NMPC_2_U.lat[cn],ANN_EKF_NMPC_2_U.lon[cn],ANN_EKF_NMPC_2_U.alt[cn],ANN_EKF_NMPC_2_U.WaypointsIN.n[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.e[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.h[cn-1],ANN_EKF_NMPC_2_U.WaypointsIN.v[cn]);
@@ -175,8 +175,8 @@ int main(int argc, char *argv[])
   /* Terminate model */
   ANN_EKF_NMPC_2_terminate();
   /* Close hardware */
-  //CloseIMU();	
-  //CloseSerial();
+  CloseIMU();	
+  CloseSerial();
   return 0;
 }
 
